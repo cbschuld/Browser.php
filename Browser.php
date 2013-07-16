@@ -583,7 +583,7 @@ class Browser {
 	    }
 	    else if( stripos($this->_agent,'opera') !== false ) {
 		    $resultant = stristr($this->_agent, 'opera');
-		    if( preg_match('/Version\/(10.*)$/',$resultant,$matches) ) {
+		    if( preg_match('/Version\/(1*.*)$/',$resultant,$matches) ) {
 			    $this->setVersion($matches[1]);
 		    }
 		    else if( preg_match('/\//',$resultant) ) {
@@ -595,10 +595,26 @@ class Browser {
 			    $aversion = explode(' ',stristr($resultant,'opera'));
 			    $this->setVersion(isset($aversion[1])?$aversion[1]:"");
 		    }
+		    if( stripos($this->_agent,'Opera Mobi') !== false ) {
+			    $this->setMobile(true);
+		    }
 		    $this->_browser_name = self::BROWSER_OPERA;
 		    return true;
 	    }
-		return false;
+	    else if( stripos($this->_agent,'OPR') !== false ) {
+		    $resultant = stristr($this->_agent, 'OPR');
+		    if( preg_match('/\//',$resultant) ) {
+			    $aresult = explode('/',str_replace("("," ",$resultant));
+			    $aversion = explode(' ',$aresult[1]);
+			    $this->setVersion($aversion[0]);
+		    }
+		    if( stripos($this->_agent,'Mobile') !== false ) {
+			    $this->setMobile(true);
+		    }
+		    $this->_browser_name = self::BROWSER_OPERA;
+		    return true;
+	    }
+	    return false;
     }
 
     /**
