@@ -627,6 +627,10 @@ class Browser {
 		    $aversion = explode(' ',$aresult[1]);
 		    $this->setVersion($aversion[0]);
 		    $this->setBrowser(self::BROWSER_CHROME);
+	    	//Chrome on Android
+		    if( stripos($this->_agent,'Android') !== false ) {
+		    	$this->setMobile(true);
+		    }
 		    return true;
 	    }
 	    return false;
