@@ -1,5 +1,5 @@
 {
-    "name": "cbschuld/Browser.php",
+    "name": "cbschuld/browser.php",
     "description": "",
     "version": "1.0.0",
     "keywords": ["browser", "user agent", "detection"],
