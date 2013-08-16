@@ -1,6 +1,8 @@
 Browser.php
 =============
 
+[![Build Status](https://travis-ci.org/cbschuld/Browser.php.png?branch=master)](https://travis-ci.org/cbschuld/Browser.php)
+
 Helps detect the user's browser and platform at the PHP level via the user agent
 
 
