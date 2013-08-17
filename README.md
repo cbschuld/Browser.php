@@ -26,103 +26,122 @@ Searching for a way to do this at the PHP layer and not at the client layer was 
 I based this solution off of Gary White.s original solution but added a few things:
 
 I added the ability to view the return values as class constants to increase the readability
-Updated the version detection for Amaya
-Updated the version detection for Firefox
-Updated the version detection for Lynx
-Updated the version detection for WebTV
-Updated the version detection for NetPositive
-Updated the version detection for IE
-Updated the version detection for OmniWeb
-Updated the version detection for iCab
-Updated the version detection for Safari
-Added detection for Chrome
-Added detection for iPhone
-Added detection for robots
-Added detection for mobile devices
-Added detection for BlackBerry
-Added detection for iPhone
-Added detection for iPad
-Added detection for Android
-Removed Netscape checks
-Updated Safari to remove mobile devices (iPhone)
-This solution identifies the following Operating Systems:
 
-Windows (Browser::PLATFORM_WINDOWS)
-Windows CE (Browser::PLATFORM_WINDOWS_CE)
-Apple (Browser::PLATFORM_APPLE)
-Linux (Browser::PLATFORM_LINUX)
-Android (Browser::PLATFORM_ANDROID)
-OS/2 (Browser::PLATFORM_OS2)
-BeOS (Browser::PLATFORM_BEOS)
-iPhone (Browser::PLATFORM_IPHONE)
-iPod (Browser::PLATFORM_IPOD)
-BlackBerry (Browser::PLATFORM_BLACKBERRY)
-FreeBSD (Browser::PLATFORM_FREEBSD)
-OpenBSD (Browser::PLATFORM_OPENBSD)
-NetBSD (Browser::PLATFORM_NETBSD)
-SunOS (Browser::PLATFORM_SUNOS)
-OpenSolaris (Browser::PLATFORM_OPENSOLARIS)
-iPad (Browser::PLATFORM_IPAD)
-This solution identifies the following Browsers and does a best-guess on the version:
+* Updated the version detection for Amaya
+* Updated the version detection for Firefox
+* Updated the version detection for Lynx
+* Updated the version detection for WebTV
+* Updated the version detection for NetPositive
+* Updated the version detection for IE
+* Updated the version detection for OmniWeb
+* Updated the version detection for iCab
+* Updated the version detection for Safari
+* Added detection for Chrome
+* Added detection for iPhone
+* Added detection for robots
+* Added detection for mobile devices
+* Added detection for BlackBerry
+* Added detection for iPhone
+* Added detection for iPad
+* Added detection for Android
+* Removed Netscape checks
+* Updated Safari to remove mobile devices (iPhone)
 
-Opera (Browser::BROWSER_OPERA)
-WebTV (Browser::BROWSER_WEBTV)
-NetPositive (Browser::BROWSER_NETPOSITIVE)
-Internet Explorer (Browser::BROWSER_IE)
-Pocket Internet Explorer (Browser::BROWSER_POCKET_IE)
-Galeon (Browser::BROWSER_GALEON)
-Konqueror (Browser::BROWSER_KONQUEROR)
-iCab (Browser::BROWSER_ICAB)
-OmniWeb (Browser::BROWSER_OMNIWEB)
-Phoenix (Browser::BROWSER_PHOENIX)
-Firebird (Browser::BROWSER_FIREBIRD)
-Firefox (Browser::BROWSER_FIREFOX)
-Mozilla (Browser::BROWSER_MOZILLA)
-Amaya (Browser::BROWSER_AMAYA)
-Lynx (Browser::BROWSER_LYNX)
-Safari (Browser::BROWSER_SAFARI)
-iPhone (Browser::BROWSER_IPHONE)
-iPod (Browser::BROWSER_IPOD)
-Google.s Android(Browser::BROWSER_ANDROID)
-Google.s Chrome(Browser::BROWSER_CHROME)
-GoogleBot(Browser::BROWSER_GOOGLEBOT)
-Yahoo!.s Slurp(Browser::BROWSER_SLURP)
-W3C.s Validator(Browser::BROWSER_W3CVALIDATOR)
-BlackBerry(Browser::BROWSER_BLACKBERRY)
-Typical Usage:
+**This solution identifies the following Operating Systems:**
 
+* Windows (Browser::PLATFORM_WINDOWS)
+* Windows CE (Browser::PLATFORM_WINDOWS_CE)
+* Apple (Browser::PLATFORM_APPLE)
+* Linux (Browser::PLATFORM_LINUX)
+* Android (Browser::PLATFORM_ANDROID)
+* OS/2 (Browser::PLATFORM_OS2)
+* BeOS (Browser::PLATFORM_BEOS)
+* iPhone (Browser::PLATFORM_IPHONE)
+* iPod (Browser::PLATFORM_IPOD)
+* BlackBerry (Browser::PLATFORM_BLACKBERRY)
+* FreeBSD (Browser::PLATFORM_FREEBSD)
+* OpenBSD (Browser::PLATFORM_OPENBSD)
+* NetBSD (Browser::PLATFORM_NETBSD)
+* SunOS (Browser::PLATFORM_SUNOS)
+* OpenSolaris (Browser::PLATFORM_OPENSOLARIS)
+* iPad (Browser::PLATFORM_IPAD)
+
+**This solution identifies the following Browsers and does a best-guess on the version:**
+
+* Opera (Browser::BROWSER_OPERA)
+* WebTV (Browser::BROWSER_WEBTV)
+* NetPositive (Browser::BROWSER_NETPOSITIVE)
+* Internet Explorer (Browser::BROWSER_IE)
+* Pocket Internet Explorer (Browser::BROWSER_POCKET_IE)
+* Galeon (Browser::BROWSER_GALEON)
+* Konqueror (Browser::BROWSER_KONQUEROR)
+* iCab (Browser::BROWSER_ICAB)
+* OmniWeb (Browser::BROWSER_OMNIWEB)
+* Phoenix (Browser::BROWSER_PHOENIX)
+* Firebird (Browser::BROWSER_FIREBIRD)
+* Firefox (Browser::BROWSER_FIREFOX)
+* Mozilla (Browser::BROWSER_MOZILLA)
+* Amaya (Browser::BROWSER_AMAYA)
+* Lynx (Browser::BROWSER_LYNX)
+* Safari (Browser::BROWSER_SAFARI)
+* iPhone (Browser::BROWSER_IPHONE)
+* iPod (Browser::BROWSER_IPOD)
+* Google.s Android(Browser::BROWSER_ANDROID)
+* Google.s Chrome(Browser::BROWSER_CHROME)
+* GoogleBot(Browser::BROWSER_GOOGLEBOT)
+* Yahoo!.s Slurp(Browser::BROWSER_SLURP)
+* W3C.s Validator(Browser::BROWSER_W3CVALIDATOR)
+* BlackBerry(Browser::BROWSER_BLACKBERRY)
+
+**Typical Usage:**
+
+```php
 $browser = new Browser();
 if( $browser->getBrowser() == Browser::BROWSER_FIREFOX && $browser->getVersion() >= 2 ) {
 	echo 'You have FireFox version 2 or greater';
 }
-12/9/2008 Update: removed an unused constant and renamed the constructor to use the PHP magic method __construct (thanks to Robin for locating the legacy constant and suggesting the use of the magic method).
+```
 
-2/19/2009 Update: updated typical usage to show a correct example! (thanks David!)
+12/9/2008 Update
+* removed an unused constant and renamed the constructor to use the PHP magic method __construct (thanks to Robin for locating the legacy constant and suggesting the use of the magic method).
 
-2/24/2009 Update: fixed typo in the usage! (thanks Adam!)
+2/19/2009 Update
+* updated typical usage to show a correct example! (thanks David!)
 
-3/14/2009 Update: added support for the iPod; added iPod and iPhone as platforms; added Google.s Android
+2/24/2009 Update
+* fixed typo in the usage! (thanks Adam!)
 
-4/22/2009 Update: added support for GoogleBot, the W3C Validator and Yahoo! Slurp
+3/14/2009 Update
+* added support for the iPod; added iPod and iPhone as platforms; added Google.s Android
 
-4/27/2009 Update: John pointed out a terrible typo (see below) . removed the typo
+4/22/2009 Update
+* added support for GoogleBot, the W3C Validator and Yahoo! Slurp
 
-11/08/2009 Update: A lot of changes to the script, thank you to everyone for the suggestions and emails. This release should add all of the requested features. Added BlackBerry, mobile detection, Opera Mini support, robot detection, Opera 10.s UserAgent .mess., detection for IceCat and Shiretoko!
+4/27/2009 Update
+* John pointed out a terrible typo (see below) . removed the typo
 
-3/7/2010 Update: Version 1.7 was a *MAJOR* Rebuild (preg_match and other .slow. routine removal(s)) included the following changes:
+11/08/2009 Update
+* A lot of changes to the script, thank you to everyone for the suggestions and emails. This release should add all of the requested features. Added BlackBerry, mobile detection, Opera Mini support, robot detection, Opera 10.s UserAgent .mess., detection for IceCat and Shiretoko!
 
-Almost allof Gary.s original code has been replaced
-Large PHPUNIT testing environment created to validate new releases and additions
-Added FreeBSD Platform
-Added OpenBSD Platform
-Added NetBSD Platform
-Added SunOS Platform
-Added OpenSolaris Platform
-Added support of the Iceweazel Browser
-Added isChromeFrame() call to check if chromeframe is in use
-Moved the Opera check in front of the Firefox check due to legacy Opera User Agents
-Added the __toString() method (Thanks Deano)
+3/7/2010 Update
+* Version 1.7 was a *MAJOR* Rebuild (preg_match and other .slow. routine removal(s)) included the following changes:
+* Almost allof Gary.s original code has been replaced
+* Large PHPUNIT testing environment created to validate new releases and additions
+* Added FreeBSD Platform
+* Added OpenBSD Platform
+* Added NetBSD Platform
+* Added SunOS Platform
+* Added OpenSolaris Platform
+* Added support of the Iceweazel Browser
+* Added isChromeFrame() call to check if chromeframe is in use
+* Moved the Opera check in front of the Firefox check due to legacy Opera User Agents
+* Added the __toString() method (Thanks Deano)
+
 4/27/2010: Update (Version 1.8)
-Added iPad support
+* Added iPad support
 
-8/20/2010: Update (Version 1.9) . Added MSN Explorer Browser, Added Bing/MSN Robot, Added the Android Platform, Fixed issue with Android 1.6/2.2
+8/20/2010: Update (Version 1.9)
+* Added MSN Explorer Browser
+* Added Bing/MSN Robot
+* Added the Android Platform
+* Fixed issue with Android 1.6/2.2
