@@ -566,7 +566,14 @@ class Browser
             $this->setBrowser(self::BROWSER_IE);
             $this->setVersion(str_replace(array('(', ')', ';'), '', $aresult[1]));
             return true;
-        } // Test for Pocket IE
+        } // explorer 11
+        else if (stripos($this->_agent, 'like Gecko') !== false && stripos($this->_agent, 'rv:') !== false){
+            // if we have like gecko with revision number we are probably in explorer 11 (looked over that list http://www.useragentstring.com/pages/All/)
+            preg_match('/rv:([^"]*)(\))/', $this->_agent, $aresult );
+            $this->setVersion($aresult[1]);
+            $this->setBrowser(self::BROWSER_IE);
+            return true;
+        }// Test for Pocket IE
         else if (stripos($this->_agent, 'mspie') !== false || stripos($this->_agent, 'pocket') !== false) {
             $aresult = explode(' ', stristr($this->_agent, 'mspie'));
             $this->setPlatform(self::PLATFORM_WINDOWS_CE);
