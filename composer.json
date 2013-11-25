@@ -1,5 +1,5 @@
 {
-    "name": "cbschuld/browser.php",
+    "name": "yapro/browser-detect",
     "description": "",
     "version": "1.0.0",
     "keywords": ["browser", "user agent", "detection"],
