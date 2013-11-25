@@ -566,7 +566,13 @@ class Browser
             $this->setBrowser(self::BROWSER_IE);
             $this->setVersion(str_replace(array('(', ')', ';'), '', $aresult[1]));
             return true;
-        } // Test for Pocket IE
+        } // Test for versions > IE 10
+		else if(stripos($this->_agent, 'trident') !== false) {
+			$this->setBrowser(self::BROWSER_IE);
+			$result = explode('rv:', $this->_agent);
+			$this->setVersion(preg_replace('/[^0-9.]+/', '', $result[1]));
+			$this->_agent = str_replace(array("Mozilla", "Gecko"), "MSIE", $this->_agent);
+		} // Test for Pocket IE
         else if (stripos($this->_agent, 'mspie') !== false || stripos($this->_agent, 'pocket') !== false) {
             $aresult = explode(' ', stristr($this->_agent, 'mspie'));
             $this->setPlatform(self::PLATFORM_WINDOWS_CE);
