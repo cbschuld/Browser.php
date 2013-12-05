@@ -655,7 +655,11 @@ class Browser
             $this->setBrowser(self::BROWSER_CHROME);
             //Chrome on Android
             if (stripos($this->_agent, 'Android') !== false) {
-                $this->setMobile(true);
+                if (stripos($this->_agent, 'Mobile') !== false) {
+                    $this->setMobile(true);
+                } else {
+                    $this->setTablet(true);
+                }
             }
             return true;
         }
@@ -864,6 +868,14 @@ class Browser
             if (preg_match("/Firefox[\/ \(]([^ ;\)]+)/i", $this->_agent, $matches)) {
                 $this->setVersion($matches[1]);
                 $this->setBrowser(self::BROWSER_FIREFOX);
+                //Firefox on Android
+                if (stripos($this->_agent, 'Android') !== false) {
+                    if (stripos($this->_agent, 'Mobile') !== false) {
+                        $this->setMobile(true);
+                    } else {
+                        $this->setTablet(true);
+                    }
+                }
                 return true;
             } else if (preg_match("/Firefox$/i", $this->_agent, $matches)) {
                 $this->setVersion("");
@@ -1096,7 +1108,11 @@ class Browser
             } else {
                 $this->setVersion(self::VERSION_UNKNOWN);
             }
-            $this->setMobile(true);
+            if (stripos($this->_agent, 'Mobile') !== false) {
+                $this->setMobile(true);
+            } else {
+                $this->setTablet(true);
+            }
             $this->setBrowser(self::BROWSER_ANDROID);
             return true;
         }
