@@ -83,7 +83,7 @@ class Browser
     const BROWSER_NOKIA = 'Nokia Browser'; // * all other WAP-based browsers on the Nokia Platform
     const BROWSER_MSN = 'MSN Browser'; // http://explorer.msn.com/
     const BROWSER_MSNBOT = 'MSN Bot'; // http://search.msn.com/msnbot.htm
-    // http://en.wikipedia.org/wiki/Msnbot  (used for Bing as well)
+    const BROWSER_BINGBOT = 'Bing Bot'; // http://en.wikipedia.org/wiki/Bingbot
 
     const BROWSER_NETSCAPE_NAVIGATOR = 'Netscape Navigator'; // http://browser.netscape.com/ (DEPRECATED)
     const BROWSER_GALEON = 'Galeon'; // http://galeon.sourceforge.net/ (DEPRECATED)
@@ -402,6 +402,7 @@ class Browser
             // common bots
             $this->checkBrowserGoogleBot() ||
             $this->checkBrowserMSNBot() ||
+            $this->checkBrowserBingBot() ||
             $this->checkBrowserSlurp() ||
 
             // check for facebook external hit when loading URL
@@ -489,6 +490,23 @@ class Browser
             $aversion = explode(" ", $aresult[1]);
             $this->setVersion(str_replace(";", "", $aversion[0]));
             $this->_browser_name = self::BROWSER_MSNBOT;
+            $this->setRobot(true);
+            return true;
+        }
+        return false;
+    }
+    
+    /**
+     * Determine if the browser is the BingBot or not (last updated 1.9)
+     * @return boolean True if the browser is the BingBot otherwise false
+     */
+    protected function checkBrowserBingBot()
+    {
+        if (stripos($this->_agent, "bingbot") !== false) {
+            $aresult = explode("/", stristr($this->_agent, "bingbot"));
+            $aversion = explode(" ", $aresult[1]);
+            $this->setVersion(str_replace(";", "", $aversion[0]));
+            $this->_browser_name = self::BROWSER_BINGBOT;
             $this->setRobot(true);
             return true;
         }
