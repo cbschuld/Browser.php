@@ -565,6 +565,9 @@ class Browser
             $aresult = explode(' ', stristr(str_replace(';', '; ', $this->_agent), 'msie'));
             $this->setBrowser(self::BROWSER_IE);
             $this->setVersion(str_replace(array('(', ')', ';'), '', $aresult[1]));
+            if(stripos($this->_agent, 'IEMobile') !== false) {
+                $this->setMobile(true);
+            }
             return true;
         } // Test for versions > IE 10
 		else if(stripos($this->_agent, 'trident') !== false) {
@@ -1038,6 +1041,7 @@ class Browser
         {
             $aversion = explode(' ',$aresult[1]);
             $this->setVersion($aversion[0]);
+            $this->setBrowser(self::BROWSER_CHROME);
             return true;
         }
         return false;
@@ -1050,11 +1054,11 @@ class Browser
     protected function checkBrowseriPhone() {
         if( stripos($this->_agent,'iPhone') !== false ) {
             $this->setVersion(self::VERSION_UNKNOWN);
+            $this->setBrowser(self::BROWSER_IPHONE);
             $this->getSafariVersionOnIos();
             $this->getChromeVersionOnIos();
             $this->checkForFacebookIos();
             $this->setMobile(true);
-            $this->setBrowser(self::BROWSER_IPHONE);
             return true;
         }
         return false;
@@ -1067,11 +1071,11 @@ class Browser
     protected function checkBrowseriPad() {
         if( stripos($this->_agent,'iPad') !== false ) {
             $this->setVersion(self::VERSION_UNKNOWN);
+            $this->setBrowser(self::BROWSER_IPAD);
             $this->getSafariVersionOnIos();
             $this->getChromeVersionOnIos();
             $this->checkForFacebookIos();
             $this->setTablet(true);
-            $this->setBrowser(self::BROWSER_IPAD);
             return true;
         }
         return false;
@@ -1084,11 +1088,11 @@ class Browser
     protected function checkBrowseriPod() {
         if( stripos($this->_agent,'iPod') !== false ) {
             $this->setVersion(self::VERSION_UNKNOWN);
+            $this->setBrowser(self::BROWSER_IPOD);
             $this->getSafariVersionOnIos();
             $this->getChromeVersionOnIos();
             $this->checkForFacebookIos();
             $this->setMobile(true);
-            $this->setBrowser(self::BROWSER_IPOD);
             return true;
         }
         return false;
