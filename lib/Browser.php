@@ -566,6 +566,7 @@ class Browser
             $this->setBrowser(self::BROWSER_IE);
             $this->setVersion(str_replace(array('(', ')', ';'), '', $aresult[1]));
             if(stripos($this->_agent, 'IEMobile') !== false) {
+                $this->setBrowser(self::BROWSER_POCKET_IE);
                 $this->setMobile(true);
             }
             return true;
