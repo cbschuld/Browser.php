@@ -83,7 +83,7 @@ class Browser
     const BROWSER_NOKIA = 'Nokia Browser'; // * all other WAP-based browsers on the Nokia Platform
     const BROWSER_MSN = 'MSN Browser'; // http://explorer.msn.com/
     const BROWSER_MSNBOT = 'MSN Bot'; // http://search.msn.com/msnbot.htm
-    // http://en.wikipedia.org/wiki/Msnbot  (used for Bing as well)
+    const BROWSER_BINGBOT = 'Bing Bot'; // http://en.wikipedia.org/wiki/Bingbot
 
     const BROWSER_NETSCAPE_NAVIGATOR = 'Netscape Navigator'; // http://browser.netscape.com/ (DEPRECATED)
     const BROWSER_GALEON = 'Galeon'; // http://galeon.sourceforge.net/ (DEPRECATED)
@@ -402,6 +402,7 @@ class Browser
             // common bots
             $this->checkBrowserGoogleBot() ||
             $this->checkBrowserMSNBot() ||
+            $this->checkBrowserBingBot() ||
             $this->checkBrowserSlurp() ||
 
             // check for facebook external hit when loading URL
@@ -494,6 +495,23 @@ class Browser
         }
         return false;
     }
+    
+    /**
+     * Determine if the browser is the BingBot or not (last updated 1.9)
+     * @return boolean True if the browser is the BingBot otherwise false
+     */
+    protected function checkBrowserBingBot()
+    {
+        if (stripos($this->_agent, "bingbot") !== false) {
+            $aresult = explode("/", stristr($this->_agent, "bingbot"));
+            $aversion = explode(" ", $aresult[1]);
+            $this->setVersion(str_replace(";", "", $aversion[0]));
+            $this->_browser_name = self::BROWSER_BINGBOT;
+            $this->setRobot(true);
+            return true;
+        }
+        return false;
+    }
 
     /**
      * Determine if the browser is the W3C Validator or not (last updated 1.7)
@@ -565,6 +583,10 @@ class Browser
             $aresult = explode(' ', stristr(str_replace(';', '; ', $this->_agent), 'msie'));
             $this->setBrowser(self::BROWSER_IE);
             $this->setVersion(str_replace(array('(', ')', ';'), '', $aresult[1]));
+            if(stripos($this->_agent, 'IEMobile') !== false) {
+                $this->setBrowser(self::BROWSER_POCKET_IE);
+                $this->setMobile(true);
+            }
             return true;
         } // Test for versions > IE 10
 		else if(stripos($this->_agent, 'trident') !== false) {
@@ -655,7 +677,11 @@ class Browser
             $this->setBrowser(self::BROWSER_CHROME);
             //Chrome on Android
             if (stripos($this->_agent, 'Android') !== false) {
-                $this->setMobile(true);
+                if (stripos($this->_agent, 'Mobile') !== false) {
+                    $this->setMobile(true);
+                } else {
+                    $this->setTablet(true);
+                }
             }
             return true;
         }
@@ -864,6 +890,14 @@ class Browser
             if (preg_match("/Firefox[\/ \(]([^ ;\)]+)/i", $this->_agent, $matches)) {
                 $this->setVersion($matches[1]);
                 $this->setBrowser(self::BROWSER_FIREFOX);
+                //Firefox on Android
+                if (stripos($this->_agent, 'Android') !== false) {
+                    if (stripos($this->_agent, 'Mobile') !== false) {
+                        $this->setMobile(true);
+                    } else {
+                        $this->setTablet(true);
+                    }
+                }
                 return true;
             } else if (preg_match("/Firefox$/i", $this->_agent, $matches)) {
                 $this->setVersion("");
@@ -1026,6 +1060,7 @@ class Browser
         {
             $aversion = explode(' ',$aresult[1]);
             $this->setVersion($aversion[0]);
+            $this->setBrowser(self::BROWSER_CHROME);
             return true;
         }
         return false;
@@ -1038,11 +1073,11 @@ class Browser
     protected function checkBrowseriPhone() {
         if( stripos($this->_agent,'iPhone') !== false ) {
             $this->setVersion(self::VERSION_UNKNOWN);
+            $this->setBrowser(self::BROWSER_IPHONE);
             $this->getSafariVersionOnIos();
             $this->getChromeVersionOnIos();
             $this->checkForFacebookIos();
             $this->setMobile(true);
-            $this->setBrowser(self::BROWSER_IPHONE);
             return true;
         }
         return false;
@@ -1055,11 +1090,11 @@ class Browser
     protected function checkBrowseriPad() {
         if( stripos($this->_agent,'iPad') !== false ) {
             $this->setVersion(self::VERSION_UNKNOWN);
+            $this->setBrowser(self::BROWSER_IPAD);
             $this->getSafariVersionOnIos();
             $this->getChromeVersionOnIos();
             $this->checkForFacebookIos();
             $this->setTablet(true);
-            $this->setBrowser(self::BROWSER_IPAD);
             return true;
         }
         return false;
@@ -1072,11 +1107,11 @@ class Browser
     protected function checkBrowseriPod() {
         if( stripos($this->_agent,'iPod') !== false ) {
             $this->setVersion(self::VERSION_UNKNOWN);
+            $this->setBrowser(self::BROWSER_IPOD);
             $this->getSafariVersionOnIos();
             $this->getChromeVersionOnIos();
             $this->checkForFacebookIos();
             $this->setMobile(true);
-            $this->setBrowser(self::BROWSER_IPOD);
             return true;
         }
         return false;
@@ -1096,7 +1131,11 @@ class Browser
             } else {
                 $this->setVersion(self::VERSION_UNKNOWN);
             }
-            $this->setMobile(true);
+            if (stripos($this->_agent, 'Mobile') !== false) {
+                $this->setMobile(true);
+            } else {
+                $this->setTablet(true);
+            }
             $this->setBrowser(self::BROWSER_ANDROID);
             return true;
         }
