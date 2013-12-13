@@ -533,6 +533,10 @@ class Browser
             $this->setVersion($aversion[0]);
             $this->_browser_name = self::BROWSER_W3CVALIDATOR;
             return true;
+        } else if (stripos($this->_agent, 'W3C-mobileOK') !== false) {
+            $this->_browser_name = self::BROWSER_W3CVALIDATOR;
+            $this->setMobile(true);
+            return true;
         }
         return false;
     }
