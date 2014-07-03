@@ -4,7 +4,7 @@
 /**
  * File: Browser.php
  * Author: Chris Schuld (http://chrisschuld.com/)
- * Last Modified: August 20th, 2010
+ * Last Modified: July 4th, 2014
  * @version 1.9
  * @package PegasusPHP
  *
@@ -565,9 +565,14 @@ class Browser
      */
     protected function checkBrowserInternetExplorer()
     {
-
+	//  Test for IE11
+	if( stripos($this->_agent,'Trident/7.0; rv:11.0') !== false ) {
+		$this->setBrowser(self::BROWSER_IE);
+		$this->setVersion('11.0');
+		return true;
+	}
         // Test for v1 - v1.5 IE
-        if (stripos($this->_agent, 'microsoft internet explorer') !== false) {
+        else if (stripos($this->_agent, 'microsoft internet explorer') !== false) {
             $this->setBrowser(self::BROWSER_IE);
             $this->setVersion('1.0');
             $aresult = stristr($this->_agent, '/');
