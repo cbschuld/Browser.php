@@ -4,8 +4,8 @@
 /**
  * File: Browser.php
  * Author: Chris Schuld (http://chrisschuld.com/)
- * Last Modified: July 4th, 2014
- * @version 1.9
+ * Last Modified: July 6th, 2014
+ * @version 2.0
  * @package PegasusPHP
  *
  * Copyright (C) 2008-2010 Chris Schuld  (chris@chrisschuld.com)
@@ -90,26 +90,146 @@ class Browser
     const BROWSER_NETPOSITIVE = 'NetPositive'; // http://en.wikipedia.org/wiki/NetPositive (DEPRECATED)
     const BROWSER_PHOENIX = 'Phoenix'; // http://en.wikipedia.org/wiki/History_of_Mozilla_Firefox (DEPRECATED)
 
-    const PLATFORM_UNKNOWN = 'unknown';
-    const PLATFORM_WINDOWS = 'Windows';
-    const PLATFORM_WINDOWS_CE = 'Windows CE';
-    const PLATFORM_APPLE = 'Apple';
-    const PLATFORM_LINUX = 'Linux';
-    const PLATFORM_OS2 = 'OS/2';
-    const PLATFORM_BEOS = 'BeOS';
-    const PLATFORM_IPHONE = 'iPhone';
-    const PLATFORM_IPOD = 'iPod';
-    const PLATFORM_IPAD = 'iPad';
-    const PLATFORM_BLACKBERRY = 'BlackBerry';
-    const PLATFORM_NOKIA = 'Nokia';
-    const PLATFORM_FREEBSD = 'FreeBSD';
-    const PLATFORM_OPENBSD = 'OpenBSD';
-    const PLATFORM_NETBSD = 'NetBSD';
-    const PLATFORM_SUNOS = 'SunOS';
-    const PLATFORM_OPENSOLARIS = 'OpenSolaris';
-    const PLATFORM_ANDROID = 'Android';
+    //PLATFORMS. Newly added obtained from http://user-agent-string.info/list-of-ua/os
+	const PLATFORM_UNKNOWN = 'unknown';
+	
+	//BLACKBERRY
+	const PLATFORM_BLACKBERRY = 'BlackBerry';
+	const PLATFORM_BLACKBERRY_TABLET_OS_1 = 'BlackBerry Tablet OS 1';
+	const PLATFORM_BLACKBERRY_TABLET_OS_2 = 'BlackBerry Tablet OS 2';
 
-    const OPERATING_SYSTEM_UNKNOWN = 'unknown';
+	//WINDOWS
+	const PLATFORM_WINDOWS = 'Windows';
+	const PLATFORM_WINDOWS_CE = 'Windows CE';
+	const PLATFORM_WINDOWS_8_1 = 'Windows 8.1';
+	const PLATFORM_WINDOWS_RT = 'Windows RT';
+	const PLATFORM_WINDOWS_8 = 'Windows 8';
+	const PLATFORM_WINDOWS_7 = 'Windows 7';
+	const PLATFORM_WINDOWS_VISTA = 'Windows Vista';
+	const PLATFORM_WINDOWS_SERVER = 'Windows 2003 Server';
+	const PLATFORM_WINDOWS_XP = 'Windows XP';
+	const PLATFORM_WINDOWS_2000 = 'Windows 2000';
+	const PLATFORM_WINDOWS_ME = 'Windows ME';
+	const PLATFORM_WINDOWS_98 = 'Windows 98';
+	const PLATFORM_WINDOWS_95 = 'Windows 95';
+	const PLATFORM_WINDOWS_3 = 'Windows 3';
+	const PLATFORM_WINDOWS_NT = 'Windows NT';
+	const PLATFORM_WINDOWS_MOBILE = 'Windows Mobile';
+	const PLATFORM_WINDOWS_PHONE_7 = 'Windows Phone 7';
+	const PLATFORM_WINDOWS_PHONE_8 = 'Windows Phone 8';
+	const PLATFORM_WINDOWS_PHONE_8_1 = 'Windows Phone 8.1';
+
+	//CONSOLES
+	const PLATFORM_XMB = 'XrossMediaBar (Playstation 3|Playstation Portable)';
+	const PLATFORM_LIVE_AREA = 'LiveArea (Playstation Vita)';
+	const PLATFORM_ORBIS = 'Orbis OS (Playstation 4)';
+	const PLATFORM_NINTENDO_DS = 'Nintendo DS';
+	const PLATFORM_NINTENDO_3DS = 'Nintendo 3DS';
+	const PLATFORM_NINTENDO_WII = 'Wii OS (Nintendo Wii)';
+	const PLATFORM_NINTENDO_WIIU = 'Wii U OS (Nintendo Wii U)';
+	const PLATFORM_XBOX = 'Xbox OS (Xbox (Original|360|One))';
+
+	//mobile
+	const PLATFORM_FIREFOX = 'FireFox OS';
+	const PLATFORM_TIZEN_1 = 'Tizen 1';
+	const PLATFORM_TIZEN_2 = 'Tizen 2';
+	const PLATFORM_WEBOS = 'WebOS';
+
+	//ANDROID
+	const PLATFORM_ANDROID = 'Android';
+	const PLATFORM_ANDROID_1 = 'Android 1';
+	const PLATFORM_ANDROID_1_5 = 'Android 1.5 Cupcake';
+	const PLATFORM_ANDROID_1_6 = 'Android 1.6 Donut';
+	const PLATFORM_ANDROID_2 = 'Android 2.0/1 Eclair';
+	const PLATFORM_ANDROID_2_2 = 'Android 2.2 Froyo';
+	const PLATFORM_ANDROID_2_3 = 'Android 2.3 Gingerbread';
+	const PLATFORM_ANDROID_3 = 'Android 3 Honeycomb';
+	const PLATFORM_ANDROID_4 = 'Android 4.0 Ice Cream Sandwich';
+	const PLATFORM_ANDROID_4_1 = 'Android 4.1 Jelly Bean';
+	const PLATFORM_ANDROID_4_2 = 'Android 4.2 Jelly Bean';
+	const PLATFORM_ANDROID_4_3 = 'Android 4.3 Jelly Bean';
+	const PLATFORM_ANDROID_4_4 = 'Android 4.4 KitKat';
+
+	//IOS
+	const PLATFORM_IOS = 'iOS';
+	const PLATFORM_IOS_4 = 'iOS 4';
+	const PLATFORM_IOS_5 = 'iOS 5';
+	const PLATFORM_IOS_6 = 'iOS 6';
+	const PLATFORM_IOS_7 = 'iOS 7';
+	const PLATFORM_IOS_8 = 'iOS 8';
+
+	//MAC OS
+	const PLATFORM_MAC = 'Mac OS';
+	const PLATFORM_MAC_X = 'Mac OS X';
+	const PLATFORM_MAC_X_10_3 = 'Mac OS X 10.3 Panther';
+	const PLATFORM_MAC_X_10_4 = 'Mac OS X 10.4 Tiger';
+	const PLATFORM_MAC_X_10_5 = 'Mac OS X 10.5 Leopard';
+	const PLATFORM_MAC_X_10_6 = 'Mac OS X 10.6 Snow Leopard';
+	const PLATFORM_MAC_X_10_7 = 'Mac OS X 10.7 Lion';
+	const PLATFORM_MAC_X_10_8 = 'Mac OS X 10.8 Mountain Lion';
+	const PLATFORM_MAC_X_10_9 = 'Mac OS X 10.9 Mavericks';
+	const PLATFORM_MAC_X_10_10 = 'Mac OS X 10.10 Yosemite';
+
+	//LINUX
+	const PLATFORM_LINUX = 'Linux';
+	const PLATFORM_LINUX_ARCH = 'Linux (Arch Linux)';
+	const PLATFORM_LINUX_CENTOS = 'Linux (CentOS)';
+	const PLATFORM_LINUX_DEBIAN = 'Linux (Debian)';
+	const PLATFORM_LINUX_FEDORA = 'Linux (Fedora)';
+	const PLATFORM_LINUX_GENTOO = 'Linux (Gentoo)';
+	const PLATFORM_LINUX_KANOTIX = 'Linux (Kanotix)';
+	const PLATFORM_LINUX_KNOPPIX = 'Linux (Knoppix)';
+	const PLATFORM_LINUX_LINSPIRE = 'Linux (Linspire)';
+	const PLATFORM_LINUX_MAEMO = 'Linux (Maemo)';
+	const PLATFORM_LINUX_MAGEIA = 'Linux (Mageia)';
+	const PLATFORM_LINUX_MANDRIVA = 'Linux (Mandriva)';
+	const PLATFORM_LINUX_MINT = 'Linux (Mint)';
+	const PLATFORM_LINUX_REDHAT = 'Linux (RedHat)';
+	const PLATFORM_LINUX_SLACKWARE = 'Linux (slackware)';
+	const PLATFORM_LINUX_SUSE = 'Linux (Suse)';
+	const PLATFORM_LINUX_UBUNTU = 'Linux (Ubuntu)';
+	const PLATFORM_LINUX_VECTOR = 'Linux (VectorLinux)';
+	const PLATFORM_LINUX_PCLINUX = 'Linux (PCLinuxOS)';
+
+	//other
+	const PLATFORM_AIX = 'AIX';
+	const PLATFORM_AMIGA = 'Amiga OS';
+	const PLATFORM_AROS = 'AROS';
+	const PLATFORM_BADA = 'Bada';
+	const PLATFORM_BEOS = 'BeOS';
+	const PLATFORM_BREW = 'Brew';
+	const PLATFORM_CROME = 'Crome OS';
+	const PLATFORM_DANGER_HIPTOP = 'Danger Hiptop';
+	const PLATFORM_DRAGONFLY_BSD = 'DragonFly BSD';
+	const PLATFORM_GNU = 'GNU OS';
+	const PLATFORM_HAIKU = 'Haiku OS';
+	const PLATFORM_HP = 'HP-UX';
+	const PLATFORM_INFERNO = 'Inferno OS';
+	const PLATFORM_IRIX = 'IRIX';
+	const PLATFORM_JOLI = 'Joli OS';
+	const PLATFORM_JVM = 'JVM (Java)';
+	const PLATFORM_MEEGO = 'MeeGo';
+	const PLATFORM_MINIX_3 = 'MINIX 3';
+	const PLATFORM_MORPHOS = 'MorphOs';
+	const PLATFORM_MSN_TV = 'MSN TV (WebTV)';
+	const PLATFORM_NETBSD = 'NetBSD';
+	const PLATFORM_OPENBSD = 'OpenBSD';
+	const PLATFORM_OPENVMS = 'OpenVMS';
+	const PLATFORM_OS2 = 'OS/2';
+	const PLATFORM_OS2_WARP = 'OS/2 Warp';
+	const PLATFORM_PALM = 'Palm OS';
+	const PLATFORM_QNX = 'QNX x86pc';
+	const PLATFORM_RISK = 'RISK OS';
+	const PLATFORM_SAILFISH = 'Sailfish';
+	const PLATFORM_SUNOS = 'Solaris';
+	const PLATFORM_SYLLABLE = 'Syllable';
+	const PLATFORM_SYMBIAN = 'Symbian OS';
+	const PLATFORM_UBUNTU_TOUCH = 'Ubuntu Touch';
+	const PLATFORM_FREEBSD = 'FreeBSD';
+	const PLATFORM_OPENSOLARIS = 'OpenSolaris';
+	const PLATFORM_NOKIA = 'Nokia';
+
+	const OPERATING_SYSTEM_UNKNOWN = 'unknown';
 
     public function Browser($userAgent = "")
     {
@@ -560,7 +680,7 @@ class Browser
     }
 
     /**
-     * Determine if the browser is Internet Explorer or not (last updated 1.7)
+     * Determine if the browser is Internet Explorer or not (last updated 1.9)
      * @return boolean True if the browser is Internet Explorer otherwise false
      */
     protected function checkBrowserInternetExplorer()
@@ -1152,80 +1272,153 @@ class Browser
     }
 
     /**
-     * Determine the user's platform (last updated 1.7)
+     * Determine the user's platform (last updated 2.0)
      */
-    protected function checkPlatform()
-    {
-        if (stripos($this->_agent, 'windows') !== false) 
-        {
-            $this->_platform = self::PLATFORM_WINDOWS;
-        } 
-        else if (stripos($this->_agent, 'iPad') !== false) 
-        {
-            $this->_platform = self::PLATFORM_IPAD;
-        } 
-        else if (stripos($this->_agent, 'iPod') !== false) 
-        {
-            $this->_platform = self::PLATFORM_IPOD;
-        } 
-        else if (stripos($this->_agent, 'iPhone') !== false) 
-        {
-            $this->_platform = self::PLATFORM_IPHONE;
-        } 
-        elseif (stripos($this->_agent, 'mac') !== false) 
-        {
-            $this->_platform = self::PLATFORM_APPLE;
-        } 
-        elseif (stripos($this->_agent, 'android') !== false) 
-        {
-            $this->_platform = self::PLATFORM_ANDROID;
-        } 
-        elseif (stripos($this->_agent, 'linux') !== false) 
-        {
-            $this->_platform = self::PLATFORM_LINUX;
-        } 
-        else if (stripos($this->_agent, 'Nokia') !== false) 
-        {
-            $this->_platform = self::PLATFORM_NOKIA;
-        } 
-        else if (stripos($this->_agent, 'BlackBerry') !== false) 
-        {
-            $this->_platform = self::PLATFORM_BLACKBERRY;
-        } 
-        elseif (stripos($this->_agent, 'FreeBSD') !== false) 
-        {
-            $this->_platform = self::PLATFORM_FREEBSD;
-        } 
-        elseif (stripos($this->_agent, 'OpenBSD') !== false) 
-        {
-            $this->_platform = self::PLATFORM_OPENBSD;
-        } 
-        elseif (stripos($this->_agent, 'NetBSD') !== false) 
-        {
-            $this->_platform = self::PLATFORM_NETBSD;
-        } 
-        elseif (stripos($this->_agent, 'OpenSolaris') !== false) 
-        {
-            $this->_platform = self::PLATFORM_OPENSOLARIS;
-        } 
-        elseif (stripos($this->_agent, 'SunOS') !== false) 
-        {
-            $this->_platform = self::PLATFORM_SUNOS;
-        } 
-        elseif (stripos($this->_agent, 'OS\/2') !== false) 
-        {
-            $this->_platform = self::PLATFORM_OS2;
-        } 
-        elseif (stripos($this->_agent, 'BeOS') !== false) 
-        {
-            $this->_platform = self::PLATFORM_BEOS;
-        } 
-        elseif (stripos($this->_agent, 'win') !== false) 
-        {
-            $this->_platform = self::PLATFORM_WINDOWS;
-        }
+    protected function checkPlatform(){
 
-    }
+		$os_array	=	array(
+							//android
+							'/android (4\.4|kitkat)/i'				=>	self::PLATFORM_ANDROID_4_4,
+							'/android 4\.3/i'						=>	self::PLATFORM_ANDROID_4_3,
+							'/android 4\.2/i'						=>	self::PLATFORM_ANDROID_4_2,
+							'/android (4\.1|jelly bean)/i'			=>	self::PLATFORM_ANDROID_4_1,
+							'/android (4\.0|ice cream sandwich)/i'	=>	self::PLATFORM_ANDROID_4,
+							'/android (3|honeycomb)/i'				=>	self::PLATFORM_ANDROID_3,
+							'/android (2\.3|gingerbread)/i'			=>	self::PLATFORM_ANDROID_2_3,
+							'/android (2\.2|froyo)/i'				=>	self::PLATFORM_ANDROID_2_2,
+							'/android (2\.(0|1)|eclair)/i'			=>	self::PLATFORM_ANDROID_2,
+							'/android (1\.6|donut)/i'				=>	self::PLATFORM_ANDROID_1_6,
+							'/android (1\.5|cupcake)/i'				=>	self::PLATFORM_ANDROID_1_5,
+							'/android 1\.0/i'						=>	self::PLATFORM_ANDROID_1,
+							'/android/i'							=>	self::PLATFORM_ANDROID,
+
+							//consoles
+							'/playstation (3|portable)/i'			=>	self::PLATFORM_XMB,
+							'/playstation vita/i'					=>	self::PLATFORM_LIVE_AREA,
+							'/playstation 4/i'						=>	self::PLATFORM_ORBIS,
+							'/nintendo 3ds/i'						=>	self::PLATFORM_NINTENDO_3DS,
+							'/nintendo ds/i'						=>	self::PLATFORM_NINTENDO_DS,
+							'/nintendo wiiu/i'						=>	self::PLATFORM_NINTENDO_WIIU,
+							'/nintendo wii/i'						=>	self::PLATFORM_NINTENDO_WII,
+							'/xbox|windows NT 6\.1; trident/i'		=>	self::PLATFORM_XBOX,
+
+							//windows
+							'/windows nt 6\.3/i'					=>	self::PLATFORM_WINDOWS_8_1,
+							'/windows nt 6\.2; arm; trident/i'		=>  self::PLATFORM_WINDOWS_RT,
+							'/windows nt 6\.2/i'					=>  self::PLATFORM_WINDOWS_8,
+							'/windows nt 6\.1/i'     				=>  self::PLATFORM_WINDOWS_7,
+							'/windows nt 6\.0/i'     				=>  self::PLATFORM_WINDOWS_VISTA,
+							'/windows nt 5\.2/i'     				=>  self::PLATFORM_WINDOWS_SERVER,
+							'/windows (nt 5\.1|xp)/i'     			=>  self::PLATFORM_WINDOWS_XP,
+							'/windows (nt 5\.0|2000)/i'     		=>  self::PLATFORM_WINDOWS_2000,
+							'/windows nt 4/i'						=>  self::PLATFORM_WINDOWS_NT,
+							'/windows ce/i'							=>  self::PLATFORM_WINDOWS_CE,
+							'/win98|windows[ _]98/i'				=>  self::PLATFORM_WINDOWS_98,
+							'/win95|windows[ _]95/i'				=>  self::PLATFORM_WINDOWS_95,
+							'/windows me|win 9x/i'					=>  self::PLATFORM_WINDOWS_ME,
+							'/win16|windows[ _]3/i'					=>  self::PLATFORM_WINDOWS_3,
+							'/windows phone os 7/i'					=>  self::PLATFORM_WINDOWS_PHONE_7,
+							'/windows phone 8.1/i'					=>  self::PLATFORM_WINDOWS_PHONE_8_1,
+							'/windows phone 8/i'					=>  self::PLATFORM_WINDOWS_PHONE_8,
+							'/windows (mobile|phone)/i'				=>  self::PLATFORM_WINDOWS_MOBILE,
+							'/win/i'								=>	self::PLATFORM_WINDOWS,
+
+							//IOS
+							'/os 8/i'            	 				=>  self::PLATFORM_IOS_8,
+							'/os 7/i'               				=>  self::PLATFORM_IOS_7,
+							'/os 6/i'            	 				=>  self::PLATFORM_IOS_6,
+							'/os 5/i'               				=>  self::PLATFORM_IOS_5,
+							'/os 4/i'               				=>  self::PLATFORM_IOS_4,
+							'/iphone/i'             				=>  self::PLATFORM_IOS,
+							'/ipod/i'               				=>  self::PLATFORM_IOS,
+							'/ipad/i'               				=>  self::PLATFORM_IOS,
+
+							//mac
+							'/mac os x 10[\._]10/i'					=>	self::PLATFORM_MAC_X_10_10,
+							'/mac os x 10[\._]9/i'					=>	self::PLATFORM_MAC_X_10_9,
+							'/mac os x 10[\._]8/i'					=>	self::PLATFORM_MAC_X_10_8,
+							'/mac os x 10[\._]7/i'					=>	self::PLATFORM_MAC_X_10_7,
+							'/mac os x 10[\._]6/i'					=>	self::PLATFORM_MAC_X_10_6,
+							'/mac os x 10[\._]5/i'					=>	self::PLATFORM_MAC_X_10_5,
+							'/mac os x 10[\._]4/i'					=>	self::PLATFORM_MAC_X_10_4,
+							'/mac os x 10[\._]3/i'					=>	self::PLATFORM_MAC_X_10_3,
+							'/macintosh|mac os x/i'					=>	self::PLATFORM_MAC_X,
+							'/macos/i'								=>	self::PLATFORM_MAC,
+
+							//Linux
+							'/pclinuxosx/i'							=>  self::PLATFORM_LINUX_PCLINUX,
+							'/vectorlinux/i'						=>  self::PLATFORM_LINUX_VECTOR,
+							'/ubuntu/i'								=>  self::PLATFORM_LINUX_UBUNTU,
+							'/suse/i'								=>  self::PLATFORM_LINUX_SUSE,
+							'/slackware/i'							=>  self::PLATFORM_LINUX_SLACKWARE,
+							'/red hat modified/i'					=>  self::PLATFORM_LINUX_REDHAT,
+							'/mint/i'								=>  self::PLATFORM_LINUX_MINT,
+							'/mandriva/i'							=>  self::PLATFORM_LINUX_MANDRIVA,
+							'/mageia/i'								=>  self::PLATFORM_LINUX_MAGEIA,
+							'/maemo/i'								=>  self::PLATFORM_LINUX_MAEMO,
+							'/linspire/i'							=>  self::PLATFORM_LINUX_LINSPIRE,
+							'/knoppix/i'							=>  self::PLATFORM_LINUX_KNOPPIX,
+							'/kanotix/i'							=>  self::PLATFORM_LINUX_KANOTIX,
+							'/gentoo/i'								=>  self::PLATFORM_LINUX_GENTOO,
+							'/fedora/i'								=>  self::PLATFORM_LINUX_FEDORA,
+							'/debian/i'								=>  self::PLATFORM_LINUX_DEBIAN,
+							'/centos/i'								=>  self::PLATFORM_LINUX_CENTOS,
+							'/arch linux/i'							=>  self::PLATFORM_LINUX_ARCH,
+							'/linux/i'								=>  self::PLATFORM_LINUX,
+
+							//other
+							'/rim tablet os 1/i'					=>	self::PLATFORM_BLACKBERRY_TABLET_OS_1,
+							'/rim tablet os 2/i'					=>	self::PLATFORM_BLACKBERRY_TABLET_OS_2,
+							'/blackberry/i'							=>	self::PLATFORM_BLACKBERRY,
+							'/freebsd/i'							=>	self::PLATFORM_FREEBSD,
+							'/openbsd/i'							=>	self::PLATFORM_OPENBSD,
+							'/netbsd/i'								=>	self::PLATFORM_NETBSD,
+							'/opensolaris/i'						=>	self::PLATFORM_OPENSOLARIS,
+							'/sunos/i'								=>	self::PLATFORM_SUNOS,
+							'/warp/i'								=>	self::PLATFORM_OS2_WARP,
+							'/os\/2/i'								=>	self::PLATFORM_OS2,
+							'/heiku/i'								=>	self::PLATFORM_HAIKU,
+							'/beos/i'								=>	self::PLATFORM_BEOS,
+							'/firefox\//i'							=>	self::PLATFORM_FIREFOX,
+							'/aix/i'								=>	self::PLATFORM_AIX,
+							'/amiga/i'								=>	self::PLATFORM_AMIGA,
+							'/aros/i'								=>	self::PLATFORM_AROS,
+							'/bada/i'								=>	self::PLATFORM_BADA,
+							'/brew/i'								=>	self::PLATFORM_BREW,
+							'/cros/i'								=>	self::PLATFORM_CROME,
+							'/danger hiptop/i'						=>	self::PLATFORM_DANGER_HIPTOP,
+							'/dragonfly/i'							=>	self::PLATFORM_DRAGONFLY_BSD,
+							'/gnu/i'								=>	self::PLATFORM_GNU,
+							'/hp-ux/i'								=>	self::PLATFORM_HP,
+							'/inferno/i'							=>	self::PLATFORM_INFERNO,
+							'/irix/i'								=>	self::PLATFORM_IRIX,
+							'/jolicloud/i'							=>	self::PLATFORM_JOLI,
+							'/java/i'								=>	self::PLATFORM_JVM,
+							'/meego/i'								=>	self::PLATFORM_MEEGO,
+							'/minix 3/i'							=>	self::PLATFORM_MINIX_3,
+							'/morphos/i'							=>	self::PLATFORM_MORPHOS,
+							'/webtv/i'								=>	self::PLATFORM_MSN_TV,
+							'/openvms/i'							=>	self::PLATFORM_OPENVMS,
+							'/palm os/i'							=>	self::PLATFORM_PALM,
+							'/qnx x86pc/i'							=>	self::PLATFORM_QNX,
+							'/risc os|risk os/i'					=>	self::PLATFORM_RISK,
+							'/sailfish/i'							=>	self::PLATFORM_SAILFISH,
+							'/syllable/i'							=>	self::PLATFORM_SYLLABLE,
+							'/symbos/i'								=>	self::PLATFORM_SYMBIAN,
+							'/tizen 2/i'							=>	self::PLATFORM_TIZEN_2,
+							'/tizen/i'								=>	self::PLATFORM_TIZEN_1,
+							'/ubuntu; (mobile|tablet)/i'			=>	self::PLATFORM_UBUNTU_TOUCH,
+							'/webos/i'								=>	self::PLATFORM_WEBOS,
+							'/nokia/i'								=>	self::PLATFORM_NOKIA,
+						);
+
+		foreach($os_array as $regex => $value){ 
+			if(preg_match($regex, $this->_agent)){
+				$this->_platform = $value;
+				return;
+			}
+		} 
+	}
 }
 
 ?>
