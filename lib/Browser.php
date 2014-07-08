@@ -602,7 +602,11 @@ class Browser
 			$this->setBrowser(self::BROWSER_IE);
 			$result = explode('rv:', $this->_agent);
 			$this->setVersion(preg_replace('/[^0-9.]+/', '', $result[1]));
-			$this->_agent = str_replace(array("Mozilla", "Gecko"), "MSIE", $this->_agent);
+            		if(stripos($this->_agent, 'IEMobile') !== false) {
+                		$this->setBrowser(self::BROWSER_POCKET_IE);
+                		$this->setMobile(true);
+            		}
+            		return true;
 		} // Test for Pocket IE
         else if (stripos($this->_agent, 'mspie') !== false || stripos($this->_agent, 'pocket') !== false) {
             $aresult = explode(' ', stristr($this->_agent, 'mspie'));
