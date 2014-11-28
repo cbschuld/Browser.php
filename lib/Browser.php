@@ -84,6 +84,8 @@ class Browser
     const BROWSER_MSN = 'MSN Browser'; // http://explorer.msn.com/
     const BROWSER_MSNBOT = 'MSN Bot'; // http://search.msn.com/msnbot.htm
     const BROWSER_BINGBOT = 'Bing Bot'; // http://en.wikipedia.org/wiki/Bingbot
+    const BROWSER_CURL = 'cURL'; // https://en.wikipedia.org/wiki/CURL
+    const BROWSER_WGET = 'Wget'; // https://en.wikipedia.org/wiki/Wget
 
     const BROWSER_NETSCAPE_NAVIGATOR = 'Netscape Navigator'; // http://browser.netscape.com/ (DEPRECATED)
     const BROWSER_GALEON = 'Galeon'; // http://galeon.sourceforge.net/ (DEPRECATED)
@@ -423,6 +425,8 @@ class Browser
             $this->checkBrowserIceCat() ||
             $this->checkBrowserIceweasel() || 
             $this->checkBrowserW3CValidator() ||
+            $this->checkBrowserCurl() ||
+            $this->checkBrowserWget() ||
             $this->checkBrowserMozilla() /* Mozilla is such an open standard that you must check it last */
         );
     }
@@ -581,12 +585,12 @@ class Browser
      */
     protected function checkBrowserInternetExplorer()
     {
-	//  Test for IE11
-	if( stripos($this->_agent,'Trident/7.0; rv:11.0') !== false ) {
-		$this->setBrowser(self::BROWSER_IE);
-		$this->setVersion('11.0');
-		return true;
-	}
+    //  Test for IE11
+    if( stripos($this->_agent,'Trident/7.0; rv:11.0') !== false ) {
+        $this->setBrowser(self::BROWSER_IE);
+        $this->setVersion('11.0');
+        return true;
+    }
         // Test for v1 - v1.5 IE
         else if (stripos($this->_agent, 'microsoft internet explorer') !== false) {
             $this->setBrowser(self::BROWSER_IE);
@@ -618,14 +622,14 @@ class Browser
                 return true;
             }
         } // Test for versions > IE 10
-		else if(stripos($this->_agent, 'trident') !== false) {
-			$this->setBrowser(self::BROWSER_IE);
-			$result = explode('rv:', $this->_agent);
+        else if(stripos($this->_agent, 'trident') !== false) {
+            $this->setBrowser(self::BROWSER_IE);
+            $result = explode('rv:', $this->_agent);
             if (isset($result[1])) {
                 $this->setVersion(preg_replace('/[^0-9.]+/', '', $result[1]));
                 $this->_agent = str_replace(array("Mozilla", "Gecko"), "MSIE", $this->_agent);
             }
-		} // Test for Pocket IE
+        } // Test for Pocket IE
         else if (stripos($this->_agent, 'mspie') !== false || stripos($this->_agent, 'pocket') !== false) {
             $aresult = explode(' ', stristr($this->_agent, 'mspie'));
             if (isset($aresult[1])) {
@@ -979,6 +983,40 @@ class Browser
                 $aversion = explode(' ', $aresult[1]);
                 $this->setVersion($aversion[0]);
                 $this->setBrowser(self::BROWSER_ICEWEASEL);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is Wget or not (last updated 1.7)
+     * @return boolean True if the browser is Wget otherwise false
+     */
+    protected function checkBrowserWget ()
+    {
+        if (preg_match("!^Wget/([^ ]+)!i", $this->_agent, $aresult))
+        {
+            $this->setVersion($aresult[1]);
+            $this->setBrowser(self::BROWSER_WGET);
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is cURL or not (last updated 1.7)
+     * @return boolean True if the browser is cURL otherwise false
+     */
+    protected function checkBrowserCurl ()
+    {
+        if (strpos($this->_agent, 'curl') === 0)
+        {
+            $aresult = explode('/', stristr($this->_agent, 'curl'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion($aversion[0]);
+                $this->setBrowser(self::BROWSER_CURL);
                 return true;
             }
         }
