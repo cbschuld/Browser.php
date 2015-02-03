@@ -266,7 +266,7 @@ class Browser {
 	*/
 	public function getVersion() { return $this->_version; }
 	
-	public function getVersionMajor() { return explode('.', $this->_version)[0]; }
+	public function getVersionMajor() { $v = explode('.', $this->_version); return isset($v[0]) ? $v[0] : false; }
 	public function getVersionMinor() { $v = explode('.', $this->_version); return isset($v[1]) ? $v[1] : false; }
 	public function getVersionBuild() { $v = explode('.', $this->_version); return isset($v[2]) ? $v[2] : false; }
 	public function getVersionRevision() { $v = explode('.', $this->_version); return isset($v[3]) ? $v[3] : false; }
