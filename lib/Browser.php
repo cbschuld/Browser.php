@@ -131,8 +131,6 @@
  *   Removed Netscape checks (matches heavily with firefox & mozilla)
  *
  */
-namespace app\components;
-
 
 class Browser {
 	private $_agent = '';
