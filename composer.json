@@ -14,5 +14,10 @@
     ],
     "autoload": {
         "files": ["lib/Browser.php"]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.95-dev"
+        }
     }
 }
