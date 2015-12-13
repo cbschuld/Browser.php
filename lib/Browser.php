@@ -83,6 +83,7 @@ class Browser
     const BROWSER_MSN = 'MSN Browser'; // http://explorer.msn.com/
     const BROWSER_MSNBOT = 'MSN Bot'; // http://search.msn.com/msnbot.htm
     const BROWSER_BINGBOT = 'Bing Bot'; // http://en.wikipedia.org/wiki/Bingbot
+    const BROWSER_EDGE = "Microsoft Edge"
 
     const BROWSER_NETSCAPE_NAVIGATOR = 'Netscape Navigator'; // http://browser.netscape.com/ (DEPRECATED)
     const BROWSER_GALEON = 'Galeon'; // http://galeon.sourceforge.net/ (DEPRECATED)
@@ -107,6 +108,7 @@ class Browser
     const PLATFORM_SUNOS = 'SunOS';
     const PLATFORM_OPENSOLARIS = 'OpenSolaris';
     const PLATFORM_ANDROID = 'Android';
+    const PLATFORM_WP = "Windows Phone"
 
     const OPERATING_SYSTEM_UNKNOWN = 'unknown';
 
@@ -644,6 +646,22 @@ class Browser
             }
         }
         return false;
+    }
+
+    protected function checkBrowserEdge()
+    {
+        if(preg_match('/\s+edge\//i', $this->_agent)) {
+            if(preg_match('/windows\s+phone/i', $this->_agent)) {
+                $this->setMobile(true)
+                $this->setPlatform(self::PLATFORM_WP)
+            }else {
+                $this->setMobile(false)
+                $this->setPlatform(self::PLATFORM_WINDOWS)
+            }
+            $v = explode('.', substr($this->_agent, strpos($this->_agent, 'Edge')+5))
+            $this->setVersion($v[0])
+            $this->setBrowser(self::BROWSER_EDGE)
+        }
     }
 
     /**
