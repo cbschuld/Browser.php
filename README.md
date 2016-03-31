@@ -27,6 +27,7 @@ I based this solution off of Gary White.s original solution but added a few thin
 
 I added the ability to view the return values as class constants to increase the readability
 
+* Added version detectionf for edge via [pixelbacon](https://github.com/pixelbacon)
 * Updated the version detection for Amaya
 * Updated the version detection for Firefox
 * Updated the version detection for Lynx
@@ -71,6 +72,7 @@ I added the ability to view the return values as class constants to increase the
 * Opera (Browser::BROWSER_OPERA)
 * WebTV (Browser::BROWSER_WEBTV)
 * NetPositive (Browser::BROWSER_NETPOSITIVE)
+* Edge (Browser::BROWSER_EDGE)
 * Internet Explorer (Browser::BROWSER_IE)
 * Pocket Internet Explorer (Browser::BROWSER_POCKET_IE)
 * Galeon (Browser::BROWSER_GALEON)

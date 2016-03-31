@@ -1,7 +1,7 @@
 {
     "name": "cbschuld/browser.php",
     "description": "",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": ["browser", "user agent", "detection"],
     "homepage": "http://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php.html",
     "license": "MIT",
