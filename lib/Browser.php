@@ -57,6 +57,7 @@ class Browser
     const BROWSER_WEBTV = 'WebTV'; // http://www.webtv.net/pc/
     const BROWSER_EDGE = 'Edge'; // https://www.microsoft.com/edge
     const BROWSER_IE = 'Internet Explorer'; // http://www.microsoft.com/ie/
+    const BROWSER_EDGE = 'Edge'; // https://www.microsoft.com/microsoft-edge
     const BROWSER_POCKET_IE = 'Pocket Internet Explorer'; // http://en.wikipedia.org/wiki/Internet_Explorer_Mobile
     const BROWSER_KONQUEROR = 'Konqueror'; // http://www.konqueror.org/
     const BROWSER_ICAB = 'iCab'; // http://www.icab.de/
@@ -385,6 +386,8 @@ class Browser
             //     before Safari
             // (5) Netscape 9+ is based on Firefox so Netscape checks
             //     before FireFox are necessary
+            // (6) Edge must be checkd before Chrome due of usage of
+            //     same Chrome user agent
             $this->checkBrowserWebTv() ||
             $this->checkBrowserEdge() ||
             $this->checkBrowserInternetExplorer() ||
@@ -392,6 +395,7 @@ class Browser
             $this->checkBrowserGaleon() ||
             $this->checkBrowserNetscapeNavigator9Plus() ||
             $this->checkBrowserFirefox() ||
+            $this->checkBrowserEdge() ||
             $this->checkBrowserChrome() ||
             $this->checkBrowserOmniWeb() ||
 
@@ -728,6 +732,32 @@ class Browser
             }
             $this->_browser_name = self::BROWSER_OPERA;
             return true;
+        }
+        return false;
+    }
+    
+    /**
+     * Determine if the browser is Edge or not (last updated 1.7)
+     * @return boolean True if the browser is Edge otherwise false
+     */
+    protected function checkBrowserEdge()
+    {
+        if (stripos($this->_agent, 'Edge') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'Edge'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion($aversion[0]);
+                $this->setBrowser(self::BROWSER_EDGE);
+                //Edge on Mobile
+                if (stripos($this->_agent, 'Android') !== false) {
+                    if (stripos($this->_agent, 'Mobile') !== false) {
+                        $this->setMobile(true);
+                    } else {
+                        $this->setTablet(true);
+                    }
+                }
+                return true;
+            }
         }
         return false;
     }
