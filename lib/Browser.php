@@ -84,6 +84,7 @@ class Browser
     const BROWSER_MSN = 'MSN Browser'; // http://explorer.msn.com/
     const BROWSER_MSNBOT = 'MSN Bot'; // http://search.msn.com/msnbot.htm
     const BROWSER_BINGBOT = 'Bing Bot'; // http://en.wikipedia.org/wiki/Bingbot
+    const BROWSER_VIVALDI = 'Vivalidi'; // https://vivaldi.com/
 
     const BROWSER_NETSCAPE_NAVIGATOR = 'Netscape Navigator'; // http://browser.netscape.com/ (DEPRECATED)
     const BROWSER_GALEON = 'Galeon'; // http://galeon.sourceforge.net/ (DEPRECATED)
@@ -385,12 +386,15 @@ class Browser
             //     before Safari
             // (5) Netscape 9+ is based on Firefox so Netscape checks
             //     before FireFox are necessary
+            // (6) Vivalid is UA contains both Firefox and Chrome so Vivalid checks
+            //     before Firefox and Chrome
             $this->checkBrowserWebTv() ||
             $this->checkBrowserEdge() ||
             $this->checkBrowserInternetExplorer() ||
             $this->checkBrowserOpera() ||
             $this->checkBrowserGaleon() ||
             $this->checkBrowserNetscapeNavigator9Plus() ||
+            $this->checkBrowserVivaldi() ||
             $this->checkBrowserFirefox() ||
             $this->checkBrowserChrome() ||
             $this->checkBrowserOmniWeb() ||
@@ -1226,6 +1230,24 @@ class Browser
             }
             $this->setBrowser(self::BROWSER_ANDROID);
             return true;
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is Vivaldi
+     * @return boolean True if the browser is Vivaldi otherwise false
+     */
+    protected function checkBrowserVivaldi()
+    {
+        if (stripos($this->_agent, 'Vivaldi') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'Vivaldi'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion($aversion[0]);
+                $this->setBrowser(self::BROWSER_VIVALDI);
+                return true;
+            }
         }
         return false;
     }
