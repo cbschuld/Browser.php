@@ -444,12 +444,12 @@ class Browser
             $this->checkBrowserIceweasel() ||
             $this->checkBrowserKonqueror() ||
             $this->checkBrowserLynx() ||
-            $this->checkBrowserMozilla() /* Mozilla is such an open standard that you must check it last */
+            $this->checkBrowserMozilla() || /* Mozilla is such an open standard that you must check it last */
             $this->checkBrowserNetPositive() ||
             $this->checkBrowserPhoenix() ||
             $this->checkBrowserPlayStation() ||
             $this->checkBrowserShiretoko() ||
-            $this->checkBrowserW3CValidator() ||
+            $this->checkBrowserW3CValidator()
         );
     }
 
