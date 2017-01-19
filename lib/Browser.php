@@ -405,29 +405,29 @@ class Browser
             //     before FireFox are necessary
             // (6) Vivalid is UA contains both Firefox and Chrome so Vivalid checks
             //     before Firefox and Chrome
-            $this->checkBrowserWebTv() ||
-            $this->checkBrowserEdge() ||
-            $this->checkBrowserInternetExplorer() ||
-            $this->checkBrowserOpera() ||
-            $this->checkBrowserGaleon() ||
-            $this->checkBrowserNetscapeNavigator9Plus() ||
-            $this->checkBrowserVivaldi() ||
-            $this->checkBrowserFirefox() ||
             $this->checkBrowserChrome() ||
+            $this->checkBrowserEdge() ||
+            $this->checkBrowserFirefox() ||
+            $this->checkBrowserGaleon() ||
+            $this->checkBrowserInternetExplorer() ||
+            $this->checkBrowserNetscapeNavigator9Plus() ||
             $this->checkBrowserOmniWeb() ||
+            $this->checkBrowserOpera() ||
+            $this->checkBrowserVivaldi() ||
+            $this->checkBrowserWebTv() ||
 
             // common mobile
             $this->checkBrowserAndroid() ||
-            $this->checkBrowseriPad() ||
-            $this->checkBrowseriPod() ||
-            $this->checkBrowseriPhone() ||
             $this->checkBrowserBlackBerry() ||
+            $this->checkBrowseriPad() ||
+            $this->checkBrowseriPhone() ||
+            $this->checkBrowseriPod() ||
             $this->checkBrowserNokia() ||
 
             // common bots
+            $this->checkBrowserBingBot() ||
             $this->checkBrowserGoogleBot() ||
             $this->checkBrowserMSNBot() ||
-            $this->checkBrowserBingBot() ||
             $this->checkBrowserSlurp() ||
 
             // check for facebook external hit when loading URL
@@ -437,19 +437,19 @@ class Browser
             $this->checkBrowserSafari() ||
 
             // everyone else
-            $this->checkBrowserNetPositive() ||
-            $this->checkBrowserFirebird() ||
-            $this->checkBrowserKonqueror() ||
-            $this->checkBrowserIcab() ||
-            $this->checkBrowserPhoenix() ||
             $this->checkBrowserAmaya() ||
-            $this->checkBrowserLynx() ||
-            $this->checkBrowserShiretoko() ||
+            $this->checkBrowserFirebird() ||
+            $this->checkBrowserIcab() ||
             $this->checkBrowserIceCat() ||
             $this->checkBrowserIceweasel() ||
-            $this->checkBrowserW3CValidator() ||
-            $this->checkBrowserPlayStation() ||
+            $this->checkBrowserKonqueror() ||
+            $this->checkBrowserLynx() ||
             $this->checkBrowserMozilla() /* Mozilla is such an open standard that you must check it last */
+            $this->checkBrowserNetPositive() ||
+            $this->checkBrowserPhoenix() ||
+            $this->checkBrowserPlayStation() ||
+            $this->checkBrowserShiretoko() ||
+            $this->checkBrowserW3CValidator() ||
         );
     }
 
