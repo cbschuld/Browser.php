@@ -653,6 +653,15 @@ class Browser
                     else if($aresult[1] == '5.0'){
                         $this->setVersion('9.0');
                     }
+                    else if($aresult[1] == '6.0'){
+                        $this->setVersion('10.0');
+                    }
+                    else if($aresult[1] == '7.0'){
+                        $this->setVersion('11.0');
+                    }
+                    else if($aresult[1] == '8.0'){
+                        $this->setVersion('11.0');
+                    }
                 }
                 if(stripos($this->_agent, 'IEMobile') !== false) {
                     $this->setBrowser(self::BROWSER_POCKET_IE);
