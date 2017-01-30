@@ -643,6 +643,17 @@ class Browser
             if (isset($aresult[1])) {
                 $this->setBrowser(self::BROWSER_IE);
                 $this->setVersion(str_replace(array('(', ')', ';'), '', $aresult[1]));
+                if(preg_match('#trident/([0-9\.]+);#i', $this->_agent, $aresult)){
+                    if($aresult[1] == '3.1'){
+                        $this->setVersion('7.0');
+                    }
+                    else if($aresult[1] == '4.0'){
+                        $this->setVersion('8.0');
+                    }
+                    else if($aresult[1] == '5.0'){
+                        $this->setVersion('9.0');
+                    }
+                }
                 if(stripos($this->_agent, 'IEMobile') !== false) {
                     $this->setBrowser(self::BROWSER_POCKET_IE);
                     $this->setMobile(true);
