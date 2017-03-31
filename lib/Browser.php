@@ -1514,8 +1514,8 @@ class Browser
     }
 
     /**
-     * Determine if the browser is Vivaldi
-     * @return boolean True if the browser is Vivaldi otherwise false
+     * Determine if the browser is Yandex
+     * @return boolean True if the browser is Yandex otherwise false
      */
     protected function checkBrowserYandex()
     {
