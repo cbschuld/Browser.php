@@ -1,5 +1,5 @@
 {
-    "name": "cbschuld/browser.php",
+    "name": "basselin/browser.php",
     "description": "",
     "version": "1.0.1",
     "keywords": ["browser", "user agent", "detection"],
@@ -13,7 +13,7 @@
         }
     ],
     "autoload": {
-        "files": ["lib/Browser.php"]
+        "classmap": ["lib/Browser.php"]
     },
     "extra": {
         "branch-alias": {
