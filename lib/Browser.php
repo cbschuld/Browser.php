@@ -75,6 +75,20 @@ class Browser
     const BROWSER_CHROME = 'Chrome'; // http://www.google.com/chrome
     const BROWSER_ANDROID = 'Android'; // http://www.android.com/
     const BROWSER_GOOGLEBOT = 'GoogleBot'; // http://en.wikipedia.org/wiki/Googlebot
+
+    const BROWSER_YANDEXBOT = 'YandexBot'; // http://yandex.com/bots
+    const BROWSER_YANDEXIMAGERESIZER_BOT = 'YandexImageResizer'; // http://yandex.com/bots
+    const BROWSER_YANDEXIMAGES_BOT = 'YandexImages'; // http://yandex.com/bots
+    const BROWSER_YANDEXVIDEO_BOT = 'YandexVideo'; // http://yandex.com/bots
+    const BROWSER_YANDEXMEDIA_BOT = 'YandexMedia'; // http://yandex.com/bots
+    const BROWSER_YANDEXBLOGS_BOT = 'YandexBlogs'; // http://yandex.com/bots
+    const BROWSER_YANDEXFAVICONS_BOT = 'YandexFavicons'; // http://yandex.com/bots
+    const BROWSER_YANDEXWEBMASTER_BOT = 'YandexWebmaster'; // http://yandex.com/bots
+    const BROWSER_YANDEXDIRECT_BOT = 'YandexDirect'; // http://yandex.com/bots
+    const BROWSER_YANDEXMETRIKA_BOT = 'YandexMetrika'; // http://yandex.com/bots
+    const BROWSER_YANDEXNEWS_BOT = 'YandexNews'; // http://yandex.com/bots
+    const BROWSER_YANDEXCATALOG_BOT = 'YandexCatalog'; // http://yandex.com/bots
+
     const BROWSER_SLURP = 'Yahoo! Slurp'; // http://en.wikipedia.org/wiki/Yahoo!_Slurp
     const BROWSER_W3CVALIDATOR = 'W3C Validator'; // http://validator.w3.org/
     const BROWSER_BLACKBERRY = 'BlackBerry'; // http://www.blackberry.com/
@@ -85,6 +99,7 @@ class Browser
     const BROWSER_MSNBOT = 'MSN Bot'; // http://search.msn.com/msnbot.htm
     const BROWSER_BINGBOT = 'Bing Bot'; // http://en.wikipedia.org/wiki/Bingbot
     const BROWSER_VIVALDI = 'Vivalidi'; // https://vivaldi.com/
+    const BROWSER_YANDEX = 'Yandex'; // https://browser.yandex.ua/
 
     const BROWSER_NETSCAPE_NAVIGATOR = 'Netscape Navigator'; // http://browser.netscape.com/ (DEPRECATED)
     const BROWSER_GALEON = 'Galeon'; // http://galeon.sourceforge.net/ (DEPRECATED)
@@ -397,6 +412,7 @@ class Browser
             $this->checkBrowserGaleon() ||
             $this->checkBrowserNetscapeNavigator9Plus() ||
             $this->checkBrowserVivaldi() ||
+            $this->checkBrowserYandex() ||
             $this->checkBrowserFirefox() ||
             $this->checkBrowserChrome() ||
             $this->checkBrowserOmniWeb() ||
@@ -414,6 +430,20 @@ class Browser
             $this->checkBrowserMSNBot() ||
             $this->checkBrowserBingBot() ||
             $this->checkBrowserSlurp() ||
+
+            // Yandex bots
+            $this->checkBrowserYandexBot() ||
+            $this->checkBrowserYandexImageResizerBot() ||
+            $this->checkBrowserYandexBlogsBot() ||
+            $this->checkBrowserYandexCatalogBot() ||
+            $this->checkBrowserYandexDirectBot() ||
+            $this->checkBrowserYandexFaviconsBot() ||
+            $this->checkBrowserYandexImagesBot() ||
+            $this->checkBrowserYandexMediaBot() ||
+            $this->checkBrowserYandexMetrikaBot() ||
+            $this->checkBrowserYandexNewsBot() ||
+            $this->checkBrowserYandexVideoBot() ||
+            $this->checkBrowserYandexWebmasterBot() ||
 
             // check for facebook external hit when loading URL
             $this->checkFacebookExternalHit() ||
@@ -489,6 +519,234 @@ class Browser
                 $aversion = explode(' ', $aresult[1]);
                 $this->setVersion(str_replace(';', '', $aversion[0]));
                 $this->_browser_name = self::BROWSER_GOOGLEBOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexBot or not
+     * @return boolean True if the browser is the YandexBot otherwise false
+     */
+    protected function checkBrowserYandexBot()
+    {
+        if (stripos($this->_agent, 'YandexBot') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexBot'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXBOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexImageResizer or not
+     * @return boolean True if the browser is the YandexImageResizer otherwise false
+     */
+    protected function checkBrowserYandexImageResizerBot()
+    {
+        if (stripos($this->_agent, 'YandexImageResizer') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexImageResizer'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXIMAGERESIZER_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexCatalog or not
+     * @return boolean True if the browser is the YandexCatalog otherwise false
+     */
+    protected function checkBrowserYandexCatalogBot()
+    {
+        if (stripos($this->_agent, 'YandexCatalog') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexCatalog'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXCATALOG_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexNews or not
+     * @return boolean True if the browser is the YandexNews otherwise false
+     */
+    protected function checkBrowserYandexNewsBot()
+    {
+        if (stripos($this->_agent, 'YandexNews') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexNews'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXNEWS_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexMetrika or not
+     * @return boolean True if the browser is the YandexMetrika otherwise false
+     */
+    protected function checkBrowserYandexMetrikaBot()
+    {
+        if (stripos($this->_agent, 'YandexMetrika') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexMetrika'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXMETRIKA_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexDirect or not
+     * @return boolean True if the browser is the YandexDirect otherwise false
+     */
+    protected function checkBrowserYandexDirectBot()
+    {
+        if (stripos($this->_agent, 'YandexDirect') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexDirect'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXDIRECT_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexWebmaster or not
+     * @return boolean True if the browser is the YandexWebmaster otherwise false
+     */
+    protected function checkBrowserYandexWebmasterBot()
+    {
+        if (stripos($this->_agent, 'YandexWebmaster') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexWebmaster'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXWEBMASTER_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexFavicons or not
+     * @return boolean True if the browser is the YandexFavicons otherwise false
+     */
+    protected function checkBrowserYandexFaviconsBot()
+    {
+        if (stripos($this->_agent, 'YandexFavicons') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexFavicons'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXFAVICONS_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexBlogs or not
+     * @return boolean True if the browser is the YandexBlogs otherwise false
+     */
+    protected function checkBrowserYandexBlogsBot()
+    {
+        if (stripos($this->_agent, 'YandexBlogs') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexBlogs'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXBLOGS_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexMedia or not
+     * @return boolean True if the browser is the YandexMedia otherwise false
+     */
+    protected function checkBrowserYandexMediaBot()
+    {
+        if (stripos($this->_agent, 'YandexMedia') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexMedia'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXMEDIA_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexVideo or not
+     * @return boolean True if the browser is the YandexVideo otherwise false
+     */
+    protected function checkBrowserYandexVideoBot()
+    {
+        if (stripos($this->_agent, 'YandexVideo') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexVideo'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXVIDEO_BOT;
+                $this->setRobot(true);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is the YandexImages or not
+     * @return boolean True if the browser is the YandexImages otherwise false
+     */
+    protected function checkBrowserYandexImagesBot()
+    {
+        if (stripos($this->_agent, 'YandexImages') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YandexImages'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion(str_replace(';', '', $aversion[0]));
+                $this->_browser_name = self::BROWSER_YANDEXIMAGES_BOT;
                 $this->setRobot(true);
                 return true;
             }
@@ -1252,6 +1510,34 @@ class Browser
                 return true;
             }
         }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is Yandex
+     * @return boolean True if the browser is Yandex otherwise false
+     */
+    protected function checkBrowserYandex()
+    {
+        if (stripos($this->_agent, 'YaBrowser') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'YaBrowser'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion($aversion[0]);
+                $this->setBrowser(self::BROWSER_YANDEX);
+
+                if (stripos($this->_agent, 'iPad') !== false) {
+                    $this->setTablet(true);
+                } elseif (stripos($this->_agent, 'Mobile') !== false) {
+                    $this->setMobile(true);
+                } elseif (stripos($this->_agent, 'Android') !== false) {
+                    $this->setTablet(true);
+                }
+
+                return true;
+            }
+        }
+
         return false;
     }
 
