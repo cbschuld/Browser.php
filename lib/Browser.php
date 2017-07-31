@@ -90,6 +90,10 @@ class Browser
     const BROWSER_NETPOSITIVE = 'NetPositive'; // http://en.wikipedia.org/wiki/NetPositive (DEPRECATED)
     const BROWSER_PHOENIX = 'Phoenix'; // http://en.wikipedia.org/wiki/History_of_Mozilla_Firefox (DEPRECATED)
     const BROWSER_PLAYSTATION = "PlayStation";
+    const BROWSER_SAMSUNG = "SamsungBrowser";
+    const BROWSER_SILK = "Silk";
+    const BROWSER_I_FRAME = "Iframely";
+    const BROWSER_COCOA = "CocoaRestClient";
 
     const PLATFORM_UNKNOWN = 'unknown';
     const PLATFORM_WINDOWS = 'Windows';
@@ -112,6 +116,13 @@ class Browser
     const PLATFORM_PLAYSTATION = "Sony PlayStation";
     const PLATFORM_ROKU = "Roku";
     const PLATFORM_APPLE_TV = "Apple TV";
+    const PLATFORM_TERMINAL = "Terminal";
+    const PLATFORM_FIRE_OS = "Fire OS";
+    const PLATFORM_SMART_TV = "SMART-TV";
+    const PLATFORM_CHROME_OS = "Chrome OS";
+    const PLATFORM_JAVA_ANDROID = "Java/Android";
+    const PLATFORM_POSTMAN = "Postman";
+    const PLATFORM_I_FRAME = "Iframely";
 
     const OPERATING_SYSTEM_UNKNOWN = 'unknown';
 
@@ -420,6 +431,8 @@ class Browser
             $this->checkFacebookExternalHit() ||
 
             // WebKit base check (post mobile and others)
+            $this->checkBrowserSamsung() ||
+            $this->checkBrowserSilk() ||
             $this->checkBrowserSafari() ||
 
             // everyone else
@@ -435,6 +448,8 @@ class Browser
             $this->checkBrowserIceweasel() ||
             $this->checkBrowserW3CValidator() ||
             $this->checkBrowserPlayStation() ||
+            $this->checkBrowserIframely() ||
+            $this->checkBrowserCocoa() ||
             $this->checkBrowserMozilla() /* Mozilla is such an open standard that you must check it last */
 
 
@@ -1102,6 +1117,71 @@ class Browser
         return false;
     }
 
+    protected function checkBrowserSamsung()
+    {
+        if (stripos($this->_agent, 'SamsungBrowser') !== false) {
+
+            $aresult = explode('/', stristr($this->_agent, 'SamsungBrowser'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion($aversion[0]);
+            } else {
+                $this->setVersion(self::VERSION_UNKNOWN);
+            }
+            $this->setBrowser(self::BROWSER_SAMSUNG);
+            return true;
+        }
+        return false;
+    }
+
+    protected function checkBrowserSilk()
+    {
+        if (stripos($this->_agent, 'Silk') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'Silk'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion($aversion[0]);
+            } else {
+                $this->setVersion(self::VERSION_UNKNOWN);
+            }
+            $this->setBrowser(self::BROWSER_SILK);
+            return true;
+        }
+        return false;
+    }
+
+    protected function checkBrowserIframely()
+    {
+        if (stripos($this->_agent, 'Iframely') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'Iframely'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion($aversion[0]);
+            } else {
+                $this->setVersion(self::VERSION_UNKNOWN);
+            }
+            $this->setBrowser(self::BROWSER_I_FRAME);
+            return true;
+        }
+        return false;
+    }
+
+    protected function checkBrowserCocoa()
+    {
+        if (stripos($this->_agent, 'CocoaRestClient') !== false) {
+            $aresult = explode('/', stristr($this->_agent, 'CocoaRestClient'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion($aversion[0]);
+            } else {
+                $this->setVersion(self::VERSION_UNKNOWN);
+            }
+            $this->setBrowser(self::BROWSER_COCOA);
+            return true;
+        }
+        return false;
+    }
+
     /**
      * Detect if URL is loaded from FacebookExternalHit
      * @return boolean True if it detects FacebookExternalHit otherwise false
@@ -1296,6 +1376,10 @@ class Browser
             $this->_platform = self::PLATFORM_APPLE;
         } elseif (stripos($this->_agent, 'android') !== false) {
             $this->_platform = self::PLATFORM_ANDROID;
+        } elseif (stripos($this->_agent, 'Silk') !== false) {
+            $this->_platform = self::PLATFORM_FIRE_OS;
+        } elseif (stripos($this->_agent, 'linux') !== false && stripos($this->_agent, 'SMART-TV') !== false ) {
+            $this->_platform = self::PLATFORM_LINUX .'/'.self::PLATFORM_SMART_TV;
         } elseif (stripos($this->_agent, 'linux') !== false) {
             $this->_platform = self::PLATFORM_LINUX;
         } else if (stripos($this->_agent, 'Nokia') !== false) {
@@ -1326,6 +1410,16 @@ class Browser
             $this->_platform = self::PLATFORM_IPHONE . '/' . self::PLATFORM_IPAD;
         } elseif (stripos($this->_agent, 'tvOS') !== false) {
             $this->_platform = self::PLATFORM_APPLE_TV;
+        } elseif (stripos($this->_agent, 'curl') !== false) {
+            $this->_platform = self::PLATFORM_TERMINAL;
+        } elseif (stripos($this->_agent, 'CrOS') !== false) {
+            $this->_platform = self::PLATFORM_CHROME_OS;
+        } elseif (stripos($this->_agent, 'okhttp') !== false) {
+            $this->_platform = self::PLATFORM_JAVA_ANDROID;
+        } elseif (stripos($this->_agent, 'PostmanRuntime') !== false) {
+            $this->_platform = self::PLATFORM_POSTMAN;
+        } elseif (stripos($this->_agent, 'Iframely') !== false) {
+            $this->_platform = self::PLATFORM_I_FRAME;
         }
 
     }
