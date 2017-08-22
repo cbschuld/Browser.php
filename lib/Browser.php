@@ -74,6 +74,8 @@ class Browser
     const BROWSER_CHROME = 'Chrome'; // http://www.google.com/chrome
     const BROWSER_ANDROID = 'Android'; // http://www.android.com/
     const BROWSER_GOOGLEBOT = 'GoogleBot'; // http://en.wikipedia.org/wiki/Googlebot
+    const BROWSER_TWITTER = 'Twitter';
+	const BROWSER_APACHE_CLIENT = 'Apache Client';
 
     const BROWSER_YANDEXBOT = 'YandexBot'; // http://yandex.com/bots
     const BROWSER_YANDEXIMAGERESIZER_BOT = 'YandexImageResizer'; // http://yandex.com/bots
@@ -138,6 +140,10 @@ class Browser
     const PLATFORM_JAVA_ANDROID = "Java/Android";
     const PLATFORM_POSTMAN = "Postman";
     const PLATFORM_I_FRAME = "Iframely";
+    const PLATFORM_FACEBOOK = 'Facebook Platform';
+	const PLATFORM_GOOGLE_API = 'Google API';
+	const PLATFORM_TWITTERBOOT = 'Twitter Boot';
+	const PLATFORM_APACHE = 'Apache';
 
     const OPERATING_SYSTEM_UNKNOWN = 'unknown';
 
@@ -384,6 +390,20 @@ class Browser
             "<strong>Browser Version:</strong> {$this->getVersion()}<br/>\n" .
             "<strong>Browser User Agent String:</strong> {$this->getUserAgent()}<br/>\n" .
             "<strong>Platform:</strong> {$this->getPlatform()}<br/>";
+    }
+    
+    /**
+	* UPDATE: Ivijan-Stefan Stipic
+    * Returns a formatted array with a all informations of the browser.
+    * @return array with a all informations of the browser
+    */
+	public function __toArray() {
+        return array(
+			'browser'			=>	$this->getBrowser(),
+			'version'			=>	$this->getVersion(),
+			'user_agent'		=>	$this->getUserAgent(),
+			'platform'			=>	$this->getPlatform()
+		);
     }
 
     /**
@@ -971,6 +991,45 @@ class Browser
                 return true;
             }
         }
+        /* 
+			UPDATE: Ivijan-Stefan Stipic
+			-Test versions for IE8,9,10,11...
+			-Facebook, Google, Twitter platforms
+		*/
+		else if( stripos($this->_agent,'trident') !== false && stripos($this->_agent,'windows') !== false && stripos($this->_agent,'rv') !== false ) {
+            $aversion = explode(' ',stristr($this->_agent,'rv:'));
+            $this->setVersion(str_replace('rv:','',$aversion[0]));
+            $this->setBrowser(self::BROWSER_IE);
+            return true;
+        }
+		else if( stripos($this->_agent,'facebook') !== false && stripos($this->_agent,'externalhit') !== false) {
+            $aversion = explode(' ',stristr($this->_agent,'facebookexternalhit/'));
+			$this->setPlatform(self::PLATFORM_FACEBOOK);
+            $this->setVersion(str_replace('facebookexternalhit/','',$aversion[0]));
+            $this->setBrowser(self::BROWSER_FACEBOOK);
+            return true;
+        }
+		else if( stripos($this->_agent,'Google-HTTP-Java-Client') !== false) {
+            $aversion = explode(' ',stristr($this->_agent,'Google-HTTP-Java-Client/'));
+			$this->setPlatform(self::PLATFORM_GOOGLE_API);
+            $this->setVersion(str_replace('Google-HTTP-Java-Client/','',$aversion[0]));
+            $this->setBrowser(self::BROWSER_GOOGLEBOT);
+            return true;
+        }
+		else if( stripos($this->_agent,'Twitterbot') !== false) {
+            $aversion = explode('/',$this->_agent);
+			$this->setPlatform(self::PLATFORM_TWITTERBOOT);
+            $this->setVersion($aversion[1]);
+            $this->setBrowser(self::BROWSER_TWITTER);
+            return true;
+        }
+		else if( stripos($this->_agent,'Jakarta') !== false && stripos($this->_agent,'HttpClient') !== false ) {
+            $aversion = explode('/',$this->_agent);
+			$this->setPlatform(self::PLATFORM_APACHE);
+            $this->setVersion($aversion[1]);
+            $this->setBrowser(self::BROWSER_APACHE_CLIENT);
+            return true;
+        }
         return false;
     }
 
@@ -1018,13 +1077,17 @@ class Browser
             return true;
         } else if (stripos($this->_agent, 'OPR') !== false) {
             $resultant = stristr($this->_agent, 'OPR');
-            if (preg_match('/\//', $resultant)) {
+            if( preg_match('/Version\/(10.*)$/',$resultant,$matches) ) {
+                $this->setVersion($matches[1]);
+            }
+            else if (preg_match('/\//', $resultant)) {
                 $aresult = explode('/', str_replace("(", " ", $resultant));
                 if (isset($aresult[1])) {
                     $aversion = explode(' ', $aresult[1]);
                     $this->setVersion($aversion[0]);
                 }
-            }
+            }  
+            
             if (stripos($this->_agent, 'Mobile') !== false) {
                 $this->setMobile(true);
             }
@@ -1726,7 +1789,9 @@ class Browser
             $this->_platform = self::PLATFORM_POSTMAN;
         } elseif (stripos($this->_agent, 'Iframely') !== false) {
             $this->_platform = self::PLATFORM_I_FRAME;
-        }
+        } else {
+			$this->_platform = self::PLATFORM_UNKNOWN;
+		}
 
     }
 }
