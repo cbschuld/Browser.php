@@ -12,7 +12,7 @@
         }
     ],
     "autoload": {
-        "files": ["lib/Browser.php"]
+        "classmap": ["lib/Browser.php"]
     },
     "extra": {
         "branch-alias": {
