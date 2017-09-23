@@ -97,7 +97,7 @@ class Browser
     const BROWSER_MSN = 'MSN Browser'; // http://explorer.msn.com/
     const BROWSER_MSNBOT = 'MSN Bot'; // http://search.msn.com/msnbot.htm
     const BROWSER_BINGBOT = 'Bing Bot'; // http://en.wikipedia.org/wiki/Bingbot
-    const BROWSER_VIVALDI = 'Vivalidi'; // https://vivaldi.com/
+    const BROWSER_VIVALDI = 'Vivaldi'; // https://vivaldi.com/
     const BROWSER_YANDEX = 'Yandex'; // https://browser.yandex.ua/
 
     const BROWSER_NETSCAPE_NAVIGATOR = 'Netscape Navigator'; // http://browser.netscape.com/ (DEPRECATED)
@@ -415,7 +415,7 @@ class Browser
             //     before Safari
             // (5) Netscape 9+ is based on Firefox so Netscape checks
             //     before FireFox are necessary
-            // (6) Vivalid is UA contains both Firefox and Chrome so Vivalid checks
+            // (6) Vivaldi is UA contains both Firefox and Chrome so Vivaldi checks
             //     before Firefox and Chrome
             $this->checkBrowserWebTv() ||
             $this->checkBrowserEdge() ||
