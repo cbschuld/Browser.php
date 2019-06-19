@@ -147,3 +147,10 @@ if( $browser->getBrowser() == Browser::BROWSER_FIREFOX && $browser->getVersion()
 * Added Bing/MSN Robot
 * Added the Android Platform
 * Fixed issue with Android 1.6/2.2
+
+6/19/2019: Update (Version 1.9.1)
+* Added Firefox iOS (gejobj)
+* Corrected 'Vivalidi' to 'Vivaldi' (adaxi)
+* Reset enhancement (yahasana)
+* Enforce using precise distribution until End Of Life for Travis CI (bburnichon)
+* Lazy load browser class on demand (bburnichon)
