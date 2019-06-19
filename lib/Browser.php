@@ -1288,6 +1288,18 @@ class Browser
                 $this->setBrowser(self::BROWSER_FIREFOX);
                 return true;
             }
+        } elseif ( preg_match("/FxiOS[\/ \(]([^ ;\)]+)/i", $this->_agent, $matches) ) {
+            $this->setVersion($matches[1]);
+            $this->setBrowser(self::BROWSER_FIREFOX);
+            //Firefox on Android
+            if (stripos($this->_agent, 'Android') !== false) {
+                if (stripos($this->_agent, 'Mobile') !== false) {
+                    $this->setMobile(true);
+                } else {
+                    $this->setTablet(true);
+                }
+            }
+            return true;
         }
         return false;
     }
