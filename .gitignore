@@ -1,2 +1,4 @@
 .idea
 vendor
+.phpunit.result.cache
+/phpunit.xml
