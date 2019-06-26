@@ -1,0 +1,990 @@
+Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16	Browser	Opera	12.16	Linux	Linux		
+Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14	Browser	Opera	12.14	Windows	Windows Vista		
+Mozilla/5.0 (Windows NT 6.0; rv:2.0) Gecko/20100101 Firefox/4.0 Opera 12.14	Browser	Opera	12.14	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0) Opera 12.14	Browser	Opera	12.14	Windows	Windows Vista		
+Opera/12.80 (Windows NT 5.1; U; en) Presto/2.10.289 Version/12.02	Browser	Opera	12.02	Windows	Windows XP		
+Opera/9.80 (Windows NT 6.1; U; es-ES) Presto/2.9.181 Version/12.00	Browser	Opera	12	Windows	Windows 7		
+Opera/9.80 (Windows NT 5.1; U; zh-sg) Presto/2.9.181 Version/12.00	Browser	Opera	12	Windows	Windows XP		
+Opera/12.0(Windows NT 5.2;U;en)Presto/22.9.168 Version/12.00	Browser	Opera	12	Windows	Windows Server 2003		
+Opera/12.0(Windows NT 5.1;U;en)Presto/22.9.168 Version/12.00	Browser	Opera	12	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/14.0 Opera/12.0	Browser	Opera	12	Windows	Windows XP		
+Opera/9.80 (Windows NT 6.1; WOW64; U; pt) Presto/2.10.229 Version/11.62	Browser	Opera	11.62	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.0; U; pl) Presto/2.10.229 Version/11.62	Browser	Opera	11.62	Windows	Windows Vista		
+Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; fr) Presto/2.9.168 Version/11.52	Browser	Opera	11.52	Macintosh	OS X	Snow Leopard	10.6.8
+Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; de) Presto/2.9.168 Version/11.52	Browser	Opera	11.52	Macintosh	OS X	Snow Leopard	10.6.8
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.9.168 Version/11.51	Browser	Opera	11.51	Windows	Windows XP		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; de) Opera 11.51	Browser	Opera	11.51	Windows	Windows 7		
+Opera/9.80 (X11; Linux x86_64; U; fr) Presto/2.9.168 Version/11.50	Browser	Opera	11.5	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; hu) Presto/2.9.168 Version/11.50	Browser	Opera	11.5	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; ru) Presto/2.8.131 Version/11.11	Browser	Opera	11.11	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; es-ES) Presto/2.8.131 Version/11.11	Browser	Opera	11.11	Linux	Linux		
+Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.1) Gecko/20061208 Firefox/5.0 Opera 11.11	Browser	Opera	11.11	Windows	Windows XP		
+Opera/9.80 (X11; Linux x86_64; U; bg) Presto/2.8.131 Version/11.10	Browser	Opera	11.1	Linux	Linux		
+Opera/9.80 (Windows NT 6.0; U; en) Presto/2.8.99 Version/11.10	Browser	Opera	11.1	Windows	Windows Vista		
+Opera/9.80 (Windows NT 5.1; U; zh-tw) Presto/2.8.131 Version/11.10	Browser	Opera	11.1	Windows	Windows XP		
+Opera/9.80 (Windows NT 6.1; Opera Tablet/15165; U; en) Presto/2.8.149 Version/11.1	Browser	Opera	11.1	Windows	Windows 7		
+Opera/9.80 (X11; Linux x86_64; U; Ubuntu/10.10 (maverick); pl) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; ja) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; fr) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Linux	Linux		
+Opera/9.80 (Windows NT 6.1; U; zh-tw) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; sv) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; en-US) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; cs) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.0; U; pl) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows Vista		
+Opera/9.80 (Windows NT 5.2; U; ru) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows Server 2003		
+Opera/9.80 (Windows NT 5.1; U;) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows XP		
+Opera/9.80 (Windows NT 5.1; U; cs) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows XP		
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101213 Opera/9.80 (Windows NT 6.1; U; zh-tw) Presto/2.7.62 Version/11.01	Browser	Opera	11.01	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; U; nl; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 11.01	Browser	Opera	11.01	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; U; de; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 11.01	Browser	Opera	11.01	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; de) Opera 11.01	Browser	Opera	11.01	Windows	Windows 7		
+Opera/9.80 (X11; Linux x86_64; U; pl) Presto/2.7.62 Version/11.00	Browser	Opera	11	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; it) Presto/2.7.62 Version/11.00	Browser	Opera	11	Linux	Linux		
+Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.6.37 Version/11.00	Browser	Opera	11	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; pl) Presto/2.7.62 Version/11.00	Browser	Opera	11	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; ko) Presto/2.7.62 Version/11.00	Browser	Opera	11	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; fi) Presto/2.7.62 Version/11.00	Browser	Opera	11	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; en-GB) Presto/2.7.62 Version/11.00	Browser	Opera	11	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1 x64; U; en) Presto/2.7.62 Version/11.00	Browser	Opera	11	Windows	Windows NT		
+Opera/9.80 (Windows NT 6.0; U; en) Presto/2.7.39 Version/11.00	Browser	Opera	11	Windows	Windows Vista		
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.7.39 Version/11.00	Browser	Opera	11	Windows	Windows XP		
+Opera/9.80 (Windows NT 5.1; U; MRA 5.5 (build 02842); ru) Presto/2.7.62 Version/11.00	Browser	Opera	11	Windows	Windows XP		
+Opera/9.80 (Windows NT 5.1; U; it) Presto/2.7.62 Version/11.00	Browser	Opera	11	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 6.0; U; ja; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 11.00	Browser	Opera	11	Windows	Windows Vista		
+Mozilla/5.0 (Windows NT 5.1; U; pl; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 11.00	Browser	Opera	11	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; de; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 11.00	Browser	Opera	11	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 8.0; X11; Linux x86_64; pl) Opera 11.00	Browser	Opera	11	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; fr) Opera 11.00	Browser	Opera	11	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; ja) Opera 11.00	Browser	Opera	11	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; en) Opera 11.00	Browser	Opera	11	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; pl) Opera 11.00	Browser	Opera	11	Windows	Windows XP		
+Opera/9.80 (Windows NT 6.1; U; pl) Presto/2.6.31 Version/10.70	Browser	Opera	10.7	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 5.2; U; ru; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.70	Browser	Opera	10.7	Windows	Windows Server 2003		
+Mozilla/5.0 (Windows NT 5.1; U; zh-cn; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.70	Browser	Opera	10.7	Windows	Windows XP		
+Opera/9.80 (Windows NT 5.2; U; zh-cn) Presto/2.6.30 Version/10.63	Browser	Opera	10.63	Windows	Windows Server 2003		
+Opera/9.80 (Windows NT 5.2; U; en) Presto/2.6.30 Version/10.63	Browser	Opera	10.63	Windows	Windows Server 2003		
+Opera/9.80 (Windows NT 5.1; U; MRA 5.6 (build 03278); ru) Presto/2.6.30 Version/10.63	Browser	Opera	10.63	Windows	Windows XP		
+Opera/9.80 (Windows NT 5.1; U; pl) Presto/2.6.30 Version/10.62	Browser	Opera	10.62	Windows	Windows XP		
+Mozilla/5.0 (X11; Linux x86_64; U; de; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.62	Browser	Opera	10.62	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 8.0; X11; Linux x86_64; de) Opera 10.62	Browser	Opera	10.62	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; en) Opera 10.62	Browser	Opera	10.62	Windows	Windows 7		
+Opera/9.80 (X11; Linux i686; U; pl) Presto/2.6.30 Version/10.61	Browser	Opera	10.61	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; es-ES) Presto/2.6.30 Version/10.61	Browser	Opera	10.61	Linux	Linux		
+Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.6.30 Version/10.61	Browser	Opera	10.61	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; en) Presto/2.6.30 Version/10.61	Browser	Opera	10.61	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.0; U; it) Presto/2.6.30 Version/10.61	Browser	Opera	10.61	Windows	Windows Vista		
+Opera/9.80 (Windows NT 5.2; U; ru) Presto/2.6.30 Version/10.61	Browser	Opera	10.61	Windows	Windows Server 2003		
+Opera/9.80 (Windows 98; U; de) Presto/2.6.30 Version/10.61	Browser	Opera	10.61	Windows	Windows 98		
+Opera/9.80 (Macintosh; Intel Mac OS X; U; nl) Presto/2.6.30 Version/10.61	Browser	Opera	10.61	Macintosh	OS X		
+Opera/9.80 (X11; Linux i686; U; en) Presto/2.5.27 Version/10.60	Browser	Opera	10.6	Linux	Linux		
+Opera/9.80 (Windows NT 6.0; U; nl) Presto/2.6.30 Version/10.60	Browser	Opera	10.6	Windows	Windows Vista		
+Opera/10.60 (Windows NT 5.1; U; zh-cn) Presto/2.6.30 Version/10.60	Browser	Opera	10.6	Windows	Windows XP		
+Opera/10.60 (Windows NT 5.1; U; en-US) Presto/2.6.30 Version/10.60	Browser	Opera	10.6	Windows	Windows XP		
+Opera/9.80 (X11; Linux i686; U; it) Presto/2.5.24 Version/10.54	Browser	Opera	10.54	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; en-GB) Presto/2.5.24 Version/10.53	Browser	Opera	10.53	Linux	Linux		
+Mozilla/5.0 (Windows NT 5.1; U; zh-cn; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.53	Browser	Opera	10.53	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; Firefox/5.0; en; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.53	Browser	Opera	10.53	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; Firefox/4.5; en; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.53	Browser	Opera	10.53	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; Firefox/3.5; en; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.53	Browser	Opera	10.53	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; ko) Opera 10.53	Browser	Opera	10.53	Windows	Windows XP		
+Opera/9.80 (Windows NT 6.1; U; fr) Presto/2.5.24 Version/10.52	Browser	Opera	10.52	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; en) Presto/2.5.22 Version/10.51	Browser	Opera	10.51	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.0; U; cs) Presto/2.5.22 Version/10.51	Browser	Opera	10.51	Windows	Windows Vista		
+Opera/9.80 (Windows NT 5.2; U; ru) Presto/2.5.22 Version/10.51	Browser	Opera	10.51	Windows	Windows Server 2003		
+Opera/9.80 (Linux i686; U; en) Presto/2.5.22 Version/10.51	Browser	Opera	10.51	Linux	Linux		
+Mozilla/5.0 (Windows NT 6.1; U; en-GB; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.51	Browser	Opera	10.51	Windows	Windows 7		
+Mozilla/5.0 (Linux i686; U; en; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.51	Browser	Opera	10.51	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 8.0; Linux i686; en) Opera 10.51	Browser	Opera	10.51	Linux	Linux		
+Opera/9.80 (Windows NT 6.1; U; zh-tw) Presto/2.5.22 Version/10.50	Browser	Opera	10.5	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.5.22 Version/10.50	Browser	Opera	10.5	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; sk) Presto/2.6.22 Version/10.50	Browser	Opera	10.5	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; ja) Presto/2.5.22 Version/10.50	Browser	Opera	10.5	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.0; U; zh-cn) Presto/2.5.22 Version/10.50	Browser	Opera	10.5	Windows	Windows Vista		
+Opera/9.80 (Windows NT 5.1; U; sk) Presto/2.5.22 Version/10.50	Browser	Opera	10.5	Windows	Windows XP		
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.5.22 Version/10.50	Browser	Opera	10.5	Windows	Windows XP		
+Opera/10.50 (Windows NT 6.1; U; en-GB) Presto/2.2.2	Browser	Opera	10.5	Windows	Windows 7		
+Opera/9.80 (S60; SymbOS; Opera Tablet/9174; U; en) Presto/2.7.81 Version/10.5	Browser	Opera	10.5	SymbOS	SymbOS		
+Opera/9.80 (X11; U; Linux i686; en-US; rv:1.9.2.3) Presto/2.2.15 Version/10.10	Browser	Opera	10.1	Linux	Linux		
+Opera/9.80 (X11; Linux x86_64; U; it) Presto/2.2.15 Version/10.10	Browser	Opera	10.1	Linux	Linux		
+Opera/9.80 (Windows NT 6.1; U; de) Presto/2.2.15 Version/10.10	Browser	Opera	10.1	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.0; U; Gecko/20100115; pl) Presto/2.2.15 Version/10.10	Browser	Opera	10.1	Windows	Windows Vista		
+Opera/9.80 (Windows NT 6.0; U; en) Presto/2.2.15 Version/10.10	Browser	Opera	10.1	Windows	Windows Vista		
+Opera/9.80 (Windows NT 5.1; U; de) Presto/2.2.15 Version/10.10	Browser	Opera	10.1	Windows	Windows XP		
+Opera/9.80 (Windows NT 5.1; U; cs) Presto/2.2.15 Version/10.10	Browser	Opera	10.1	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 6.0; U; tr; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 10.10	Browser	Opera	10.1	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; de) Opera 10.10	Browser	Opera	10.1	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 6.0; tr) Opera 10.10	Browser	Opera	10.1	Windows	Windows Vista		
+Opera/9.80 (X11; Linux x86_64; U; en-GB) Presto/2.2.15 Version/10.01	Browser	Opera	10.01	Linux	Linux		
+Opera/9.80 (X11; Linux x86_64; U; en) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (X11; Linux x86_64; U; de) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; ru) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; pt-BR) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; pl) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; nb) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; en-GB) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; en) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; Debian; pl) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (X11; Linux i686; U; de) Presto/2.2.15 Version/10.00	Browser	Opera	10	Linux	Linux		
+Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; fi) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; en) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; de) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.1; U; cs) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows 7		
+Opera/9.80 (Windows NT 6.0; U; en) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows Vista		
+Opera/9.80 (Windows NT 6.0; U; de) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows Vista		
+Opera/9.80 (Windows NT 5.2; U; en) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows Server 2003		
+Opera/9.80 (Windows NT 5.1; U; zh-cn) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows XP		
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.2.15 Version/10.00	Browser	Opera	10	Windows	Windows XP		
+More Opera 10.00 user agents strings -->>	Browser	Opera	10	unknown	unknown		
+Opera/9.99 (X11; U; sk)	Browser	Opera	9.99	unknown	unknown		
+Opera/9.99 (Windows NT 5.1; U; pl) Presto/9.9.9	Browser	Opera	9.99	Windows	Windows XP		
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15	Browser	Opera Mini	5	Windows	Windows XP		
+Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1	Browser	Opera	9.7	Linux	Linux		
+Opera/9.70 (Linux i686 ; U; zh-cn) Presto/2.2.0	Browser	Opera	9.7	Linux	Linux		
+Opera/9.70 (Linux i686 ; U; en-us) Presto/2.2.0	Browser	Opera	9.7	Linux	Linux		
+Opera/9.70 (Linux i686 ; U; en) Presto/2.2.1	Browser	Opera	9.7	Linux	Linux		
+Opera/9.70 (Linux i686 ; U; en) Presto/2.2.0	Browser	Opera	9.7	Linux	Linux		
+Opera/9.70 (Linux i686 ; U; ; en) Presto/2.2.1	Browser	Opera	9.7	Linux	Linux		
+Opera/9.70 (Linux i686 ; U;  ; en) Presto/2.2.1	Browser	Opera	9.7	Linux	Linux		
+Mozilla/5.0 (Linux i686 ; U; en; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.70	Browser	Opera	9.7	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Linux i686 ; en) Opera 9.70	Browser	Opera	9.7	Linux	Linux		
+HTC_HD2_T8585 Opera/9.70 (Windows NT 5.1; U; de)	Browser	Opera	9.7	Windows	Windows XP		
+Opera 9.7 (Windows NT 5.2; U; en)	Browser	Opera	9.7	Windows	Windows Server 2003		
+Opera/9.64(Windows NT 5.1; U; en) Presto/2.1.1	Browser	Opera	9.64	Windows	Windows XP		
+Opera/9.64 (X11; Linux x86_64; U; pl) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux x86_64; U; hr) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux x86_64; U; en-GB) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux x86_64; U; en) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux x86_64; U; de) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux x86_64; U; cs) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux i686; U; tr) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux i686; U; sv) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux i686; U; pl) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux i686; U; nb) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux i686; U; Linux Mint; nb) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux i686; U; Linux Mint; it) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux i686; U; en) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux i686; U; de) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (X11; Linux i686; U; da) Presto/2.1.1	Browser	Opera	9.64	Linux	Linux		
+Opera/9.64 (Windows NT 6.1; U; MRA 5.5 (build 02842); ru) Presto/2.1.1	Browser	Opera	9.64	Windows	Windows 7		
+Opera/9.64 (Windows NT 6.1; U; de) Presto/2.1.1	Browser	Opera	9.64	Windows	Windows 7		
+Opera/9.64 (Windows NT 6.0; U; zh-cn) Presto/2.1.1	Browser	Opera	9.64	Windows	Windows Vista		
+Opera/9.64 (Windows NT 6.0; U; pl) Presto/2.1.1	Browser	Opera	9.64	Windows	Windows Vista		
+More Opera 9.64 user agents strings -->>	Browser	Opera	9.64	unknown	unknown		
+Opera/9.63 (X11; Linux x86_64; U; ru) Presto/2.1.1	Browser	Opera	9.63	Linux	Linux		
+Opera/9.63 (X11; Linux x86_64; U; cs) Presto/2.1.1	Browser	Opera	9.63	Linux	Linux		
+Opera/9.63 (X11; Linux i686; U; ru) Presto/2.1.1	Browser	Opera	9.63	Linux	Linux		
+Opera/9.63 (X11; Linux i686; U; ru)	Browser	Opera	9.63	Linux	Linux		
+Opera/9.63 (X11; Linux i686; U; nb) Presto/2.1.1	Browser	Opera	9.63	Linux	Linux		
+Opera/9.63 (X11; Linux i686; U; en)	Browser	Opera	9.63	Linux	Linux		
+Opera/9.63 (X11; Linux i686; U; de) Presto/2.1.1	Browser	Opera	9.63	Linux	Linux		
+Opera/9.63 (X11; Linux i686)	Browser	Opera	9.63	Linux	Linux		
+Opera/9.63 (X11; FreeBSD 7.1-RELEASE i386; U; en) Presto/2.1.1	Browser	Opera	9.63	Linux	FreeBSD		
+Opera/9.63 (Windows NT 6.1; U; hu) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows 7		
+Opera/9.63 (Windows NT 6.1; U; en) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows 7		
+Opera/9.63 (Windows NT 6.1; U; de) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows 7		
+Opera/9.63 (Windows NT 6.0; U; pl) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows Vista		
+Opera/9.63 (Windows NT 6.0; U; nb) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows Vista		
+Opera/9.63 (Windows NT 6.0; U; fr) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows Vista		
+Opera/9.63 (Windows NT 6.0; U; en) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows Vista		
+Opera/9.63 (Windows NT 6.0; U; cs) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows Vista		
+Opera/9.63 (Windows NT 5.2; U; en) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows Server 2003		
+Opera/9.63 (Windows NT 5.2; U; de) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows Server 2003		
+Opera/9.63 (Windows NT 5.1; U; pt-BR) Presto/2.1.1	Browser	Opera	9.63	Windows	Windows XP		
+More Opera 9.63 user agents strings -->>	Browser	Opera	9.63	unknown	unknown		
+Opera/9.62 (X11; Linux x86_64; U; ru) Presto/2.1.1	Browser	Opera	9.62	Linux	Linux		
+"Opera/9.62 (X11; Linux x86_64; U; en_GB, en_US) Presto/2.1.1"	Browser	Opera	9.62	Linux	Linux		
+Opera/9.62 (X11; Linux i686; U; pt-BR) Presto/2.1.1	Browser	Opera	9.62	Linux	Linux		
+Opera/9.62 (X11; Linux i686; U; Linux Mint; en) Presto/2.1.1	Browser	Opera	9.62	Linux	Linux		
+Opera/9.62 (X11; Linux i686; U; it) Presto/2.1.1	Browser	Opera	9.62	Linux	Linux		
+Opera/9.62 (X11; Linux i686; U; fi) Presto/2.1.1	Browser	Opera	9.62	Linux	Linux		
+Opera/9.62 (X11; Linux i686; U; en) Presto/2.1.1	Browser	Opera	9.62	Linux	Linux		
+Opera/9.62 (Windows NT 6.1; U; en) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows 7		
+Opera/9.62 (Windows NT 6.1; U; de) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows 7		
+Opera/9.62 (Windows NT 6.0; U; pl) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows Vista		
+Opera/9.62 (Windows NT 6.0; U; nb) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows Vista		
+Opera/9.62 (Windows NT 6.0; U; en-GB) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows Vista		
+Opera/9.62 (Windows NT 6.0; U; en) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows Vista		
+Opera/9.62 (Windows NT 6.0; U; de) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows Vista		
+Opera/9.62 (Windows NT 5.2; U; en) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows Server 2003		
+Opera/9.62 (Windows NT 5.1; U; zh-tw) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows XP		
+Opera/9.62 (Windows NT 5.1; U; zh-cn) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows XP		
+Opera/9.62 (Windows NT 5.1; U; tr) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows XP		
+Opera/9.62 (Windows NT 5.1; U; ru) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows XP		
+Opera/9.62 (Windows NT 5.1; U; pt-BR) Presto/2.1.1	Browser	Opera	9.62	Windows	Windows XP		
+More Opera 9.62 user agents strings -->>	Browser	Opera	9.62	unknown	unknown		
+Opera/9.61 (X11; Linux x86_64; U; fr) Presto/2.1.1	Browser	Opera	9.61	Linux	Linux		
+Opera/9.61 (X11; Linux i686; U; ru) Presto/2.1.1	Browser	Opera	9.61	Linux	Linux		
+Opera/9.61 (X11; Linux i686; U; pl) Presto/2.1.1	Browser	Opera	9.61	Linux	Linux		
+Opera/9.61 (X11; Linux i686; U; en) Presto/2.1.1	Browser	Opera	9.61	Linux	Linux		
+Opera/9.61 (X11; Linux i686; U; de) Presto/2.1.1	Browser	Opera	9.61	Linux	Linux		
+Opera/9.61 (Windows NT 6.0; U; ru) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows Vista		
+Opera/9.61 (Windows NT 6.0; U; pt-BR) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows Vista		
+Opera/9.61 (Windows NT 6.0; U; http://lucideer.com; en-GB) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows Vista		
+Opera/9.61 (Windows NT 6.0; U; en) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows Vista		
+Opera/9.61 (Windows NT 5.2; U; en) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows Server 2003		
+Opera/9.61 (Windows NT 5.1; U; zh-tw) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows XP		
+Opera/9.61 (Windows NT 5.1; U; zh-cn) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows XP		
+Opera/9.61 (Windows NT 5.1; U; ru) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows XP		
+Opera/9.61 (Windows NT 5.1; U; fr) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows XP		
+Opera/9.61 (Windows NT 5.1; U; en-GB) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows XP		
+Opera/9.61 (Windows NT 5.1; U; en) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows XP		
+Opera/9.61 (Windows NT 5.1; U; de) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows XP		
+Opera/9.61 (Windows NT 5.1; U; cs) Presto/2.1.1	Browser	Opera	9.61	Windows	Windows XP		
+Opera/9.61 (Macintosh; Intel Mac OS X; U; de) Presto/2.1.1	Browser	Opera	9.61	Macintosh	OS X		
+Mozilla/5.0 (Windows NT 5.1; U; en-GB; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.61	Browser	Opera	9.61	Windows	Windows XP		
+Opera/9.60 (X11; Linux x86_64; U)	Browser	Opera	9.6	Linux	Linux		
+Opera/9.60 (X11; Linux i686; U; ru) Presto/2.1.1	Browser	Opera	9.6	Linux	Linux		
+Opera/9.60 (X11; Linux i686; U; en-GB) Presto/2.1.1	Browser	Opera	9.6	Linux	Linux		
+Opera/9.60 (Windows NT 6.0; U; uk) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows Vista		
+Opera/9.60 (Windows NT 6.0; U; ru) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows Vista		
+Opera/9.60 (Windows NT 6.0; U; pl) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows Vista		
+Opera/9.60 (Windows NT 6.0; U; de) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows Vista		
+Opera/9.60 (Windows NT 6.0; U; bg) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows Vista		
+Opera/9.60 (Windows NT 5.1; U; tr) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows XP		
+Opera/9.60 (Windows NT 5.1; U; sv) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows XP		
+Opera/9.60 (Windows NT 5.1; U; es-ES) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows XP		
+Opera/9.60 (Windows NT 5.1; U; en-GB) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows XP		
+Opera/9.60 (Windows NT 5.0; U; en) Presto/2.1.1	Browser	Opera	9.6	Windows	Windows 2000		
+Mozilla/5.0 (X11; Linux x86_64; U; en; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.60	Browser	Opera	9.6	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux x86_64; en) Opera 9.60	Browser	Opera	9.6	Linux	Linux		
+Opera/9.52 (X11; Linux x86_64; U; ru)	Browser	Opera	9.52	Linux	Linux		
+Opera/9.52 (X11; Linux x86_64; U; en)	Browser	Opera	9.52	Linux	Linux		
+Opera/9.52 (X11; Linux x86_64; U)	Browser	Opera	9.52	Linux	Linux		
+Opera/9.52 (X11; Linux ppc; U; de)	Browser	Opera	9.52	Linux	Linux		
+Opera/9.52 (X11; Linux i686; U; fr)	Browser	Opera	9.52	Linux	Linux		
+Opera/9.52 (X11; Linux i686; U; en)	Browser	Opera	9.52	Linux	Linux		
+Opera/9.52 (X11; Linux i686; U; cs)	Browser	Opera	9.52	Linux	Linux		
+Opera/9.52 (Windows NT 6.0; U; Opera/9.52 (X11; Linux x86_64; U); en)	Browser	Opera	9.52	Windows	Windows Vista		
+Opera/9.52 (Windows NT 6.0; U; fr)	Browser	Opera	9.52	Windows	Windows Vista		
+Opera/9.52 (Windows NT 6.0; U; en)	Browser	Opera	9.52	Windows	Windows Vista		
+Opera/9.52 (Windows NT 6.0; U; de)	Browser	Opera	9.52	Windows	Windows Vista		
+Opera/9.52 (Windows NT 5.2; U; ru)	Browser	Opera	9.52	Windows	Windows Server 2003		
+Opera/9.52 (Windows NT 5.0; U; en)	Browser	Opera	9.52	Windows	Windows 2000		
+Opera/9.52 (Macintosh; PPC Mac OS X; U; ja)	Browser	Opera	9.52	Macintosh	OS X		
+Opera/9.52 (Macintosh; PPC Mac OS X; U; fr)	Browser	Opera	9.52	Macintosh	OS X		
+Opera/9.52 (Macintosh; Intel Mac OS X; U; pt-BR)	Browser	Opera	9.52	Macintosh	OS X		
+Opera/9.52 (Macintosh; Intel Mac OS X; U; pt)	Browser	Opera	9.52	Macintosh	OS X		
+Mozilla/5.0 (Windows NT 5.1; U; de; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.52	Browser	Opera	9.52	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U;  ; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.52	Browser	Opera	9.52	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 9.52	Browser	Opera	9.52	Windows	Windows XP		
+Opera/9.51 (X11; Linux i686; U; Linux Mint; en)	Browser	Opera	9.51	Linux	Linux		
+Opera/9.51 (X11; Linux i686; U; fr)	Browser	Opera	9.51	Linux	Linux		
+Opera/9.51 (X11; Linux i686; U; de)	Browser	Opera	9.51	Linux	Linux		
+Opera/9.51 (Windows NT 6.0; U; sv)	Browser	Opera	9.51	Windows	Windows Vista		
+Opera/9.51 (Windows NT 6.0; U; es)	Browser	Opera	9.51	Windows	Windows Vista		
+Opera/9.51 (Windows NT 6.0; U; en)	Browser	Opera	9.51	Windows	Windows Vista		
+Opera/9.51 (Windows NT 5.2; U; en)	Browser	Opera	9.51	Windows	Windows Server 2003		
+Opera/9.51 (Windows NT 5.1; U; nn)	Browser	Opera	9.51	Windows	Windows XP		
+Opera/9.51 (Windows NT 5.1; U; fr)	Browser	Opera	9.51	Windows	Windows XP		
+Opera/9.51 (Windows NT 5.1; U; es-LA)	Browser	Opera	9.51	Windows	Windows XP		
+Opera/9.51 (Windows NT 5.1; U; es-AR)	Browser	Opera	9.51	Windows	Windows XP		
+Opera/9.51 (Windows NT 5.1; U; en-GB)	Browser	Opera	9.51	Windows	Windows XP		
+Opera/9.51 (Windows NT 5.1; U; en)	Browser	Opera	9.51	Windows	Windows XP		
+Opera/9.51 (Windows NT 5.1; U; da)	Browser	Opera	9.51	Windows	Windows XP		
+Opera/9.51 (Macintosh; Intel Mac OS X; U; en)	Browser	Opera	9.51	Macintosh	OS X		
+Mozilla/5.0 (X11; Linux i686; U; en; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.51	Browser	Opera	9.51	Linux	Linux		
+Mozilla/5.0 (Windows NT 6.0; U; en; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.51	Browser	Opera	9.51	Windows	Windows Vista		
+Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.51	Browser	Opera	9.51	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; en-GB; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.51	Browser	Opera	9.51	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; de; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.51	Browser	Opera	9.51	Windows	Windows XP		
+More Opera 9.51 user agents strings -->>	Browser	Opera	9.51	unknown	unknown		
+Opera/9.50 (X11; Linux x86_64; U; pl)	Browser	Opera	9.5	Linux	Linux		
+Opera/9.50 (X11; Linux x86_64; U; nb)	Browser	Opera	9.5	Linux	Linux		
+Opera/9.50 (X11; Linux ppc; U; en)	Browser	Opera	9.5	Linux	Linux		
+Opera/9.50 (X11; Linux i686; U; es-ES)	Browser	Opera	9.5	Linux	Linux		
+Opera/9.50 (Windows NT 5.2; U; it)	Browser	Opera	9.5	Windows	Windows Server 2003		
+Opera/9.50 (Windows NT 5.1; U; ru)	Browser	Opera	9.5	Windows	Windows XP		
+Opera/9.50 (Windows NT 5.1; U; nn)	Browser	Opera	9.5	Windows	Windows XP		
+Opera/9.50 (Windows NT 5.1; U; nl)	Browser	Opera	9.5	Windows	Windows XP		
+Opera/9.50 (Windows NT 5.1; U; it)	Browser	Opera	9.5	Windows	Windows XP		
+Opera/9.50 (Windows NT 5.1; U; es-ES)	Browser	Opera	9.5	Windows	Windows XP		
+Opera/9.50 (Macintosh; Intel Mac OS X; U; en)	Browser	Opera	9.5	Macintosh	OS X		
+Opera/9.50 (Macintosh; Intel Mac OS X; U; de)	Browser	Opera	9.5	Macintosh	OS X		
+Mozilla/5.0 (Windows NT 5.1; U; zh-cn; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.50	Browser	Opera	9.5	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux x86_64; en) Opera 9.50	Browser	Opera	9.5	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 6.0; en) Opera 9.50	Browser	Opera	9.5	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; en) Opera 9.50	Browser	Opera	9.5	Windows	Windows Server 2003		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 9.50	Browser	Opera	9.5	Windows	Windows XP		
+Opera/9.5 (Windows NT 6.0; U; en)	Browser	Opera	9.5	Windows	Windows Vista		
+Opera/9.5 (Windows NT 5.1; U; fr)	Browser	Opera	9.5	Windows	Windows XP		
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9b3) Gecko/2008020514 Opera 9.5	Browser	Opera	9.5	Windows	Windows XP		
+Opera 9.4 (Windows NT 6.1; U; en)	Browser	Opera	9.4	Windows	Windows 7		
+Opera 9.4 (Windows NT 5.3; U; en)	Browser	Opera	9.4	Windows	Windows NT		
+Opera/9.30 (Nintendo Wii; U; ; 2071; Wii Shop Channel/1.0; en)	Console	Opera	9.3	unknown	unknown		
+Opera/9.30 (Nintendo Wii; U; ; 2047-7;pt-br)	Console	Opera	9.3	unknown	unknown		
+Opera/9.30 (Nintendo Wii; U; ; 2047-7;es)	Console	Opera	9.3	unknown	unknown		
+Opera/9.30 (Nintendo Wii; U; ; 2047-7;en)	Console	Opera	9.3	unknown	unknown		
+Opera/9.30 (Nintendo Wii; U; ; 2047-7; fr)	Console	Opera	9.3	unknown	unknown		
+Opera/9.30 (Nintendo Wii; U; ; 2047-7; de)	Console	Opera	9.3	unknown	unknown		
+Opera/9.27 (X11; Linux i686; U; fr)	Browser	Opera	9.27	Linux	Linux		
+Opera/9.27 (X11; Linux i686; U; en)	Browser	Opera	9.27	Linux	Linux		
+Opera/9.27 (Windows NT 5.2; U; en)	Browser	Opera	9.27	Windows	Windows Server 2003		
+Opera/9.27 (Windows NT 5.1; U; ja)	Browser	Opera	9.27	Windows	Windows XP		
+Opera/9.27 (Macintosh; Intel Mac OS X; U; sv)	Browser	Opera	9.27	Macintosh	OS X		
+Mozilla/5.0 (Windows NT 5.2; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.27	Browser	Opera	9.27	Windows	Windows Server 2003		
+Mozilla/5.0 (Windows NT 5.1; U; es-la; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.27	Browser	Opera	9.27	Windows	Windows XP		
+Mozilla/5.0 (Macintosh; Intel Mac OS X; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.27	Browser	Opera	9.27	Macintosh	OS X		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 9.27	Browser	Opera	9.27	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; en) Opera 9.27	Browser	Opera	9.27	Windows	Windows Server 2003		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; es-la) Opera 9.27	Browser	Opera	9.27	Windows	Windows XP		
+Opera/9.26 (Windows; U; pl)	Browser	Opera	9.26	unknown	unknown		
+Opera/9.26 (Windows NT 5.1; U; zh-cn)	Browser	Opera	9.26	Windows	Windows XP		
+Opera/9.26 (Windows NT 5.1; U; pl)	Browser	Opera	9.26	Windows	Windows XP		
+Opera/9.26 (Windows NT 5.1; U; nl)	Browser	Opera	9.26	Windows	Windows XP		
+Opera/9.26 (Windows NT 5.1; U; MEGAUPLOAD 2.0; en)	Browser	Opera	9.26	Windows	Windows XP		
+Opera/9.26 (Windows NT 5.1; U; de)	Browser	Opera	9.26	Windows	Windows XP		
+Opera/9.26 (Macintosh; PPC Mac OS X; U; en)	Browser	Opera	9.26	Macintosh	OS X		
+Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.26	Browser	Opera	9.26	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 6.0; en) Opera 9.26	Browser	Opera	9.26	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.26	Browser	Opera	9.26	Windows	Windows XP		
+Opera/9.25 (X11; Linux i686; U; fr-ca)	Browser	Opera	9.25	Linux	Linux		
+Opera/9.25 (X11; Linux i686; U; fr)	Browser	Opera	9.25	Linux	Linux		
+Opera/9.25 (X11; Linux i686; U; en)	Browser	Opera	9.25	Linux	Linux		
+Opera/9.25 (Windows NT 6.0; U; SV1; MEGAUPLOAD 2.0; ru)	Browser	Opera	9.25	Windows	Windows Vista		
+Opera/9.25 (Windows NT 6.0; U; sv)	Browser	Opera	9.25	Windows	Windows Vista		
+Opera/9.25 (Windows NT 6.0; U; ru)	Browser	Opera	9.25	Windows	Windows Vista		
+Opera/9.25 (Windows NT 6.0; U; MEGAUPLOAD 1.0; ru)	Browser	Opera	9.25	Windows	Windows Vista		
+Opera/9.25 (Windows NT 6.0; U; en-US)	Browser	Opera	9.25	Windows	Windows Vista		
+Opera/9.25 (Windows NT 5.2; U; en)	Browser	Opera	9.25	Windows	Windows Server 2003		
+Opera/9.25 (Windows NT 5.1; U; zh-cn)	Browser	Opera	9.25	Windows	Windows XP		
+Opera/9.25 (Windows NT 5.1; U; ru)	Browser	Opera	9.25	Windows	Windows XP		
+Opera/9.25 (Windows NT 5.1; U; MEGAUPLOAD 1.0; pt-br)	Browser	Opera	9.25	Windows	Windows XP		
+Opera/9.25 (Windows NT 5.1; U; lt)	Browser	Opera	9.25	Windows	Windows XP		
+Opera/9.25 (Windows NT 5.1; U; de)	Browser	Opera	9.25	Windows	Windows XP		
+Opera/9.25 (Windows NT 5.0; U; en)	Browser	Opera	9.25	Windows	Windows 2000		
+Opera/9.25 (Windows NT 5.0; U; cs)	Browser	Opera	9.25	Windows	Windows 2000		
+Opera/9.25 (Windows NT 4.0; U; en)	Browser	Opera	9.25	Windows	Windows NT		
+Opera/9.25 (OpenSolaris; U; en)	Browser	Opera	9.25	OpenSolaris	OpenSolaris		
+Opera/9.25 (Macintosh; PPC Mac OS X; U; en)	Browser	Opera	9.25	Macintosh	OS X		
+Opera/9.25 (Macintosh; Intel Mac OS X; U; en)	Browser	Opera	9.25	Macintosh	OS X		
+More Opera 9.25 user agents strings -->>	Browser	Opera	9.25	unknown	unknown		
+Opera/9.24 (X11; SunOS i86pc; U; en)	Browser	Opera	9.24	SunOS	SunOS		
+Opera/9.24 (X11; Linux i686; U; de)	Browser	Opera	9.24	Linux	Linux		
+Opera/9.24 (Windows NT 5.1; U; tr)	Browser	Opera	9.24	Windows	Windows XP		
+Opera/9.24 (Windows NT 5.1; U; ru)	Browser	Opera	9.24	Windows	Windows XP		
+Opera/9.24 (Windows NT 5.0; U; ru)	Browser	Opera	9.24	Windows	Windows 2000		
+Opera/9.24 (Macintosh; PPC Mac OS X; U; en)	Browser	Opera	9.24	Macintosh	OS X		
+Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.24	Browser	Opera	9.24	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.24	Browser	Opera	9.24	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Mac_PowerPC; en) Opera 9.24	Browser	Opera	9.24	Macintosh	Macintosh		
+Opera/9.23 (X11; Linux x86_64; U; en)	Browser	Opera	9.23	Linux	Linux		
+Opera/9.23 (X11; Linux i686; U; es-es)	Browser	Opera	9.23	Linux	Linux		
+Opera/9.23 (X11; Linux i686; U; en)	Browser	Opera	9.23	Linux	Linux		
+Opera/9.23 (Windows NT 6.0; U; de)	Browser	Opera	9.23	Windows	Windows Vista		
+Opera/9.23 (Windows NT 5.1; U; zh-cn)	Browser	Opera	9.23	Windows	Windows XP		
+Opera/9.23 (Windows NT 5.1; U; SV1; MEGAUPLOAD 1.0; ru)	Browser	Opera	9.23	Windows	Windows XP		
+Opera/9.23 (Windows NT 5.1; U; pt)	Browser	Opera	9.23	Windows	Windows XP		
+Opera/9.23 (Windows NT 5.1; U; ja)	Browser	Opera	9.23	Windows	Windows XP		
+Opera/9.23 (Windows NT 5.1; U; it)	Browser	Opera	9.23	Windows	Windows XP		
+Opera/9.23 (Windows NT 5.1; U; fi)	Browser	Opera	9.23	Windows	Windows XP		
+Opera/9.23 (Windows NT 5.1; U; en)	Browser	Opera	9.23	Windows	Windows XP		
+Opera/9.23 (Windows NT 5.1; U; de)	Browser	Opera	9.23	Windows	Windows XP		
+Opera/9.23 (Windows NT 5.1; U; da)	Browser	Opera	9.23	Windows	Windows XP		
+Opera/9.23 (Windows NT 5.0; U; en)	Browser	Opera	9.23	Windows	Windows 2000		
+Opera/9.23 (Windows NT 5.0; U; de)	Browser	Opera	9.23	Windows	Windows 2000		
+Opera/9.23 (Nintendo Wii; U; ; 1038-58; Wii Internet Channel/1.0; en)	Console	Opera	9.23	unknown	unknown		
+Opera/9.23 (Macintosh; Intel Mac OS X; U; ja)	Browser	Opera	9.23	Macintosh	OS X		
+Opera/9.23 (Mac OS X; ru)	Browser	Opera	9.23	Macintosh	OS X		
+Opera/9.23 (Mac OS X; fr)	Browser	Opera	9.23	Macintosh	OS X		
+Mozilla/5.0 (X11; Linux i686; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.23	Browser	Opera	9.23	Linux	Linux		
+More Opera 9.23 user agents strings -->>	Browser	Opera	9.23	unknown	unknown		
+Opera/9.22 (X11; OpenBSD i386; U; en)	Browser	Opera	9.22	Linux	OpenBSD		
+Opera/9.22 (X11; Linux i686; U; en)	Browser	Opera	9.22	Linux	Linux		
+Opera/9.22 (X11; Linux i686; U; de)	Browser	Opera	9.22	Linux	Linux		
+Opera/9.22 (Windows NT 6.0; U; ru)	Browser	Opera	9.22	Windows	Windows Vista		
+Opera/9.22 (Windows NT 6.0; U; en)	Browser	Opera	9.22	Windows	Windows Vista		
+Opera/9.22 (Windows NT 5.1; U; SV1; MEGAUPLOAD 2.0; ru)	Browser	Opera	9.22	Windows	Windows XP		
+Opera/9.22 (Windows NT 5.1; U; SV1; MEGAUPLOAD 1.0; ru)	Browser	Opera	9.22	Windows	Windows XP		
+Opera/9.22 (Windows NT 5.1; U; pl)	Browser	Opera	9.22	Windows	Windows XP		
+Opera/9.22 (Windows NT 5.1; U; fr)	Browser	Opera	9.22	Windows	Windows XP		
+Opera/9.22 (Windows NT 5.1; U; en)	Browser	Opera	9.22	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.22	Browser	Opera	9.22	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 9.22	Browser	Opera	9.22	Linux	Linux		
+Opera/9.21 (X11; Linux x86_64; U; en)	Browser	Opera	9.21	Linux	Linux		
+Opera/9.21 (X11; Linux i686; U; es-es)	Browser	Opera	9.21	Linux	Linux		
+Opera/9.21 (X11; Linux i686; U; en)	Browser	Opera	9.21	Linux	Linux		
+Opera/9.21 (X11; Linux i686; U; de)	Browser	Opera	9.21	Linux	Linux		
+Opera/9.21 (Windows NT 6.0; U; nb)	Browser	Opera	9.21	Windows	Windows Vista		
+Opera/9.21 (Windows NT 6.0; U; en)	Browser	Opera	9.21	Windows	Windows Vista		
+Opera/9.21 (Windows NT 5.2; U; en)	Browser	Opera	9.21	Windows	Windows Server 2003		
+Opera/9.21 (Windows NT 5.1; U; SV1; MEGAUPLOAD 1.0; ru)	Browser	Opera	9.21	Windows	Windows XP		
+Opera/9.21 (Windows NT 5.1; U; ru)	Browser	Opera	9.21	Windows	Windows XP		
+Opera/9.21 (Windows NT 5.1; U; pt-br)	Browser	Opera	9.21	Windows	Windows XP		
+Opera/9.21 (Windows NT 5.1; U; pl)	Browser	Opera	9.21	Windows	Windows XP		
+Opera/9.21 (Windows NT 5.1; U; nl)	Browser	Opera	9.21	Windows	Windows XP		
+Opera/9.21 (Windows NT 5.1; U; MEGAUPLOAD 1.0; en)	Browser	Opera	9.21	Windows	Windows XP		
+Opera/9.21 (Windows NT 5.1; U; fr)	Browser	Opera	9.21	Windows	Windows XP		
+Opera/9.21 (Windows NT 5.1; U; en)	Browser	Opera	9.21	Windows	Windows XP		
+Opera/9.21 (Windows NT 5.1; U; de)	Browser	Opera	9.21	Windows	Windows XP		
+Opera/9.21 (Windows NT 5.0; U; de)	Browser	Opera	9.21	Windows	Windows 2000		
+Opera/9.21 (Windows 98; U; en)	Browser	Opera	9.21	Windows	Windows 98		
+Opera/9.21 (Macintosh; PPC Mac OS X; U; en)	Browser	Opera	9.21	Macintosh	OS X		
+Opera/9.21 (Macintosh; Intel Mac OS X; U; en)	Browser	Opera	9.21	Macintosh	OS X		
+More Opera 9.21 user agents strings -->>	Browser	Opera	9.21	unknown	unknown		
+Opera/9.20(Windows NT 5.1; U; en)	Browser	Opera	9.2	Windows	Windows XP		
+Opera/9.20 (X11; Linux x86_64; U; en)	Browser	Opera	9.2	Linux	Linux		
+Opera/9.20 (X11; Linux ppc; U; en)	Browser	Opera	9.2	Linux	Linux		
+Opera/9.20 (X11; Linux i686; U; tr)	Browser	Opera	9.2	Linux	Linux		
+Opera/9.20 (X11; Linux i686; U; ru)	Browser	Opera	9.2	Linux	Linux		
+Opera/9.20 (X11; Linux i686; U; pl)	Browser	Opera	9.2	Linux	Linux		
+Opera/9.20 (X11; Linux i686; U; es-es)	Browser	Opera	9.2	Linux	Linux		
+Opera/9.20 (X11; Linux i686; U; en)	Browser	Opera	9.2	Linux	Linux		
+Opera/9.20 (X11; Linux i586; U; en)	Browser	Opera	9.2	Linux	Linux		
+Opera/9.20 (Windows NT 6.0; U; es-es)	Browser	Opera	9.2	Windows	Windows Vista		
+Opera/9.20 (Windows NT 6.0; U; en)	Browser	Opera	9.2	Windows	Windows Vista		
+Opera/9.20 (Windows NT 6.0; U; de)	Browser	Opera	9.2	Windows	Windows Vista		
+Opera/9.20 (Windows NT 5.2; U; en)	Browser	Opera	9.2	Windows	Windows Server 2003		
+Opera/9.20 (Windows NT 5.1; U; zh-tw)	Browser	Opera	9.2	Windows	Windows XP		
+Opera/9.20 (Windows NT 5.1; U; nb)	Browser	Opera	9.2	Windows	Windows XP		
+Opera/9.20 (Windows NT 5.1; U; MEGAUPLOAD=1.0; es-es)	Browser	Opera	9.2	Windows	Windows XP		
+Opera/9.20 (Windows NT 5.1; U; it)	Browser	Opera	9.2	Windows	Windows XP		
+Opera/9.20 (Windows NT 5.1; U; es-es)	Browser	Opera	9.2	Windows	Windows XP		
+Opera/9.20 (Windows NT 5.1; U; es-AR)	Browser	Opera	9.2	Windows	Windows XP		
+Opera/9.20 (Windows NT 5.1; U; en)	Browser	Opera	9.2	Windows	Windows XP		
+More Opera 9.20 user agents strings -->>	Browser	Opera	9.2	unknown	unknown		
+Opera/9.12 (X11; Linux i686; U; en) (Ubuntu)	Browser	Opera	9.12	Linux	Linux		
+Opera/9.12 (Windows NT 5.0; U; ru)	Browser	Opera	9.12	Windows	Windows 2000		
+Opera/9.12 (Windows NT 5.0; U)	Browser	Opera	9.12	Windows	Windows 2000		
+Opera/9.10 (X11; Linux; U; en)	Browser	Opera	9.1	Linux	Linux		
+Opera/9.10 (X11; Linux x86_64; U; en)	Browser	Opera	9.1	Linux	Linux		
+Opera/9.10 (X11; Linux i686; U; pl)	Browser	Opera	9.1	Linux	Linux		
+Opera/9.10 (X11; Linux i686; U; kubuntu;pl)	Browser	Opera	9.1	Linux	Linux		
+Opera/9.10 (X11; Linux i686; U; en)	Browser	Opera	9.1	Linux	Linux		
+Opera/9.10 (X11; Linux i386; U; en)	Browser	Opera	9.1	Linux	Linux		
+Opera/9.10 (Windows NT 6.0; U; it-IT)	Browser	Opera	9.1	Windows	Windows Vista		
+Opera/9.10 (Windows NT 6.0; U; en)	Browser	Opera	9.1	Windows	Windows Vista		
+Opera/9.10 (Windows NT 5.2; U; en)	Browser	Opera	9.1	Windows	Windows Server 2003		
+Opera/9.10 (Windows NT 5.2; U; de)	Browser	Opera	9.1	Windows	Windows Server 2003		
+Opera/9.10 (Windows NT 5.1; U; zh-tw)	Browser	Opera	9.1	Windows	Windows XP		
+Opera/9.10 (Windows NT 5.1; U; sv)	Browser	Opera	9.1	Windows	Windows XP		
+Opera/9.10 (Windows NT 5.1; U; pt)	Browser	Opera	9.1	Windows	Windows XP		
+Opera/9.10 (Windows NT 5.1; U; pl)	Browser	Opera	9.1	Windows	Windows XP		
+Opera/9.10 (Windows NT 5.1; U; nl)	Browser	Opera	9.1	Windows	Windows XP		
+Opera/9.10 (Windows NT 5.1; U; MEGAUPLOAD 1.0; pl)	Browser	Opera	9.1	Windows	Windows XP		
+Opera/9.10 (Windows NT 5.1; U; it)	Browser	Opera	9.1	Windows	Windows XP		
+Opera/9.10 (Windows NT 5.1; U; hu)	Browser	Opera	9.1	Windows	Windows XP		
+Opera/9.10 (Windows NT 5.1; U; fi)	Browser	Opera	9.1	Windows	Windows XP		
+Opera/9.10 (Windows NT 5.1; U; es-es)	Browser	Opera	9.1	Windows	Windows XP		
+More Opera 9.10 user agents strings -->>	Browser	Opera	9.1	unknown	unknown		
+Opera/9.02 (X11; Linux i686; U; pl)	Browser	Opera	9.02	Linux	Linux		
+Opera/9.02 (X11; Linux i686; U; hu)	Browser	Opera	9.02	Linux	Linux		
+Opera/9.02 (X11; Linux i686; U; en)	Browser	Opera	9.02	Linux	Linux		
+Opera/9.02 (X11; Linux i686; U; de)	Browser	Opera	9.02	Linux	Linux		
+Opera/9.02 (Windows; U; nl)	Browser	Opera	9.02	unknown	unknown		
+Opera/9.02 (Windows XP; U; ru)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.2; U; en)	Browser	Opera	9.02	Windows	Windows Server 2003		
+Opera/9.02 (Windows NT 5.2; U; de)	Browser	Opera	9.02	Windows	Windows Server 2003		
+Opera/9.02 (Windows NT 5.1; U; zh-cn)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.1; U; ru)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.1; U; pt-br)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.1; U; pl)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.1; U; nb)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.1; U; ja)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.1; U; fi)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.1; U; en)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.1; U; de)	Browser	Opera	9.02	Windows	Windows XP		
+Opera/9.02 (Windows NT 5.0; U; sv)	Browser	Opera	9.02	Windows	Windows 2000		
+Opera/9.02 (Windows NT 5.0; U; pl)	Browser	Opera	9.02	Windows	Windows 2000		
+Opera/9.02 (Windows NT 5.0; U; en)	Browser	Opera	9.02	Windows	Windows 2000		
+More Opera 9.02 user agents strings -->>	Browser	Opera	9.02	unknown	unknown		
+Opera/9.01 (X11; OpenBSD i386; U; en)	Browser	Opera	9.01	Linux	OpenBSD		
+Opera/9.01 (X11; Linux i686; U; en)	Browser	Opera	9.01	Linux	Linux		
+Opera/9.01 (X11; FreeBSD 6 i386; U;pl)	Browser	Opera	9.01	Linux	FreeBSD		
+Opera/9.01 (X11; FreeBSD 6 i386; U; en)	Browser	Opera	9.01	Linux	FreeBSD		
+Opera/9.01 (Windows NT 5.2; U; ru)	Browser	Opera	9.01	Windows	Windows Server 2003		
+Opera/9.01 (Windows NT 5.2; U; en)	Browser	Opera	9.01	Windows	Windows Server 2003		
+Opera/9.01 (Windows NT 5.1; U; ru)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.1; U; pl)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.1; U; ja)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.1; U; es-es)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.1; U; en)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.1; U; de)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.1; U; da)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.1; U; cs)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.1; U; bg)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.1)	Browser	Opera	9.01	Windows	Windows XP		
+Opera/9.01 (Windows NT 5.0; U; en)	Browser	Opera	9.01	Windows	Windows 2000		
+Opera/9.01 (Windows NT 5.0; U; de)	Browser	Opera	9.01	Windows	Windows 2000		
+Opera/9.01 (Macintosh; PPC Mac OS X; U; it)	Browser	Opera	9.01	Macintosh	OS X		
+Opera/9.01 (Macintosh; PPC Mac OS X; U; en)	Browser	Opera	9.01	Macintosh	OS X		
+More Opera 9.01 user agents strings -->>	Browser	Opera	9.01	unknown	unknown		
+Opera/9.00 (X11; Linux i686; U; pl)	Browser	Opera	9	Linux	Linux		
+Opera/9.00 (X11; Linux i686; U; en)	Browser	Opera	9	Linux	Linux		
+Opera/9.00 (X11; Linux i686; U; de)	Browser	Opera	9	Linux	Linux		
+Opera/9.00 (Windows; U)	Browser	Opera	9	unknown	unknown		
+Opera/9.00 (Windows NT 5.2; U; ru)	Browser	Opera	9	Windows	Windows Server 2003		
+Opera/9.00 (Windows NT 5.2; U; pl)	Browser	Opera	9	Windows	Windows Server 2003		
+Opera/9.00 (Windows NT 5.2; U; en)	Browser	Opera	9	Windows	Windows Server 2003		
+Opera/9.00 (Windows NT 5.1; U; ru)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.1; U; pl)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.1; U; nl)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.1; U; ja)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.1; U; it)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.1; U; fr)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.1; U; fi)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.1; U; es-es)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.1; U; en)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.1; U; de)	Browser	Opera	9	Windows	Windows XP		
+Opera/9.00 (Windows NT 5.0; U; en)	Browser	Opera	9	Windows	Windows 2000		
+Opera/9.00 (Nintendo Wii; U; ; 1038-58; Wii Internet Channel/1.0; en)	Console	Opera	9	unknown	unknown		
+Opera/9.00 (Macintosh; PPC Mac OS X; U; es)	Browser	Opera	9	Macintosh	OS X		
+More Opera 9.00 user agents strings -->>	Browser	Opera	9	unknown	unknown		
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; zh-cn) Opera 8.65	Browser	Opera	8.65	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; zh-cn) Opera 8.65	Browser	Opera	8.65	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) Opera 8.65 [en]	Browser	Opera	8.65	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; Sprint:PPC-6700) Opera 8.65 [en]	Browser	Opera	8.65	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 320x320)Opera 8.65 [en]	Browser	Opera	8.65	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 320x320) Opera 8.65 [en]	Browser	Opera	8.65	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.65 [zh-cn]	Browser	Opera	8.65	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.65 [nl]	Browser	Opera	8.65	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.65 [de]	Browser	Opera	8.65	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x240) Opera 8.65 [en]	Browser	Opera	8.65	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC) Opera 8.65 [en]	Browser	Opera	8.65	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) Opera 8.60 [en]	Browser	Opera	8.6	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.60 [en]	Browser	Opera	8.6	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x240) Opera 8.60 [en]	Browser	Opera	8.6	Windows	Windows CE		
+Opera/8.54 (X11; Linux i686; U; pl)	Browser	Opera	8.54	Linux	Linux		
+Opera/8.54 (X11; Linux i686; U; de)	Browser	Opera	8.54	Linux	Linux		
+Opera/8.54 (Windows NT 5.1; U; ru)	Browser	Opera	8.54	Windows	Windows XP		
+Opera/8.54 (Windows NT 5.1; U; pl)	Browser	Opera	8.54	Windows	Windows XP		
+Opera/8.54 (Windows NT 5.1; U; en)	Browser	Opera	8.54	Windows	Windows XP		
+Opera/8.54 (Windows NT 5.0; U; en)	Browser	Opera	8.54	Windows	Windows 2000		
+Opera/8.54 (Windows NT 5.0; U; de)	Browser	Opera	8.54	Windows	Windows 2000		
+Opera/8.54 (Windows NT 4.0; U; zh-cn)	Browser	Opera	8.54	Windows	Windows NT		
+Opera/8.54 (Windows 98; U; en)	Browser	Opera	8.54	Windows	Windows 98		
+Mozilla/5.0 (Windows NT 5.1; U; pl) Opera 8.54	Browser	Opera	8.54	Windows	Windows XP		
+Mozilla/5.0 (Windows 98; U; en) Opera 8.54	Browser	Opera	8.54	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 8.54	Browser	Opera	8.54	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.54	Browser	Opera	8.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; pl) Opera 8.54	Browser	Opera	8.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; fr) Opera 8.54	Browser	Opera	8.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.54	Browser	Opera	8.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.54	Browser	Opera	8.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; da) Opera 8.54	Browser	Opera	8.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; pl) Opera 8.54	Browser	Opera	8.54	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.54	Browser	Opera	8.54	Windows	Windows 2000		
+More Opera 8.54 user agents strings -->>	Browser	Opera	8.54	unknown	unknown		
+Opera/8.53 (Windows NT 5.2; U; en)	Browser	Opera	8.53	Windows	Windows Server 2003		
+Opera/8.53 (Windows NT 5.1; U; pt)	Browser	Opera	8.53	Windows	Windows XP		
+Opera/8.53 (Windows NT 5.1; U; en)	Browser	Opera	8.53	Windows	Windows XP		
+Opera/8.53 (Windows NT 5.1; U; de)	Browser	Opera	8.53	Windows	Windows XP		
+Opera/8.53 (Windows NT 5.0; U; en)	Browser	Opera	8.53	Windows	Windows 2000		
+Opera/8.53 (Windows 98; U; en)	Browser	Opera	8.53	Windows	Windows 98		
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.53	Browser	Opera	8.53	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; sv) Opera 8.53	Browser	Opera	8.53	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.53	Browser	Opera	8.53	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.53	Browser	Opera	8.53	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.53	Browser	Opera	8.53	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; en) Opera 8.53	Browser	Opera	8.53	Windows	Windows 98		
+Opera/8.52 (X11; Linux x86_64; U; en)	Browser	Opera	8.52	Linux	Linux		
+Opera/8.52 (X11; Linux i686; U; en)	Browser	Opera	8.52	Linux	Linux		
+Opera/8.52 (Windows NT 5.1; U; ru)	Browser	Opera	8.52	Windows	Windows XP		
+Opera/8.52 (Windows NT 5.1; U; en)	Browser	Opera	8.52	Windows	Windows XP		
+Opera/8.52 (Windows NT 5.0; U; en)	Browser	Opera	8.52	Windows	Windows 2000		
+Opera/8.52 (Windows ME; U; en)	Browser	Opera	8.52	Windows	Windows ME		
+Mozilla/5.0 (X11; Linux i686; U; en) Opera 8.52	Browser	Opera	8.52	Linux	Linux		
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.52	Browser	Opera	8.52	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; de) Opera 8.52	Browser	Opera	8.52	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 8.52	Browser	Opera	8.52	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; pl) Opera 8.52	Browser	Opera	8.52	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.52	Browser	Opera	8.52	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.52	Browser	Opera	8.52	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.52	Browser	Opera	8.52	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; en) Opera 8.52	Browser	Opera	8.52	Windows	Windows 98		
+Opera/8.51 (X11; U; Linux i686; en-US; rv:1.8)	Browser	Opera	8.51	Linux	Linux		
+Opera/8.51 (X11; Linux x86_64; U; en)	Browser	Opera	8.51	Linux	Linux		
+Opera/8.51 (X11; Linux i686; U; en)	Browser	Opera	8.51	Linux	Linux		
+Opera/8.51 (Windows NT 5.1; U; pl)	Browser	Opera	8.51	Windows	Windows XP		
+Opera/8.51 (Windows NT 5.1; U; nb)	Browser	Opera	8.51	Windows	Windows XP		
+Opera/8.51 (Windows NT 5.1; U; fr)	Browser	Opera	8.51	Windows	Windows XP		
+Opera/8.51 (Windows NT 5.1; U; en)	Browser	Opera	8.51	Windows	Windows XP		
+Opera/8.51 (Windows NT 5.1; U; de)	Browser	Opera	8.51	Windows	Windows XP		
+Opera/8.51 (Windows NT 5.0; U; en)	Browser	Opera	8.51	Windows	Windows 2000		
+Opera/8.51 (Windows 98; U; en)	Browser	Opera	8.51	Windows	Windows 98		
+Opera/8.51 (Macintosh; PPC Mac OS X; U; de)	Browser	Opera	8.51	Macintosh	OS X		
+Opera/8.51 (FreeBSD 5.1; U; en)	Browser	Opera	8.51	Linux	FreeBSD		
+Mozilla/5.0 (Windows NT 5.1; U; ru) Opera 8.51	Browser	Opera	8.51	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; fr) Opera 8.51	Browser	Opera	8.51	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.51	Browser	Opera	8.51	Windows	Windows XP		
+Mozilla/5.0 (Windows ME; U; en) Opera 8.51	Browser	Opera	8.51	Windows	Windows ME		
+Mozilla/5.0 (Macintosh; PPC Mac OS X; U; en) Opera 8.51	Browser	Opera	8.51	Macintosh	OS X		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; ru) Opera 8.51	Browser	Opera	8.51	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 8.51	Browser	Opera	8.51	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; sv) Opera 8.51	Browser	Opera	8.51	Windows	Windows XP		
+More Opera 8.51 user agents strings -->>	Browser	Opera	8.51	unknown	unknown		
+Opera/8.50 (Windows NT 5.1; U; ru)	Browser	Opera	8.5	Windows	Windows XP		
+Opera/8.50 (Windows NT 5.1; U; pl)	Browser	Opera	8.5	Windows	Windows XP		
+Opera/8.50 (Windows NT 5.1; U; fr)	Browser	Opera	8.5	Windows	Windows XP		
+Opera/8.50 (Windows NT 5.1; U; es-ES)	Browser	Opera	8.5	Windows	Windows XP		
+Opera/8.50 (Windows NT 5.1; U; en)	Browser	Opera	8.5	Windows	Windows XP		
+Opera/8.50 (Windows NT 5.1; U; de)	Browser	Opera	8.5	Windows	Windows XP		
+Opera/8.50 (Windows NT 5.0; U; fr)	Browser	Opera	8.5	Windows	Windows 2000		
+Opera/8.50 (Windows NT 5.0; U; en)	Browser	Opera	8.5	Windows	Windows 2000		
+Opera/8.50 (Windows NT 5.0; U; de)	Browser	Opera	8.5	Windows	Windows 2000		
+Opera/8.50 (Windows NT 4.0; U; zh-cn)	Browser	Opera	8.5	Windows	Windows NT		
+Opera/8.50 (Windows ME; U; en)	Browser	Opera	8.5	Windows	Windows ME		
+Opera/8.50 (Windows 98; U; ru)	Browser	Opera	8.5	Windows	Windows 98		
+Opera/8.50 (Windows 98; U; en)	Browser	Opera	8.5	Windows	Windows 98		
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.50	Browser	Opera	8.5	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; de) Opera 8.50	Browser	Opera	8.5	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.0; U; de) Opera 8.50	Browser	Opera	8.5	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; ru) Opera 8.50	Browser	Opera	8.5	Windows	Windows Server 2003		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; en) Opera 8.50	Browser	Opera	8.5	Windows	Windows Server 2003		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; tr) Opera 8.50	Browser	Opera	8.5	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; sv) Opera 8.50	Browser	Opera	8.5	Windows	Windows XP		
+More Opera 8.50 user agents strings -->>	Browser	Opera	8.5	unknown	unknown		
+Opera/8.10 (Windows NT 5.1; U; en)	Browser	Opera	8.1	Windows	Windows XP		
+Opera/8.02 (Windows NT 5.1; U; ru)	Browser	Opera	8.02	Windows	Windows XP		
+Opera/8.02 (Windows NT 5.1; U; en)	Browser	Opera	8.02	Windows	Windows XP		
+Opera/8.02 (Windows NT 5.1; U; de)	Browser	Opera	8.02	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.02	Browser	Opera	8.02	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 8.02	Browser	Opera	8.02	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.02	Browser	Opera	8.02	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.02	Browser	Opera	8.02	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.02	Browser	Opera	8.02	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; de) Opera 8.02	Browser	Opera	8.02	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME; pl) Opera 8.02	Browser	Opera	8.02	Windows	Windows ME		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; de) Opera 8.02	Browser	Opera	8.02	Windows	Windows 98		
+Opera/8.01 (Windows NT 5.1; U; pl)	Browser	Opera	8.01	Windows	Windows XP		
+Opera/8.01 (Windows NT 5.1; U; fr)	Browser	Opera	8.01	Windows	Windows XP		
+Opera/8.01 (Windows NT 5.1; U; en)	Browser	Opera	8.01	Windows	Windows XP		
+Opera/8.01 (Windows NT 5.1; U; de)	Browser	Opera	8.01	Windows	Windows XP		
+Opera/8.01 (Windows NT 5.0; U; de)	Browser	Opera	8.01	Windows	Windows 2000		
+Opera/8.01 (Macintosh; U; PPC Mac OS; en)	Browser	Opera	8.01	unknown	unknown		
+Opera/8.01 (Macintosh; PPC Mac OS X; U; en)	Browser	Opera	8.01	Macintosh	OS X		
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.01	Browser	Opera	8.01	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.01	Browser	Opera	8.01	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.01	Browser	Opera	8.01	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.01	Browser	Opera	8.01	Windows	Windows XP		
+Opera/8.00 (Windows NT 5.1; U; en)	Browser	Opera	8	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.00	Browser	Opera	8	Windows	Windows XP		
+Opera/8.0 (X11; Linux i686; U; cs)	Browser	Opera	8	Linux	Linux		
+Opera/8.0 (Windows NT 5.1; U; en)	Browser	Opera	8	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.0	Browser	Opera	8	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.0	Browser	Opera	8	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; IT) Opera 8.0	Browser	Opera	8	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.0	Browser	Opera	8	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.0	Browser	Opera	8	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.0	Browser	Opera	8	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; de) Opera 8.0	Browser	Opera	8	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE) Opera 8.0  [en]	Browser	Opera	8	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; en) Opera 8.0	Browser	Opera	8	Windows	Windows 98		
+Mozilla/5.0 (X11; Linux i386; U) Opera 7.60  [en-GB]	Browser	Opera	7.6	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 7.60	Browser	Opera	7.6	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.54u1  [en]	Browser	Opera	7.54u1	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.54u1  [en]	Browser	Opera	7.54u1	Windows	Windows 98		
+Opera/7.54 (X11; Linux i686; U)  [en]	Browser	Opera	7.54	Linux	Linux		
+Opera/7.54 (Windows NT 5.1; U) [en]	Browser	Opera	7.54	Windows	Windows XP		
+Opera/7.54 (Windows NT 5.1; U)  [it]	Browser	Opera	7.54	Windows	Windows XP		
+Opera/7.54 (Windows NT 5.1; U)  [en]	Browser	Opera	7.54	Windows	Windows XP		
+Opera/7.54 (Windows NT 5.1; U)  [de]	Browser	Opera	7.54	Windows	Windows XP		
+Opera/7.54 (Windows NT 5.0; U)  [en]	Browser	Opera	7.54	Windows	Windows 2000		
+Opera/7.54 (Windows NT 5.0; U)  [de]	Browser	Opera	7.54	Windows	Windows 2000		
+Opera/7.54 (Windows 98; U)  [de]	Browser	Opera	7.54	Windows	Windows 98		
+Mozilla/5.0 (X11; Linux i686; U) Opera 7.54 [en]	Browser	Opera	7.54	Linux	Linux		
+Mozilla/5.0 (X11; Linux i686; U) Opera 7.54  [en]	Browser	Opera	7.54	Linux	Linux		
+Mozilla/5.0 (Windows NT 5.1; U) Opera 7.54  [de]	Browser	Opera	7.54	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.0; U) Opera 7.54  [en]	Browser	Opera	7.54	Windows	Windows 2000		
+Mozilla/4.78 (Windows NT 5.1; U) Opera 7.54  [de]	Browser	Opera	7.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686) Opera 7.54  [en]	Browser	Opera	7.54	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.54 [en]	Browser	Opera	7.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.54  [en]	Browser	Opera	7.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.54  [de]	Browser	Opera	7.54	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.54  [pl]	Browser	Opera	7.54	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.54  [de]	Browser	Opera	7.54	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC) Opera 7.54  [en]	Browser	Opera	7.54	Macintosh	Macintosh		
+More Opera 7.54 user agents strings -->>	Browser	Opera	7.54	unknown	unknown		
+Opera/7.53 (X11; Linux i686; U) [en_US]	Browser	Opera	7.53	Linux	Linux		
+Opera/7.53 (Windows NT 5.1; U)  [en]	Browser	Opera	7.53	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.53  [en]	Browser	Opera	7.53	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.53  [en]	Browser	Opera	7.53	Windows	Windows ME		
+Opera/7.52 (Windows NT 5.1; U) [en]	Browser	Opera	7.52	Windows	Windows XP		
+Opera/7.52 (Windows NT 5.1; U)  [en]	Browser	Opera	7.52	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.52 [en]	Browser	Opera	7.52	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.52  [en]	Browser	Opera	7.52	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.52  [en]	Browser	Opera	7.52	Windows	Windows 2000		
+Opera/7.51 (X11; SunOS sun4u; U) [de]	Browser	Opera	7.51	SunOS	SunOS		
+Opera/7.51 (Windows NT 5.1; U) [en]	Browser	Opera	7.51	Windows	Windows XP		
+Opera/7.51 (Linux) [en]	Browser	Opera	7.51	Linux	Linux		
+Mozilla/4.78 (Windows NT 5.1; U) Opera 7.51  [en]	Browser	Opera	7.51	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.51  [ru]	Browser	Opera	7.51	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.51  [en]	Browser	Opera	7.51	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.51  [en]	Browser	Opera	7.51	Windows	Windows 2000		
+Opera/7.50 (Windows XP; U)	Browser	Opera	7.5	Windows	Windows XP		
+Opera/7.50 (Windows NT 5.1; U)  [en]	Browser	Opera	7.5	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.50  [ru]	Browser	Opera	7.5	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.50  [en]	Browser	Opera	7.5	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.50  [ru]	Browser	Opera	7.5	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.50  [en]	Browser	Opera	7.5	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.50  [en]	Browser	Opera	7.5	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0; ; Linux x86_64) Opera 7.50 [en]	Browser	Opera	7.5	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; ; Linux i686) Opera 7.50 [en]	Browser	Opera	7.5	Linux	Linux		
+Opera/7.23 (Windows NT 6.0; U)  [zh-cn]	Browser	Opera	7.23	Windows	Windows Vista		
+Opera/7.23 (Windows NT 5.1; U; sv)	Browser	Opera	7.23	Windows	Windows XP		
+Opera/7.23 (Windows NT 5.0; U) [en]	Browser	Opera	7.23	Windows	Windows 2000		
+Opera/7.23 (Windows NT 5.0; U)  [fr]	Browser	Opera	7.23	Windows	Windows 2000		
+Opera/7.23 (Windows NT 5.0; U)  [en]	Browser	Opera	7.23	Windows	Windows 2000		
+Opera/7.23 (Windows 98; U) [en]	Browser	Opera	7.23	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686) Opera 7.23  [fi]	Browser	Opera	7.23	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23 [ru]	Browser	Opera	7.23	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23  [ru]	Browser	Opera	7.23	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23  [en]	Browser	Opera	7.23	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23  [en-GB]	Browser	Opera	7.23	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23  [de]	Browser	Opera	7.23	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23  [en]	Browser	Opera	7.23	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23  [de]	Browser	Opera	7.23	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23  [ca]	Browser	Opera	7.23	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0) Opera 7.23  [de]	Browser	Opera	7.23	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.23  [en]	Browser	Opera	7.23	Windows	Windows 98		
+Opera/7.22 (Windows NT 5.1; U)  [de]	Browser	Opera	7.22	Windows	Windows XP		
+Opera/7.21 (Windows NT 5.1; U)  [en]	Browser	Opera	7.21	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.0; U) Opera 7.21  [en]	Browser	Opera	7.21	Windows	Windows 2000		
+Opera/7.20 (Windows NT 5.1; U)  [en]	Browser	Opera	7.2	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.20  [de]	Browser	Opera	7.2	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.20  [de]	Browser	Opera	7.2	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.20  [en]	Browser	Opera	7.2	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.20  [de]	Browser	Opera	7.2	Windows	Windows 98		
+Opera/7.11 (Windows NT 5.1; U)  [pl]	Browser	Opera	7.11	Windows	Windows XP		
+Opera/7.11 (Windows NT 5.1; U)  [en]	Browser	Opera	7.11	Windows	Windows XP		
+Opera/7.11 (Windows NT 5.1; U)  [de]	Browser	Opera	7.11	Windows	Windows XP		
+Opera/7.11 (Windows NT 5.0; U)  [en]	Browser	Opera	7.11	Windows	Windows 2000		
+Opera/7.11 (Windows NT 5.0; U)  [de]	Browser	Opera	7.11	Windows	Windows 2000		
+Opera/7.11 (Windows 98; U)  [en]	Browser	Opera	7.11	Windows	Windows 98		
+Opera/7.11 (Windows 98; U)  [de]	Browser	Opera	7.11	Windows	Windows 98		
+Opera/7.11 (Linux 2.6.0-test4 i686; U)  [en]	Browser	Opera	7.11	Linux	Linux		
+Mozilla/5.0 (Windows NT 5.1; U) Opera 7.11  [en]	Browser	Opera	7.11	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.0; U) Opera 7.11  [en]	Browser	Opera	7.11	Windows	Windows 2000		
+Mozilla/5.0 (Linux 2.4.21-0.13mdk i686; U) Opera 7.11  [en]	Browser	Opera	7.11	Linux	Linux		
+Mozilla/4.78 (Windows NT 5.0; U) Opera 7.11  [en]	Browser	Opera	7.11	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.11  [ru]	Browser	Opera	7.11	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.11  [en]	Browser	Opera	7.11	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.11  [de]	Browser	Opera	7.11	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [fr]	Browser	Opera	7.11	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]	Browser	Opera	7.11	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [de]	Browser	Opera	7.11	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0) Opera 7.11  [de]	Browser	Opera	7.11	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.11  [en]	Browser	Opera	7.11	Windows	Windows ME		
+More Opera 7.11 user agents strings -->>	Browser	Opera	7.11	unknown	unknown		
+Opera/7.10 (Windows NT 5.1; U)  [en]	Browser	Opera	7.1	Windows	Windows XP		
+Opera/7.10 (Windows NT 5.0; U)  [en]	Browser	Opera	7.1	Windows	Windows 2000		
+Opera/7.10 (Windows NT 4.0; U)  [de]	Browser	Opera	7.1	Windows	Windows NT		
+Opera/7.10 (Linux Debian;en-US)	Browser	Opera	7.1	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.10  [fr]	Browser	Opera	7.1	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.10  [en]	Browser	Opera	7.1	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.10  [en]	Browser	Opera	7.1	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0) Opera 7.10  [de]	Browser	Opera	7.1	Windows	Windows NT		
+Mozilla/3.0 (Windows NT 5.0; U) Opera 7.10  [de]	Browser	Opera	7.1	Windows	Windows 2000		
+Opera/7.03 (Windows NT 5.1; U)  [en]	Browser	Opera	7.03	Windows	Windows XP		
+Opera/7.03 (Windows NT 5.1; U)  [de]	Browser	Opera	7.03	Windows	Windows XP		
+Opera/7.03 (Windows NT 5.0; U)  [en]	Browser	Opera	7.03	Windows	Windows 2000		
+Opera/7.03 (Windows NT 5.0; U)  [de]	Browser	Opera	7.03	Windows	Windows 2000		
+Opera/7.03 (Windows NT 4.0; U)  [en]	Browser	Opera	7.03	Windows	Windows NT		
+Opera/7.03 (Windows 98; U)  [en]	Browser	Opera	7.03	Windows	Windows 98		
+Opera/7.03 (Windows 98; U)  [de]	Browser	Opera	7.03	Windows	Windows 98		
+Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.0.6) Gecko/2009020911 Ubuntu/8.10 (intrepid) Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.03 [de]	Browser	Opera	7.03	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 5.1; U) Opera 7.03  [de]	Browser	Opera	7.03	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.03  [en]	Browser	Opera	7.03	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.03  [de]	Browser	Opera	7.03	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.03  [en]	Browser	Opera	7.03	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.03  [de]	Browser	Opera	7.03	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.03  [de]	Browser	Opera	7.03	Windows	Windows ME		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.03  [en]	Browser	Opera	7.03	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.03  [de]	Browser	Opera	7.03	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 95) Opera 7.03  [de]	Browser	Opera	7.03	Windows	Windows 95		
+Opera/7.02 (Windows NT 5.1; U)  [fr]	Browser	Opera	7.02	Windows	Windows XP		
+Opera/7.02 (Windows 98; U)  [en]	Browser	Opera	7.02	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.02  [en]	Browser	Opera	7.02	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.02  [de]	Browser	Opera	7.02	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.02  [de]	Browser	Opera	7.02	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.02  [en]	Browser	Opera	7.02	Windows	Windows ME		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.02  [en]	Browser	Opera	7.02	Windows	Windows 98		
+Opera/7.01 (Windows NT 5.1; U)  [en]	Browser	Opera	7.01	Windows	Windows XP		
+Opera/7.01 (Windows NT 5.0; U)  [en]	Browser	Opera	7.01	Windows	Windows 2000		
+Opera/7.01 (Windows 98; U)  [fr]	Browser	Opera	7.01	Windows	Windows 98		
+Opera/7.01 (Windows 98; U)  [en]	Browser	Opera	7.01	Windows	Windows 98		
+Mozilla/5.0 (Windows NT 5.0; U) Opera 7.01  [en]	Browser	Opera	7.01	Windows	Windows 2000		
+Mozilla/4.78 (Windows NT 5.0; U) Opera 7.01  [en]	Browser	Opera	7.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01  [en]	Browser	Opera	7.01	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01  [de]	Browser	Opera	7.01	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.01  [en]	Browser	Opera	7.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.01  [en]	Browser	Opera	7.01	Windows	Windows 98		
+Mozilla/3.0 (Windows NT 5.0; U) Opera 7.01  [en]	Browser	Opera	7.01	Windows	Windows 2000		
+Opera/7.0 (Windows NT 5.1; U)  [en]	Browser	Opera	7	Windows	Windows XP		
+Opera/7.0 (Windows NT 4.0; U)  [en]	Browser	Opera	7	Windows	Windows NT		
+Opera/7.0 (Windows NT 4.0; U)  [de]	Browser	Opera	7	Windows	Windows NT		
+Opera/7.0 (Windows 98; U)  [en]	Browser	Opera	7	Windows	Windows 98		
+Opera/7.0 (Windows 2000; U)  [en]	Browser	Opera	7	Windows			
+Opera/7.0 (Windows 2000; U)  [de]	Browser	Opera	7	Windows			
+Mozilla/5.0 (Windows 2000; U) Opera 7.0  [en]	Browser	Opera	7	Windows			
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows XP) Opera 7.0  [en]	Browser	Opera	7	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.0  [en]	Browser	Opera	7	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.0  [en]	Browser	Opera	7	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.0  [de]	Browser	Opera	7	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.0  [en]	Browser	Opera	7	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.0  [en]	Browser	Opera	7	Windows	Windows ME		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.0  [en]	Browser	Opera	7	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 2000) Opera 7.0  [en]	Browser	Opera	7	Windows			
+Opera/6.12 (Linux 2.4.20-4GB i686; U)  [en]	Browser	Opera	6.12	Linux	Linux		
+Opera/6.12 (Linux 2.4.18-14cpq i686; U)  [en]	Browser	Opera	6.12	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; UNIX) Opera 6.12  [en]	Browser	Opera	6.12	Unix	Unix		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.20-4GB i686) Opera 6.12  [de]	Browser	Opera	6.12	Linux	Linux		
+Opera/6.11 (Linux 2.4.18-bf2.4 i686; U)  [en]	Browser	Opera	6.11	Linux	Linux		
+Opera/6.11 (Linux 2.4.18-4GB i686; U)  [en]	Browser	Opera	6.11	Linux	Linux		
+Opera/6.11 (Linux 2.4.10-4GB i686; U)  [en]	Browser	Opera	6.11	Linux	Linux		
+Opera/6.11 (FreeBSD 4.7-RELEASE i386; U)  [en]	Browser	Opera	6.11	Linux	FreeBSD		
+Mozilla/5.0 (Linux 2.4.19-16mdk i686; U) Opera 6.11  [en]	Browser	Opera	6.11	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; UNIX) Opera 6.11  [fr]	Browser	Opera	6.11	Unix	Unix		
+Mozilla/4.0 (compatible; MSIE 5.0; UNIX) Opera 6.11  [en]	Browser	Opera	6.11	Unix	Unix		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.4 i686) Opera 6.11  [en]	Browser	Opera	6.11	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.20-13.7 i686) Opera 6.11  [de]	Browser	Opera	6.11	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19-4GB i686) Opera 6.11  [en]	Browser	Opera	6.11	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19-16mdk i686) Opera 6.11  [en]	Browser	Opera	6.11	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18 i686) Opera 6.11  [de]	Browser	Opera	6.11	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.10-4GB i686) Opera 6.11  [en]	Browser	Opera	6.11	Linux	Linux		
+Mozilla/5.0 (Linux 2.4.18-ltsp-1 i686; U) Opera 6.1  [en]	Browser	Opera	6.1	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19 i686) Opera 6.1  [en]	Browser	Opera	6.1	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18-4GB i686) Opera 6.1  [de]	Browser	Opera	6.1	Linux	Linux		
+Mozilla/5.0 (Windows XP; U) Opera 6.06  [en]	Browser	Opera	6.06	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.06  [fr]	Browser	Opera	6.06	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.06  [de]	Browser	Opera	6.06	Windows	Windows XP		
+Opera/6.05 (Windows XP; U) [en]	Browser	Opera	6.05	Windows	Windows XP		
+Opera/6.05 (Windows XP; U)  [en]	Browser	Opera	6.05	Windows	Windows XP		
+Opera/6.05 (Windows XP; U)  [de]	Browser	Opera	6.05	Windows	Windows XP		
+Opera/6.05 (Windows NT 4.0; U)  [ro]	Browser	Opera	6.05	Windows	Windows NT		
+Opera/6.05 (Windows NT 4.0; U)  [fr]	Browser	Opera	6.05	Windows	Windows NT		
+Opera/6.05 (Windows NT 4.0; U)  [de]	Browser	Opera	6.05	Windows	Windows NT		
+Opera/6.05 (Windows ME; U)  [fr]	Browser	Opera	6.05	Windows	Windows ME		
+Opera/6.05 (Windows ME; U)  [de]	Browser	Opera	6.05	Windows	Windows ME		
+Opera/6.05 (Windows 98; U)  [fr]	Browser	Opera	6.05	Windows	Windows 98		
+Opera/6.05 (Windows 98; U)  [en]	Browser	Opera	6.05	Windows	Windows 98		
+Opera/6.05 (Windows 98; U)  [de]	Browser	Opera	6.05	Windows	Windows 98		
+Opera/6.05 (Windows 2000; U)  [oc]	Browser	Opera	6.05	Windows			
+Opera/6.05 (Windows 2000; U)  [ja]	Browser	Opera	6.05	Windows			
+Opera/6.05 (Windows 2000; U)  [it]	Browser	Opera	6.05	Windows			
+Opera/6.05 (Windows 2000; U)  [fr]	Browser	Opera	6.05	Windows			
+Opera/6.05 (Windows 2000; U)  [en]	Browser	Opera	6.05	Windows			
+Opera/6.05 (Windows 2000; U)  [de]	Browser	Opera	6.05	Windows			
+Mozilla/5.0 (Windows XP; U) Opera 6.05  [de]	Browser	Opera	6.05	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 4.0; U) Opera 6.05  [en]	Browser	Opera	6.05	Windows	Windows NT		
+Mozilla/5.0 (Windows ME; U) Opera 6.05  [de]	Browser	Opera	6.05	Windows	Windows ME		
+More Opera 6.05 user agents strings -->>	Browser	Opera	6.05	unknown	unknown		
+Opera/6.04 (Windows XP; U)  [en]	Browser	Opera	6.04	Windows	Windows XP		
+Opera/6.04 (Windows XP; U)  [de]	Browser	Opera	6.04	Windows	Windows XP		
+Opera/6.04 (Windows NT 4.0; U)  [en]	Browser	Opera	6.04	Windows	Windows NT		
+Opera/6.04 (Windows NT 4.0; U)  [de]	Browser	Opera	6.04	Windows	Windows NT		
+Opera/6.04 (Windows 98; U)  [en-GB]	Browser	Opera	6.04	Windows	Windows 98		
+Opera/6.04 (Windows 2000; U)  [en]	Browser	Opera	6.04	Windows			
+Opera/6.04 (Windows 2000; U)  [de]	Browser	Opera	6.04	Windows			
+Mozilla/5.0 (Windows 2000; U) Opera 6.04  [en]	Browser	Opera	6.04	Windows			
+Mozilla/4.78 (Windows 2000; U) Opera 6.04  [de]	Browser	Opera	6.04	Windows			
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [fr]	Browser	Opera	6.04	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [en]	Browser	Opera	6.04	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [de]	Browser	Opera	6.04	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.04  [en]	Browser	Opera	6.04	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.04  [pl]	Browser	Opera	6.04	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.04  [en]	Browser	Opera	6.04	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.04  [en]	Browser	Opera	6.04	Windows			
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.04  [de]	Browser	Opera	6.04	Windows			
+ Opera/6.04 (Windows XP; U)  [de]	Browser	Opera	6.04	Windows	Windows XP		
+ Opera/6.04 (Windows 2000; U)  [en]	Browser	Opera	6.04	Windows			
+ Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [en]	Browser	Opera	6.04	Windows	Windows XP		
+More Opera 6.04 user agents strings -->>	Browser	Opera	6.04	unknown	unknown		
+Opera/6.03 (Windows NT 4.0; U)  [en]	Browser	Opera	6.03	Windows	Windows NT		
+Opera/6.03 (Windows 98; U) [en]	Browser	Opera	6.03	Windows	Windows 98		
+Opera/6.03 (Windows 2000; U)  [en]	Browser	Opera	6.03	Windows			
+Opera/6.03 (Linux 2.4.18-18.7.x i686; U)  [en]	Browser	Opera	6.03	Linux	Linux		
+Mozilla/5.0 (Windows 2000; U) Opera 6.03  [en]	Browser	Opera	6.03	Windows			
+Mozilla/5.0 (Linux 2.4.18-18.7.x i686; U) Opera 6.03  [en]	Browser	Opera	6.03	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.03  [en]	Browser	Opera	6.03	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.03  [en]	Browser	Opera	6.03	Windows			
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.20-4GB i686) Opera 6.03  [en]	Browser	Opera	6.03	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19-4GB i686) Opera 6.03  [en]	Browser	Opera	6.03	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18-4GB i686) Opera 6.03  [en]	Browser	Opera	6.03	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.0-64GB-SMP i686) Opera 6.03  [en]	Browser	Opera	6.03	Linux	Linux		
+Opera/6.02 (Windows NT 4.0; U)  [de]	Browser	Opera	6.02	Windows	Windows NT		
+Mozilla/5.0 (Windows 2000; U) Opera 6.02  [en]	Browser	Opera	6.02	Windows			
+Mozilla/5.0 (Linux; U) Opera 6.02  [en]	Browser	Opera	6.02	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.02  [en]	Browser	Opera	6.02	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) Opera 6.02  [en]	Browser	Opera	6.02	Windows	Windows 95		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) Opera 6.02  [de]	Browser	Opera	6.02	Windows	Windows 95		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.02  [en]	Browser	Opera	6.02	Windows			
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.20-686 i686) Opera 6.02  [en]	Browser	Opera	6.02	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18-4GB i686) Opera 6.02  [en]	Browser	Opera	6.02	Linux	Linux		
+ Opera/6.02 (Windows NT 4.0; U)  [de]	Browser	Opera	6.02	Windows	Windows NT		
+Opera/6.01 (X11; U; nn)	Browser	Opera	6.01	unknown	unknown		
+Opera/6.01 (Windows XP; U)  [de]	Browser	Opera	6.01	Windows	Windows XP		
+Opera/6.01 (Windows 98; U)  [en]	Browser	Opera	6.01	Windows	Windows 98		
+Opera/6.01 (Windows 98; U)  [de]	Browser	Opera	6.01	Windows	Windows 98		
+Opera/6.01 (Windows 2000; U)  [en]	Browser	Opera	6.01	Windows			
+Opera/6.01 (Windows 2000; U)  [de]	Browser	Opera	6.01	Windows			
+Mozilla/5.0 (Windows 2000; U) Opera 6.01  [en]	Browser	Opera	6.01	Windows			
+Mozilla/5.0 (Windows 2000; U) Opera 6.01  [de]	Browser	Opera	6.01	Windows			
+Mozilla/4.78 (Windows 2000; U) Opera 6.01  [en]	Browser	Opera	6.01	Windows			
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.01  [it]	Browser	Opera	6.01	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.01  [et]	Browser	Opera	6.01	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.01  [de]	Browser	Opera	6.01	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.01  [en]	Browser	Opera	6.01	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.01  [de]	Browser	Opera	6.01	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 6.01  [en]	Browser	Opera	6.01	Windows	Windows ME		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 6.01  [de]	Browser	Opera	6.01	Windows	Windows ME		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [it]	Browser	Opera	6.01	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [fr]	Browser	Opera	6.01	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [en]	Browser	Opera	6.01	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [de]	Browser	Opera	6.01	Windows	Windows 98		
+More Opera 6.01 user agents strings -->>	Browser	Opera	6.01	unknown	unknown		
+Opera/6.0 (Windows XP; U)  [de]	Browser	Opera	6	Windows	Windows XP		
+Opera/6.0 (Windows ME; U)  [de]	Browser	Opera	6	Windows	Windows ME		
+Opera/6.0 (Windows 2000; U)  [fr]	Browser	Opera	6	Windows			
+Opera/6.0 (Windows 2000; U)  [de]	Browser	Opera	6	Windows			
+Opera/6.0 (Macintosh; PPC Mac OS X; U)	Browser	Opera	6	Macintosh	OS X		
+Mozilla/4.76 (Windows NT 4.0; U) Opera 6.0  [de]	Browser	Opera	6	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.0  [en]	Browser	Opera	6	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.0  [de]	Browser	Opera	6	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.0  [en]	Browser	Opera	6	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.0  [de]	Browser	Opera	6	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 6.0  [de]	Browser	Opera	6	Windows	Windows ME		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0 [en]	Browser	Opera	6	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [fr]	Browser	Opera	6	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [en]	Browser	Opera	6	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [de]	Browser	Opera	6	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0 [en]	Browser	Opera	6	Windows			
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0  [en]	Browser	Opera	6	Windows			
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0  [de]	Browser	Opera	6	Windows			
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 6.0  [en]	Browser	Opera	6	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 6.0  [de]	Browser	Opera	6	Macintosh	Macintosh		
+More Opera 6.0 user agents strings -->>	Browser	Opera	6	unknown	unknown		
+Opera/5.12 (Windows NT 5.1; U)  [de]	Browser	Opera	5.12	Windows	Windows XP		
+Opera/5.12 (Windows 98; U)  [en]	Browser	Opera	5.12	Windows	Windows 98		
+Mozilla/5.0 (Windows 98; U) Opera 5.12  [de]	Browser	Opera	5.12	Windows	Windows 98		
+Mozilla/4.76 (Windows NT 4.0; U) Opera 5.12  [en]	Browser	Opera	5.12	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 5.12  [de]	Browser	Opera	5.12	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.12  [it]	Browser	Opera	5.12	Windows	Windows ME		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.12  [de]	Browser	Opera	5.12	Windows	Windows ME		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.12  [it]	Browser	Opera	5.12	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.12  [en]	Browser	Opera	5.12	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.12  [de]	Browser	Opera	5.12	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 5.12  [en]	Browser	Opera	5.12	Macintosh	Macintosh		
+ Opera/5.12 (Windows NT 5.1; U)  [de]	Browser	Opera	5.12	Windows	Windows XP		
+Opera/5.11 (Windows 98; U)  [en]	Browser	Opera	5.11	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 5.11  [de]	Browser	Opera	5.11	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.11 [en]	Browser	Opera	5.11	Windows	Windows ME		
+Opera/5.02 (Windows 98; U)  [en]	Browser	Opera	5.02	Windows	Windows 98		
+Opera/5.02 (Macintosh; U; id)	Browser	Opera	5.02	unknown	unknown		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.1) Opera 5.02  [en]	Browser	Opera	5.02	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 5.02  [en]	Browser	Opera	5.02	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.02  [en]	Browser	Opera	5.02	Windows	Windows 98		
+ Opera/5.02 (Windows NT 5.0; U) [en]	Browser	Opera	5.02	Windows	Windows 2000		
+Opera/5.0 (Ubuntu; U; Windows NT 6.1; es; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13	Browser	Opera	5	Windows	Windows 7		
+Opera/5.0 (SunOS 5.8 sun4u; U)  [en]	Browser	Opera	5	SunOS	SunOS	Solaris 8	5.8
+Mozilla/5.0 (SunOS 5.8 sun4u; U) Opera 5.0 [en]	Browser	Opera	5	SunOS	SunOS	Solaris 8	5.8
+Mozilla/4.0 (compatible; MSIE 5.0; SunOS 5.8 sun4u) Opera 5.0  [en]	Browser	Opera	5	SunOS	SunOS	Solaris 8	5.8
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 5.0  [en]	Browser	Opera	5	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux) Opera 5.0  [en]	Browser	Opera	5	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.4-4GB i686) Opera 5.0  [en]	Browser	Opera	5	Linux	Linux		
+Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.0-4GB i686) Opera 5.0  [en]	Browser	Opera	5	Linux	Linux		
+Opera/4.02 (Windows 98; U) [en]	Browser	Opera	4.02	Windows	Windows 98		
+Mozilla/5.0 (Macintosh; ; Intel Mac OS X; fr; rv:1.8.1.1) Gecko/20061204 Opera	Browser	Opera	--	Macintosh	OS X		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera	Browser	Opera	--	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE) Opera	Browser	Opera	--	Windows	Windows CE		
