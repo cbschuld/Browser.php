@@ -3,11 +3,11 @@
 /**
  * File: Browser.php
  * Author: Chris Schuld (http://chrisschuld.com/)
- * Last Modified: July 22nd, 2016
- * @version 2.0
+ * Last Modified: June 26nd, 2019
+ * @version 1.9.2
  * @package PegasusPHP
  *
- * Copyright (C) 2008-2010 Chris Schuld  (chris@chrisschuld.com)
+ * Copyright (C) 2008-2019 Chris Schuld  (chris@chrisschuld.com)
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License as
@@ -143,6 +143,7 @@ class Browser
 
     /**
      * Class constructor
+     * @param string $userAgent
      */
     public function __construct($userAgent = '')
     {
@@ -1039,7 +1040,7 @@ class Browser
     protected function checkBrowserChrome()
     {
         if (stripos($this->_agent, 'Chrome') !== false) {
-            $aresult = explode('/', stristr($this->_agent, 'Chrome'));
+            $aresult = preg_split('/[\/;]+/', stristr($this->_agent, 'Chrome'));
             if (isset($aresult[1])) {
                 $aversion = explode(' ', $aresult[1]);
                 $this->setVersion($aversion[0]);
@@ -1282,6 +1283,10 @@ class Browser
                         $this->setTablet(true);
                     }
                 }
+                return true;
+            } else if (preg_match("/Firefox([0-9a-zA-Z\.]+)/i", $this->_agent, $matches)) {
+                $this->setVersion($matches[1]);
+                $this->setBrowser(self::BROWSER_FIREFOX);
                 return true;
             } else if (preg_match("/Firefox$/i", $this->_agent, $matches)) {
                 $this->setVersion('');
