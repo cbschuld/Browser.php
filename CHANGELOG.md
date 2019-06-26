@@ -10,7 +10,9 @@ changes when it socially makes sense.
 ## [1.9.2] - 2019-06-26
 ### Added
 - PHPUnit Tests for Firefox, Opera and Chrome (3684 tests, 7368 assertions)
-- Stronger tests for Firefox
+- Stronger tests for Firefox and Chrome
+### Removed
+- Dropped support for 5.x PHP due to updates to PHPUnit and legacy nature of 5.X
 
 ## [1.9.1] - 2019-06-19
 ### Added
