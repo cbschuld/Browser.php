@@ -1,8 +1,12 @@
 {
     "name": "cbschuld/browser.php",
     "description": "A PHP Class to detect a user's Browser",
-    "keywords": ["browser", "user agent", "detection"],
-    "homepage": "http://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php.html",
+    "keywords": [
+        "browser",
+        "user agent",
+        "detection"
+    ],
+    "homepage": "https://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php/",
     "license": "MIT",
     "authors": [
         {
@@ -13,6 +17,9 @@
     ],
     "autoload": {
         "classmap": ["lib/Browser.php"]
+    },
+    "require": {
+        "php": "^5.4"
     },
     "extra": {
         "branch-alias": {
