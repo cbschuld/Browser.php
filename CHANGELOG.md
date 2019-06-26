@@ -9,7 +9,7 @@ changes when it socially makes sense.
 
 ## [1.9.2] - 2019-06-26
 ### Added
-- PHPUnit Tests for Firefox and Chrome (2843 tests, 5686 assertions)
+- PHPUnit Tests for Firefox, Opera and Chrome (3684 tests, 7368 assertions)
 - Stronger tests for Firefox
 
 ## [1.9.1] - 2019-06-19
