@@ -8,7 +8,7 @@ require_once dirname(__FILE__)."/TabDelimitedFileIterator.php";
 final class ChromeTest extends TestCase
 {
     /**
-     * @dataProvider userAgentFirefoxProvider
+     * @dataProvider userAgentChromeProvider
      * @param $userAgent string Browser's User Agent
      * @param $type string Type of the Browser
      * @param $browser string Name of the Browser
@@ -18,7 +18,7 @@ final class ChromeTest extends TestCase
      * @param $osVersionName string Version of the Operating System (name)
      * @param $osVersionNumber string Version of the Operating System (number)
      */
-    public function testFirefoxUserAgent($userAgent,$type,$browser,$version,$osType,$osName,$osVersionName,$osVersionNumber)
+    public function testChromeUserAgent($userAgent,$type,$browser,$version,$osType,$osName,$osVersionName,$osVersionNumber)
     {
         $b = new Browser($userAgent);
 
@@ -26,7 +26,7 @@ final class ChromeTest extends TestCase
         $this->assertSame($version, $b->getVersion());
     }
 
-    public function userAgentFirefoxProvider()
+    public function userAgentChromeProvider()
     {
         return new TabDelimitedFileIterator(dirname(__FILE__).'/lists/chrome.txt');
     }

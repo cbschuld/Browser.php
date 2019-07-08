@@ -62,6 +62,7 @@ class Browser
     const BROWSER_OMNIWEB = 'OmniWeb'; // http://www.omnigroup.com/applications/omniweb/
     const BROWSER_FIREBIRD = 'Firebird'; // http://www.ibphoenix.com/
     const BROWSER_FIREFOX = 'Firefox'; // http://www.mozilla.com/en-US/firefox/firefox.html
+    const BROWSER_PALEMOON = 'Palemoon'; // https://www.palemoon.org/
     const BROWSER_ICEWEASEL = 'Iceweasel'; // http://www.geticeweasel.org/
     const BROWSER_SHIRETOKO = 'Shiretoko'; // http://wiki.mozilla.org/Projects/shiretoko
     const BROWSER_MOZILLA = 'Mozilla'; // http://www.mozilla.com/en-US/
@@ -426,6 +427,7 @@ class Browser
             $this->checkBrowserNetscapeNavigator9Plus() ||
             $this->checkBrowserVivaldi() ||
             $this->checkBrowserYandex() ||
+            $this->checkBrowserPalemoon() ||
             $this->checkBrowserFirefox() ||
             $this->checkBrowserChrome() ||
             $this->checkBrowserOmniWeb() ||
@@ -1261,6 +1263,30 @@ class Browser
             }
             $this->setMobile(true);
             return true;
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is Palemoon or not
+     * @return boolean True if the browser is Palemoon otherwise false
+     */
+    protected function checkBrowserPalemoon()
+    {
+        if (stripos($this->_agent, 'safari') === false) {
+            if (preg_match("/Palemoon[\/ \(]([^ ;\)]+)/i", $this->_agent, $matches)) {
+                $this->setVersion($matches[1]);
+                $this->setBrowser(self::BROWSER_PALEMOON);
+                return true;
+            } else if (preg_match("/Palemoon([0-9a-zA-Z\.]+)/i", $this->_agent, $matches)) {
+                $this->setVersion($matches[1]);
+                $this->setBrowser(self::BROWSER_PALEMOON);
+                return true;
+            } else if (preg_match("/Palemoon/i", $this->_agent, $matches)) {
+                $this->setVersion('');
+                $this->setBrowser(self::BROWSER_PALEMOON);
+                return true;
+            }
         }
         return false;
     }
