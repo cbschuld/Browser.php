@@ -74,6 +74,9 @@ class Browser
     const BROWSER_CHROME = 'Chrome'; // http://www.google.com/chrome
     const BROWSER_ANDROID = 'Android'; // http://www.android.com/
     const BROWSER_GOOGLEBOT = 'GoogleBot'; // http://en.wikipedia.org/wiki/Googlebot
+    const BROWSER_CURL = 'cURL'; // https://en.wikipedia.org/wiki/CURL
+    const BROWSER_WGET = 'Wget'; // https://en.wikipedia.org/wiki/Wget
+
 
     const BROWSER_YANDEXBOT = 'YandexBot'; // http://yandex.com/bots
     const BROWSER_YANDEXIMAGERESIZER_BOT = 'YandexImageResizer'; // http://yandex.com/bots
@@ -478,6 +481,8 @@ class Browser
             $this->checkBrowserIceCat() ||
             $this->checkBrowserIceweasel() ||
             $this->checkBrowserW3CValidator() ||
+            $this->checkBrowserCurl() ||
+            $this->checkBrowserWget() ||
             $this->checkBrowserPlayStation() ||
             $this->checkBrowserIframely() ||
             $this->checkBrowserCocoa() ||
@@ -1674,6 +1679,39 @@ class Browser
                 if (stripos($this->_agent, 'Portable)') !== false || stripos($this->_agent, 'Vita') !== false) {
                     $this->setMobile(true);
                 }
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is Wget or not (last updated 1.7)
+     * @return boolean True if the browser is Wget otherwise false
+     */
+    protected function checkBrowserWget ()
+    {
+        if (preg_match("!^Wget/([^ ]+)!i", $this->_agent, $aresult))
+        {
+            $this->setVersion($aresult[1]);
+            $this->setBrowser(self::BROWSER_WGET);
+            return true;
+        }
+        return false;
+    }
+    /**
+     * Determine if the browser is cURL or not (last updated 1.7)
+     * @return boolean True if the browser is cURL otherwise false
+     */
+    protected function checkBrowserCurl ()
+    {
+        if (strpos($this->_agent, 'curl') === 0)
+        {
+            $aresult = explode('/', stristr($this->_agent, 'curl'));
+            if (isset($aresult[1])) {
+                $aversion = explode(' ', $aresult[1]);
+                $this->setVersion($aversion[0]);
+                $this->setBrowser(self::BROWSER_CURL);
                 return true;
             }
         }
