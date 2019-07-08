@@ -78,4 +78,25 @@ changes when it socially makes sense.
 ## 0.0.3 - 2009-02-19
 ### Fixed
 * updated typical usage to show a correct example! (thanks David!)
-
+* Updated the version detection for Amaya
+* Updated the version detection for Firefox
+* Updated the version detection for Lynx
+* Updated the version detection for WebTV
+* Updated the version detection for NetPositive
+* Updated the version detection for IE
+* Updated the version detection for OmniWeb
+* Updated the version detection for iCab
+* Updated the version detection for Safari
+* Updated Safari to remove mobile devices (iPhone)
+### Added
+* Added version detectionf for edge via [pixelbacon](https://github.com/pixelbacon)
+* Added detection for Chrome
+* Added detection for iPhone
+* Added detection for robots
+* Added detection for mobile devices
+* Added detection for BlackBerry
+* Added detection for iPhone
+* Added detection for iPad
+* Added detection for Android
+### Removed
+* Removed Netscape checks
