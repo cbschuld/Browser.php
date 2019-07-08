@@ -44,9 +44,12 @@ This solution identifies the following Browsers and does a best-guess on the ver
 * Firefox (`Browser::BROWSER_FIREFOX`)
 * Mozilla (`Browser::BROWSER_MOZILLA`)
 * Palemoon (`Browser::BROWSER_PALEMOON`)
+* curl (`Browser::BROWSER_CURL`)
+* wget (`Browser::BROWSER_WGET`)
 * Amaya (`Browser::BROWSER_AMAYA`)
 * Lynx (`Browser::BROWSER_LYNX`)
 * Safari (`Browser::BROWSER_SAFARI`)
+* Playstation (`Browser::BROWSER_PLAYSTATION`)
 * iPhone (`Browser::BROWSER_IPHONE`)
 * iPod (`Browser::BROWSER_IPOD`)
 * Google.s Android(`Browser::BROWSER_ANDROID`)
@@ -85,5 +88,24 @@ In an active project of mine we have a pretty graphically intensive and visually
 
 Searching for a way to do this at the PHP layer and not at the client layer was more of a challenge than I would have guessed; the only script available was written by Gary White and Gary no longer maintains this script because of reliability. I do agree 100% with Gary about the readability; however, there are realistic reasons to desire the user.s browser and browser version and if your visitor is not echoing a false user agent we can take an educated guess.
 
-I based this solution off of Gary White's original work but have since replaced all of his original code.  Either way, thank you to Gary.  Sadly, I never was able to get in touch with him regarding this soludion.
+I based this solution off of Gary White's original work but have since replaced all of his original code.  Either way, thank you to Gary.  Sadly, I never was able to get in touch with him regarding this solution.
+
+## Testing
+
+The testing with PHPUnit against known user agents available in tests/lists.  Each file is tab delimited with the following fields:
+
+User Agent, User Agent Type, Browser, Version, Operating System, Operating System Version
+
+eg
+```
+Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16	Browser	Opera	12.16	Linux	Linux	
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.186 Safari/535.1   Browser	Chrome	14.0.835.186	Macintosh	OS X		10_7_2
+```
+
+Tests can be run by phpunit:
+
+```bash
+vendor/phpunit/phpunit/phpunit
+```
+
 

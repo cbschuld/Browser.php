@@ -7,6 +7,10 @@ changes when it socially makes sense.
 
 ## [Unreleased]
 
+## [1.9.3] - 2019-07-08
+### Added
+- Added support for curl, wget and the Palemoon browser
+
 ## [1.9.2] - 2019-06-26
 ### Added
 - PHPUnit Tests for Firefox, Opera and Chrome (3684 tests, 7368 assertions)
