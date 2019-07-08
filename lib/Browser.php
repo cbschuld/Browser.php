@@ -1393,7 +1393,6 @@ class Browser
     protected function checkBrowserSafari()
     {
         if (stripos($this->_agent, 'Safari') !== false
-            && stripos($this->_agent, 'iPhone') === false
             && stripos($this->_agent, 'iPod') === false
         ) {
 
@@ -1538,7 +1537,10 @@ class Browser
      * @return boolean True if the browser is iPhone otherwise false
      */
     protected function checkBrowseriPhone()
-    {
+    {   
+        if (stripos($this->_agent, 'Safari') !== false) { 
+            return $this->checkBrowserSafari();
+        }
         if (stripos($this->_agent, 'iPhone') !== false) {
             $this->setVersion(self::VERSION_UNKNOWN);
             $this->setBrowser(self::BROWSER_IPHONE);
