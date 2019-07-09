@@ -78,6 +78,7 @@ class Browser
     const BROWSER_GOOGLEBOT = 'GoogleBot'; // http://en.wikipedia.org/wiki/Googlebot
     const BROWSER_CURL = 'cURL'; // https://en.wikipedia.org/wiki/CURL
     const BROWSER_WGET = 'Wget'; // https://en.wikipedia.org/wiki/Wget
+    const BROWSER_UCBROWSER = 'UCBrowser'; // https://www.ucweb.com/
 
 
     const BROWSER_YANDEXBOT = 'YandexBot'; // http://yandex.com/bots
@@ -425,6 +426,7 @@ class Browser
             //     before Firefox and Chrome
             $this->checkBrowserWebTv() ||
             $this->checkBrowserBrave() ||
+            $this->checkBrowserUCBrowser() ||
             $this->checkBrowserEdge() ||
             $this->checkBrowserInternetExplorer() ||
             $this->checkBrowserOpera() ||
@@ -1304,7 +1306,28 @@ class Browser
     }
 
     /**
-     * Determine if the browser is Firefox or not (last updated 1.7)
+     * Determine if the browser is UCBrowser or not
+     * @return boolean True if the browser is UCBrowser otherwise false
+     */
+    protected function checkBrowserUCBrowser()
+    {
+        if (preg_match('/UC ?Browser\/?([\d\.]+)/', $this->_agent, $matches )) {
+            if(isset($matches[1])) {
+                $this->setVersion($matches[1]);
+            }
+            if (stripos($this->_agent, 'Mobile') !== false) {
+                $this->setMobile(true);
+            } else {
+                $this->setTablet(true);
+            }
+            $this->setBrowser(self::BROWSER_UCBROWSER);
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is Firefox or not
      * @return boolean True if the browser is Firefox otherwise false
      */
     protected function checkBrowserFirefox()
