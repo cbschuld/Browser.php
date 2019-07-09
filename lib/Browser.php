@@ -1314,8 +1314,8 @@ class Browser
                 $this->setVersion($matches[1]);
                 $this->setBrowser(self::BROWSER_FIREFOX);
                 //Firefox on Android
-                if (stripos($this->_agent, 'Android') !== false) {
-                    if (stripos($this->_agent, 'Mobile') !== false) {
+                if (stripos($this->_agent, 'Android') !== false || stripos($this->_agent, 'iPhone') !== false) {
+                    if (stripos($this->_agent, 'Mobile') !== false || stripos($this->_agent, 'Tablet') !== false) {
                         $this->setMobile(true);
                     } else {
                         $this->setTablet(true);
@@ -1335,8 +1335,8 @@ class Browser
             $this->setVersion($matches[1]);
             $this->setBrowser(self::BROWSER_FIREFOX);
             //Firefox on Android
-            if (stripos($this->_agent, 'Android') !== false) {
-                if (stripos($this->_agent, 'Mobile') !== false) {
+            if (stripos($this->_agent, 'Android') !== false || stripos($this->_agent, 'iPhone') !== false) {
+                if (stripos($this->_agent, 'Mobile') !== false || stripos($this->_agent, 'Tablet') !== false) {
                     $this->setMobile(true);
                 } else {
                     $this->setTablet(true);
