@@ -41,6 +41,7 @@ This solution identifies the following Browsers and does a best-guess on the ver
 * OmniWeb (`Browser::BROWSER_OMNIWEB`)
 * Phoenix (`Browser::BROWSER_PHOENIX`)
 * Firebird (`Browser::BROWSER_FIREBIRD`)
+* UCBrowser (`Browser::BROWSER_UCBROWSER`)
 * Firefox (`Browser::BROWSER_FIREFOX`)
 * Mozilla (`Browser::BROWSER_MOZILLA`)
 * Palemoon (`Browser::BROWSER_PALEMOON`)
