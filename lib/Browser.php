@@ -61,7 +61,8 @@ class Browser
     const BROWSER_ICAB = 'iCab'; // http://www.icab.de/
     const BROWSER_OMNIWEB = 'OmniWeb'; // http://www.omnigroup.com/applications/omniweb/
     const BROWSER_FIREBIRD = 'Firebird'; // http://www.ibphoenix.com/
-    const BROWSER_FIREFOX = 'Firefox'; // http://www.mozilla.com/en-US/firefox/firefox.html
+    const BROWSER_FIREFOX = 'Firefox'; // https://www.mozilla.org/en-US/firefox/
+    const BROWSER_BRAVE = 'Brave'; // https://brave.com/
     const BROWSER_PALEMOON = 'Palemoon'; // https://www.palemoon.org/
     const BROWSER_ICEWEASEL = 'Iceweasel'; // http://www.geticeweasel.org/
     const BROWSER_SHIRETOKO = 'Shiretoko'; // http://wiki.mozilla.org/Projects/shiretoko
@@ -423,6 +424,7 @@ class Browser
             // (6) Vivaldi is UA contains both Firefox and Chrome so Vivaldi checks
             //     before Firefox and Chrome
             $this->checkBrowserWebTv() ||
+            $this->checkBrowserBrave() ||
             $this->checkBrowserEdge() ||
             $this->checkBrowserInternetExplorer() ||
             $this->checkBrowserOpera() ||
@@ -864,6 +866,31 @@ class Browser
                 $this->setMobile(false);
                 return true;
             }
+        }
+        return false;
+    }
+
+    /**
+     * Determine if the browser is Brave or not
+     * @return boolean True if the browser is Brave otherwise false
+     */
+    protected function checkBrowserBrave()
+    {
+        if (stripos($this->_agent, 'Brave/') !== false) {
+            $aResult = explode('/', stristr($this->_agent, 'Brave'));
+            if (isset($aResult[1])) {
+                $aversion = explode(' ', $aResult[1]);
+                $this->setVersion($aversion[0]);
+                $this->setBrowser(self::BROWSER_BRAVE);
+                return true;
+            }
+        }
+        elseif (stripos($this->_agent, ' Brave ') !== false) {
+            $this->setBrowser(self::BROWSER_BRAVE);
+            // this version of the UA did not ship with a version marker
+            // e.g. Mozilla/5.0 (Linux; Android 7.0; SM-G955F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/68.0.3440.91 Mobile Safari/537.36
+            $this->setVersion('');
+            return true;
         }
         return false;
     }
