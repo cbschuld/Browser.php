@@ -7,6 +7,12 @@ changes when it socially makes sense.
 
 ## [Unreleased]
 
+## [1.9.4] - 2019-07-09
+### Added
+- Added better support for Firefox Mobile
+- Added support for the Brave browser
+- Added more tests for specific User Agents and more IE tests (removed duplicate UAs as well)
+
 ## [1.9.3] - 2019-07-08
 ### Added
 - Added support for curl, wget and the Palemoon browser
