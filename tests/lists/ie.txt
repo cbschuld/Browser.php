@@ -1,488 +1,330 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
 "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko"	Browser	Internet Explorer	11.0	Windows	Windows NT		
-Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0	Browser	Internet Explorer	10.6	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)	Browser	Internet Explorer	10.0	Windows	Windows NT		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)	Browser	Internet Explorer	10.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_7_3; Trident/6.0)	Browser	Internet Explorer	10.0	Macintosh	OS X		10_7_3
-Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)	Browser	Internet Explorer	8.0	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
 Mozilla/1.22 (compatible; MSIE 10.0; Windows 3.1)	Browser	Internet Explorer	10.0	Windows	Windows 3.1		
-Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))	Browser	Internet Explorer	9.0	Windows	Windows NT		
-Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)	Browser	Internet Explorer	9.0	Windows	Windows NT		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)	Browser	Internet Explorer	9.0	Windows	Windows NT		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; InfoPath.3; MS-RTC LM 8; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; yie8)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; .NET4.0C; Tablet PC 2.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/13.0.782.215)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/11.0.696.57)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0) chromeframe/10.0.648.205	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)	Browser	Internet Explorer	9.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.1.76908; WOW64; en-US)	Browser	Internet Explorer	9.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.2; SV1; .NET CLR 3.3.69573; WOW64; en-US)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	8.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.8.36217; WOW64; en-US)	Browser	Internet Explorer	8.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; .NET CLR 2.7.58687; SLCC2; Media Center PC 5.0; Zune 3.4; Tablet PC 3.6; InfoPath.3)	Browser	Internet Explorer	8.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; Media Center PC 4.0; SLCC1; .NET CLR 3.0.04320)	Browser	Internet Explorer	8.0	Windows	Windows Server 2003		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; SLCC1; .NET CLR 1.1.4322)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	8.0	Windows	Windows 2000		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.0; FBSMTWB; .NET CLR 2.0.34861; .NET CLR 3.0.3746.3218; .NET CLR 3.5.33652; msn OptimizedIE8;ENUS)	Browser	Internet Explorer	7.0	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)	Browser	Internet Explorer	8.0	Windows	Windows 8		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.3; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MS-RTC LM 8)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 3.0)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; msn OptimizedIE8;ZHCN)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; InfoPath.3; .NET4.0C; .NET4.0E) chromeframe/8.0.552.224	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0(compatible; MSIE 7.0b; Windows NT 6.0)	Browser	Internet Explorer	7.0b	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)	Browser	Internet Explorer	7.0b	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	7.0b	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; Media Center PC 3.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; FDM; .NET CLR 1.1.4322)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; Alexa Toolbar; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; Alexa Toolbar)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.40607)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.0.3705; Media Center PC 3.1; Alexa Toolbar; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; el-GR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 5.2)	Browser	Internet Explorer	7.0	Windows	Windows Server 2003		
-Mozilla/5.0 (MSIE 7.0; Macintosh; U; SunOS; X11; gu; SV1; InfoPath.2; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	Browser	Internet Explorer	7.0	SunOS	SunOS		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; c .NET CLR 3.0.04506; .NET CLR 3.5.30707; InfoPath.1; el-GR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; c .NET CLR 3.0.04506; .NET CLR 3.5.30707; InfoPath.1; el-GR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; fr-FR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; en-US)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; WOW64; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0	Windows	Windows Server 2003		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; SpamBlockerUtility 6.3.91; SpamBlockerUtility 6.2.91; .NET CLR 4.1.89;GB)	Browser	Internet Explorer	7.0	Windows	Windows 98		
-Mozilla/4.79 [en] (compatible; MSIE 7.0; Windows NT 5.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	Browser	Internet Explorer	7.0	Windows	Windows 2000		
-Mozilla/4.0 (Windows; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0	Windows	Windows XP		
-Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/1.22 (compatible; MSIE 2.0; Windows 3.1)	Browser	Internet Explorer	2.0	Windows	Windows 3.1		
+Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)	Browser	Internet Explorer	2.0	Windows	Windows 95		
+Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)	Browser	Internet Explorer	3.01	Windows	Windows 95		
+Mozilla/2.0 (compatible; MSIE 3.02; Windows 3.1)	Browser	Internet Explorer	3.02	Windows	Windows 3.1		
+Mozilla/2.0 (compatible; MSIE 3.03; Windows 3.1)	Browser	Internet Explorer	3.03	Windows	Windows 3.1		
+Mozilla/2.0 (compatible; MSIE 3.0; Windows 3.1)	Browser	Internet Explorer	3.0	Windows	Windows 3.1		
+Mozilla/2.0 (compatible; MSIE 3.0; Windows 95)	Browser	Internet Explorer	3.0	Windows	Windows 95		
+Mozilla/2.0 (compatible; MSIE 3.0B; Windows NT)	Browser	Internet Explorer	3.0B	Windows	Windows NT		
+Mozilla/2.0 (compatible; MSIE 4.0; Windows 98)	Browser	Internet Explorer	4.0	Windows	Windows 98		
+Mozilla/3.0 (compatible; MSIE 3.0; Windows NT 5.0)	Browser	Internet Explorer	3.0	Windows	Windows 2000		
+Mozilla/4.0 (Compatible; MSIE 4.0)	Browser	Internet Explorer	4.0	unknown	unknown		
+Mozilla/4.0 (Compatible; MSIE 5.5; Windows NT5.0; Q312461; SV1; .NET CLR 1.1.4322; InfoPath.2)	Browser	Internet Explorer	5.5	Windows	Windows 2000		
+Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)	Browser	Internet Explorer	8.0	Windows	Windows Server 2003		
+Mozilla/4.0 (Compatible; Windows NT 5.1; MSIE 6.0) (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (MSIE 6.0; Windows NT 5.0)	Browser	Internet Explorer	6.0	Windows	Windows 2000		
+Mozilla/4.0 (MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
 Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1)	Browser	Internet Explorer	7.0	Windows	Windows XP		
-Mozilla/4.0 (compatible;MSIE 7.0;Windows NT 6.0)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/6.0; .NET4.0E; .NET4.0C)	Browser	Internet Explorer	7.0	Windows	Windows 8		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; SLCC2; .NET CLR 2.0.50727; InfoPath.3; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MS-RTC LM 8)	Browser	Internet Explorer	7.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; .NET4.0C; .NET4.0E; InfoPath.3)	Browser	Internet Explorer	7.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	7.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; chromeframe/12.0.742.100)	Browser	Internet Explorer	7.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 6.1; Windows XP; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.1	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.1; Windows XP)	Browser	Internet Explorer	6.1	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.01; Windows NT 6.0)	Browser	Internet Explorer	6.01	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1; DigExt)	Browser	Internet Explorer	6.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)	Browser	Internet Explorer	6.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.2.6)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.0.0) (Compatible; ; ; Trident/4.0)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.0.0)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0; .NET CLR 1.0.2914)	Browser	Internet Explorer	6.0b	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0)	Browser	Internet Explorer	6.0b	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98; YComp 5.0.0.0)	Browser	Internet Explorer	6.0b	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98; Win 9x 4.90)	Browser	Internet Explorer	6.0b	Windows	Windows Me		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98)	Browser	Internet Explorer	6.0b	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)	Browser	Internet Explorer	6.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; .NET CLR 1.0.3705)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0)	Browser	Internet Explorer	6.0b	Windows	Windows NT		
-Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4325)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/45.0 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.08 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.01 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (X11; MSIE 6.0; i686; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM)	Browser	Internet Explorer	6.0	unknown	unknown		
-Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 6.0)	Browser	Internet Explorer	6.0	Windows	Windows Vista		
-Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.2)	Browser	Internet Explorer	6.0	Windows	Windows Server 2003		
+Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	7.0	Windows	Windows XP		
 Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.0)	Browser	Internet Explorer	6.0	Windows	Windows 2000		
 Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (MSIE 6.0; Windows NT 5.0)	Browser	Internet Explorer	6.0	Windows	Windows 2000		
-Mozilla/4.0 (compatible;MSIE 6.0;Windows 98;Q312461)	Browser	Internet Explorer	6.0	Windows	Windows 98		
-Mozilla/4.0 (Compatible; Windows NT 5.1; MSIE 6.0) (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; U; MSIE 6.0; Windows NT 5.1) (Compatible; ; ; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; U; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; InfoPath.3; Tablet PC 2.0)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.5; QQDownload 534; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC2; .NET CLR 2.0.50727; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 5.5b1; Mac_PowerPC)	Browser	Internet Explorer	5.5b1	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.9; SiteCoach 1.0)	Browser	Internet Explorer	5.50	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.8; SiteCoach 1.0)	Browser	Internet Explorer	5.50	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.8)	Browser	Internet Explorer	5.50	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.50; Windows 98; SiteKiosk 4.8)	Browser	Internet Explorer	5.50	Windows	Windows 98		
+Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.2)	Browser	Internet Explorer	6.0	Windows	Windows Server 2003		
+Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 6.0)	Browser	Internet Explorer	6.0	Windows	Windows Vista		
+Mozilla/4.0 (Windows; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (X11; MSIE 6.0; i686; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM)	Browser	Internet Explorer	6.0	unknown	unknown		
+Mozilla/4.0 (compatible ; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 2.0; Windows NT 5.0; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)	Browser	Internet Explorer	2.0	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 4.01; Mac_PowerPC)	Browser	Internet Explorer	4.01	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)	Browser	Internet Explorer	4.01	Windows	Windows 95		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)	Browser	Internet Explorer	4.01	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; DigExt)	Browser	Internet Explorer	4.01	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; Hotbar 3.0)	Browser	Internet Explorer	4.01	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; PPC)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; Sprint:PPC-6700; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Smartphone; 176x220)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:PPC-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SCH-i320; Smartphone; 176x220)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SCH-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip320; Smartphone; 176x220)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip830w; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint; SCH-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint;PPC-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows NT 5.0)	Browser	Internet Explorer	4.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)	Browser	Internet Explorer	4.01	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)	Browser	Internet Explorer	4.0	Windows	Windows 95		
+Mozilla/4.0 (compatible; MSIE 4.0; Windows 95; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	4.0	Windows	Windows 95		
+Mozilla/4.0 (compatible; MSIE 4.0; Windows 98 )	Browser	Internet Explorer	4.0	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)	Browser	Internet Explorer	4.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 4.5; Mac_PowerPC)	Browser	Internet Explorer	4.5	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 4.5; Windows 98; )	Browser	Internet Explorer	4.5	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 4.5; Windows NT 5.1; .NET CLR 2.0.40607)	Browser	Internet Explorer	4.5	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.00; Windows 98)	Browser	Internet Explorer	5.00	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.00; Windows 98)	Browser	Internet Explorer	5.00	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98)	Browser	Internet Explorer	5.01	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; MSIECrawler)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Q312461)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Q312461; T312461)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; SV1)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; SV1; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.1)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.3; Wanadoo 5.5)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.6)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.0.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.0.0; Hotbar 4.1.8.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.4)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; Hotbar 3.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; Hotbar 4.2.8.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; MSIECrawler)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT)	Browser	Internet Explorer	5.01	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; .NET CLR 1.0.3705)	Browser	Internet Explorer	5.01	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; DigExt)	Browser	Internet Explorer	5.01	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; Hotbar 4.1.8.0)	Browser	Internet Explorer	5.01	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; YComp 5.0.0.0)	Browser	Internet Explorer	5.01	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.05; Windows 98; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.05	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.05; Windows NT 3.51)	Browser	Internet Explorer	5.05	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.05; Windows NT 4.0)	Browser	Internet Explorer	5.05	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 5.0.2.6)	Browser	Internet Explorer	5.0	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 5.0.2.6; yplus 1.0)	Browser	Internet Explorer	5.0	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; Hotbar 3.0)	Browser	Internet Explorer	5.0	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; YComp 5.0.2.4)	Browser	Internet Explorer	5.0	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98;)	Browser	Internet Explorer	5.0	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.0)	Browser	Internet Explorer	5.0	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.2; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.0	Windows	Windows Server 2003		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.9; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.0.04506.648; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	5.0	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; .NET CLR 1.0.3705)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; Hotbar 3.0)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; Hotbar 4.1.8.0)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.0.0)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.2.5)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.2.6)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT;)	Browser	Internet Explorer	5.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.0b1; Mac_PowerPC)	Browser	Internet Explorer	5.0b1	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.12; Mac_PowerPC)	Browser	Internet Explorer	5.12	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.13; Mac_PowerPC)	Browser	Internet Explorer	5.13	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.14; Mac_PowerPC)	Browser	Internet Explorer	5.14	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.15; Mac_PowerPC)	Browser	Internet Explorer	5.15	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.16; Mac_PowerPC)	Browser	Internet Explorer	5.16	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC Mac OS; en)	Browser	Internet Explorer	5.17	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC)	Browser	Internet Explorer	5.17	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.21; Mac_PowerPC)	Browser	Internet Explorer	5.21	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.22; Mac_PowerPC)	Browser	Internet Explorer	5.22	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC)	Browser	Internet Explorer	5.23	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 5.2; Mac_PowerPC)	Browser	Internet Explorer	5.2	Macintosh	Macintosh		
 Mozilla/4.0 (compatible; MSIE 5.50; Windows 95; SiteKiosk 4.8)	Browser	Internet Explorer	5.50	Windows	Windows 95		
-Mozilla/4.0 (compatible;MSIE 5.5; Windows 98)	Browser	Internet Explorer	5.5	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 5.5;)	Browser	Internet Explorer	5.5	unknown	unknown		
-Mozilla/4.0 (Compatible; MSIE 5.5; Windows NT5.0; Q312461; SV1; .NET CLR 1.1.4322; InfoPath.2)	Browser	Internet Explorer	5.5	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT5)	Browser	Internet Explorer	5.5	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)	Browser	Internet Explorer	5.5	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.50; Windows 98; SiteKiosk 4.8)	Browser	Internet Explorer	5.50	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.8)	Browser	Internet Explorer	5.50	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.8; SiteCoach 1.0)	Browser	Internet Explorer	5.50	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.9; SiteCoach 1.0)	Browser	Internet Explorer	5.50	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)	Browser	Internet Explorer	5.5	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90)	Browser	Internet Explorer	5.5	Windows	Windows Me		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0)	Browser	Internet Explorer	5.5	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	Browser	Internet Explorer	5.5	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	Browser	Internet Explorer	5.5	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.5	Windows	Windows Server 2003		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322) (Compatible; ; ; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.5	Windows	Windows Server 2003		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; FDM)	Browser	Internet Explorer	5.5	Windows	Windows Server 2003		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.5)	Browser	Internet Explorer	5.5	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	Browser	Internet Explorer	5.5	Windows	Windows Vista		
 Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	5.5	Windows	Windows 7		
 Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.1; chromeframe/12.0.742.100; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)	Browser	Internet Explorer	5.5	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	Browser	Internet Explorer	5.5	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.5)	Browser	Internet Explorer	5.5	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; FDM)	Browser	Internet Explorer	5.5	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322) (Compatible; ; ; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.5	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.5	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	Browser	Internet Explorer	5.5	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	Browser	Internet Explorer	5.5	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC)	Browser	Internet Explorer	5.23	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.22; Mac_PowerPC)	Browser	Internet Explorer	5.22	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.21; Mac_PowerPC)	Browser	Internet Explorer	5.21	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.2; Mac_PowerPC)	Browser	Internet Explorer	5.2	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.2; Mac_PowerPC)	Browser	Internet Explorer	5.2	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC)	Browser	Internet Explorer	5.17	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC Mac OS; en)	Browser	Internet Explorer	5.17	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.16; Mac_PowerPC)	Browser	Internet Explorer	5.16	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.16; Mac_PowerPC)	Browser	Internet Explorer	5.16	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.15; Mac_PowerPC)	Browser	Internet Explorer	5.15	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.15; Mac_PowerPC)	Browser	Internet Explorer	5.15	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.14; Mac_PowerPC)	Browser	Internet Explorer	5.14	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.13; Mac_PowerPC)	Browser	Internet Explorer	5.13	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.12; Mac_PowerPC)	Browser	Internet Explorer	5.12	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.12; Mac_PowerPC)	Browser	Internet Explorer	5.12	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.05; Windows NT 4.0)	Browser	Internet Explorer	5.05	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.05; Windows NT 3.51)	Browser	Internet Explorer	5.05	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.05; Windows 98; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.05	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; YComp 5.0.0.0)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; Hotbar 4.1.8.0)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; DigExt)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; .NET CLR 1.0.3705)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; MSIECrawler)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; Hotbar 4.2.8.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; Hotbar 3.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.4)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.0.0; Hotbar 4.1.8.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.0.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.6)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.3; Wanadoo 5.5)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.1)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; SV1; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; SV1)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Q312461; T312461)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Q312461)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; MSIECrawler)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.0b1; Mac_PowerPC)	Browser	Internet Explorer	5.0b1	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.00; Windows 98)	Browser	Internet Explorer	5.00	Windows	Windows 98		
-Mozilla/4.0(compatible; MSIE 5.0; Windows 98; DigExt)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT;)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.2.6)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.2.5)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.0.0)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; Hotbar 4.1.8.0)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; Hotbar 3.0)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; .NET CLR 1.0.3705)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.0.04506.648; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	5.0	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.9; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.2; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.0	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.0)	Browser	Internet Explorer	5.0	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98;)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; YComp 5.0.2.4)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; Hotbar 3.0)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 5.0.2.6; yplus 1.0)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 5.0.2.6)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.5; Windows NT 5.1; .NET CLR 2.0.40607)	Browser	Internet Explorer	4.5	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 4.5; Windows 98; )	Browser	Internet Explorer	4.5	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.5; Mac_PowerPC)	Browser	Internet Explorer	4.5	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 4.5; Mac_PowerPC)	Browser	Internet Explorer	4.5	Macintosh	Macintosh		
-Mozilla/4.0 PPC (compatible; MSIE 4.01; Windows CE; PPC; 240x320; Sprint:PPC-6700; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)	Browser	Internet Explorer	4.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows NT 5.0)	Browser	Internet Explorer	4.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint;PPC-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint; SCH-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip830w; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip320; Smartphone; 176x220)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SCH-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SCH-i320; Smartphone; 176x220)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:PPC-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Smartphone; 176x220)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; Sprint:PPC-6700; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; PPC)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; Hotbar 3.0)	Browser	Internet Explorer	4.01	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; DigExt)	Browser	Internet Explorer	4.01	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)	Browser	Internet Explorer	4.01	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)	Browser	Internet Explorer	4.01	Windows	Windows 95		
-Mozilla/4.0 (compatible; MSIE 4.01; Mac_PowerPC)	Browser	Internet Explorer	4.01	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)	Browser	Internet Explorer	4.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 4.0; Windows 98 )	Browser	Internet Explorer	4.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.0; Windows 95; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	4.0	Windows	Windows 95		
-Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)	Browser	Internet Explorer	4.0	Windows	Windows 95		
-Mozilla/4.0 (Compatible; MSIE 4.0)	Browser	Internet Explorer	4.0	unknown	unknown		
-Mozilla/2.0 (compatible; MSIE 4.0; Windows 98)	Browser	Internet Explorer	4.0	Windows	Windows 98		
-Mozilla/2.0 (compatible; MSIE 3.03; Windows 3.1)	Browser	Internet Explorer	3.03	Windows	Windows 3.1		
-Mozilla/2.0 (compatible; MSIE 3.02; Windows 3.1)	Browser	Internet Explorer	3.02	Windows	Windows 3.1		
-Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)	Browser	Internet Explorer	3.01	Windows	Windows 95		
-Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)	Browser	Internet Explorer	3.01	Windows	Windows 95		
-Mozilla/2.0 (compatible; MSIE 3.0B; Windows NT)	Browser	Internet Explorer	3.0B	Windows	Windows NT		
-Mozilla/3.0 (compatible; MSIE 3.0; Windows NT 5.0)	Browser	Internet Explorer	3.0	Windows	Windows 2000		
-Mozilla/2.0 (compatible; MSIE 3.0; Windows 95)	Browser	Internet Explorer	3.0	Windows	Windows 95		
-Mozilla/2.0 (compatible; MSIE 3.0; Windows 3.1)	Browser	Internet Explorer	3.0	Windows	Windows 3.1		
-Mozilla/4.0 (compatible; MSIE 2.0; Windows NT 5.0; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)	Browser	Internet Explorer	2.0	Windows	Windows 2000		
-Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)	Browser	Internet Explorer	2.0	Windows	Windows 95		
-Mozilla/1.22 (compatible; MSIE 2.0; Windows 3.1)	Browser	Internet Explorer	2.0	Windows	Windows 3.1		
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
-"Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko"	Browser	Internet Explorer	11.0	Windows	Windows NT		
-Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0	Browser	Internet Explorer	10.6	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)	Browser	Internet Explorer	10.0	Windows	Windows NT		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)	Browser	Internet Explorer	10.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_7_3; Trident/6.0)	Browser	Internet Explorer	10.0	Macintosh	OS X		10_7_3
-Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)	Browser	Internet Explorer	8.0	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
-Mozilla/1.22 (compatible; MSIE 10.0; Windows 3.1)	Browser	Internet Explorer	10.0	Windows	Windows 3.1		
-Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))	Browser	Internet Explorer	9.0	Windows	Windows NT		
-Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)	Browser	Internet Explorer	9.0	Windows	Windows NT		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)	Browser	Internet Explorer	9.0	Windows	Windows NT		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; InfoPath.3; MS-RTC LM 8; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; yie8)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; .NET4.0C; Tablet PC 2.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/13.0.782.215)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/11.0.696.57)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0) chromeframe/10.0.648.205	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)	Browser	Internet Explorer	9.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)	Browser	Internet Explorer	9.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.1.76908; WOW64; en-US)	Browser	Internet Explorer	9.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.2; SV1; .NET CLR 3.3.69573; WOW64; en-US)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	8.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.8.36217; WOW64; en-US)	Browser	Internet Explorer	8.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; .NET CLR 2.7.58687; SLCC2; Media Center PC 5.0; Zune 3.4; Tablet PC 3.6; InfoPath.3)	Browser	Internet Explorer	8.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; Media Center PC 4.0; SLCC1; .NET CLR 3.0.04320)	Browser	Internet Explorer	8.0	Windows	Windows Server 2003		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; SLCC1; .NET CLR 1.1.4322)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	8.0	Windows	Windows 2000		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.0; FBSMTWB; .NET CLR 2.0.34861; .NET CLR 3.0.3746.3218; .NET CLR 3.5.33652; msn OptimizedIE8;ENUS)	Browser	Internet Explorer	7.0	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)	Browser	Internet Explorer	8.0	Windows	Windows 8		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.3; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MS-RTC LM 8)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)	Browser	Internet Explorer	5.5	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT5)	Browser	Internet Explorer	5.5	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 5.5;)	Browser	Internet Explorer	5.5	unknown	unknown		
+Mozilla/4.0 (compatible; MSIE 5.5b1; Mac_PowerPC)	Browser	Internet Explorer	5.5b1	Macintosh	Macintosh		
+Mozilla/4.0 (compatible; MSIE 6.01; Windows NT 6.0)	Browser	Internet Explorer	6.01	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0)	Browser	Internet Explorer	6.0	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705)	Browser	Internet Explorer	6.0	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; OfficeLiveConnector.1.5; OfficeLivePatch.1.3)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProducts; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProducts; SV1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; (R1 1.5))	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 1.0.3705)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98)	Browser	Internet Explorer	6.0b	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98; Win 9x 4.90)	Browser	Internet Explorer	6.0b	Windows	Windows Me		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98; YComp 5.0.0.0)	Browser	Internet Explorer	6.0b	Windows	Windows 98		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0)	Browser	Internet Explorer	6.0b	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0; .NET CLR 1.0.2914)	Browser	Internet Explorer	6.0b	Windows	Windows NT		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; .NET CLR 1.0.3705)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.0.0)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.0.0) (Compatible; ; ; Trident/4.0)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.2.6)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)	Browser	Internet Explorer	6.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1; DigExt)	Browser	Internet Explorer	6.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.1; Windows XP)	Browser	Internet Explorer	6.1	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 6.1; Windows XP; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.1	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; ?I쳌[?v??6)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2)	Browser	Internet Explorer	7.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; InfoPath.2)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; .NET CLR 1.1.4322)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; InfoPath.2)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; chromeframe/12.0.742.100)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; .NET4.0C; .NET4.0E; InfoPath.3)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; SLCC2; .NET CLR 2.0.50727; InfoPath.3; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MS-RTC LM 8)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)	Browser	Internet Explorer	7.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/6.0; .NET4.0E; .NET4.0C)	Browser	Internet Explorer	7.0	Windows	Windows 8		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.0.3705; Media Center PC 3.1; Alexa Toolbar; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.40607)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; Alexa Toolbar)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; Alexa Toolbar; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; FDM; .NET CLR 1.1.4322)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; Media Center PC 3.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	7.0b	Windows	Windows Server 2003		
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)	Browser	Internet Explorer	7.0b	Windows	Windows Vista		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	Browser	Internet Explorer	8.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	Browser	Internet Explorer	8.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.5; QQDownload 534; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC2; .NET CLR 2.0.50727; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729)	Browser	Internet Explorer	8.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; InfoPath.3; Tablet PC 2.0)	Browser	Internet Explorer	8.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; InfoPath.3; .NET4.0C; .NET4.0E) chromeframe/8.0.552.224	Browser	Internet Explorer	8.0	Windows	Windows 7		
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 3.0)	Browser	Internet Explorer	8.0	Windows	Windows 7		
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; msn OptimizedIE8;ZHCN)	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; InfoPath.3; .NET4.0C; .NET4.0E) chromeframe/8.0.552.224	Browser	Internet Explorer	8.0	Windows	Windows 7		
-Mozilla/4.0(compatible; MSIE 7.0b; Windows NT 6.0)	Browser	Internet Explorer	7.0b	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)	Browser	Internet Explorer	7.0b	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	7.0b	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; Media Center PC 3.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; FDM; .NET CLR 1.1.4322)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; Alexa Toolbar; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; Alexa Toolbar)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.40607)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.0.3705; Media Center PC 3.1; Alexa Toolbar; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0b	Windows	Windows XP		
-Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; el-GR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 5.2)	Browser	Internet Explorer	7.0	Windows	Windows Server 2003		
-Mozilla/5.0 (MSIE 7.0; Macintosh; U; SunOS; X11; gu; SV1; InfoPath.2; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	Browser	Internet Explorer	7.0	SunOS	SunOS		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; c .NET CLR 3.0.04506; .NET CLR 3.5.30707; InfoPath.1; el-GR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; c .NET CLR 3.0.04506; .NET CLR 3.5.30707; InfoPath.1; el-GR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; fr-FR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; en-US)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; WOW64; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0	Windows	Windows Server 2003		
-Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; SpamBlockerUtility 6.3.91; SpamBlockerUtility 6.2.91; .NET CLR 4.1.89;GB)	Browser	Internet Explorer	7.0	Windows	Windows 98		
-Mozilla/4.79 [en] (compatible; MSIE 7.0; Windows NT 5.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	Browser	Internet Explorer	7.0	Windows	Windows 2000		
-Mozilla/4.0 (Windows; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0	Windows	Windows XP		
-Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	7.0	Windows	Windows XP		
-Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1)	Browser	Internet Explorer	7.0	Windows	Windows XP		
-Mozilla/4.0 (compatible;MSIE 7.0;Windows NT 6.0)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/6.0; .NET4.0E; .NET4.0C)	Browser	Internet Explorer	7.0	Windows	Windows 8		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; SLCC2; .NET CLR 2.0.50727; InfoPath.3; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MS-RTC LM 8)	Browser	Internet Explorer	7.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; .NET4.0C; .NET4.0E; InfoPath.3)	Browser	Internet Explorer	7.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	7.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; chromeframe/12.0.742.100)	Browser	Internet Explorer	7.0	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 6.1; Windows XP; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.1	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.1; Windows XP)	Browser	Internet Explorer	6.1	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.01; Windows NT 6.0)	Browser	Internet Explorer	6.01	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1; DigExt)	Browser	Internet Explorer	6.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)	Browser	Internet Explorer	6.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.2.6)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.0.0) (Compatible; ; ; Trident/4.0)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.0.0)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0; .NET CLR 1.0.2914)	Browser	Internet Explorer	6.0b	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0)	Browser	Internet Explorer	6.0b	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98; YComp 5.0.0.0)	Browser	Internet Explorer	6.0b	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98; Win 9x 4.90)	Browser	Internet Explorer	6.0b	Windows	Windows Me		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98)	Browser	Internet Explorer	6.0b	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)	Browser	Internet Explorer	6.0b	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; .NET CLR 1.0.3705)	Browser	Internet Explorer	6.0b	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0)	Browser	Internet Explorer	6.0b	Windows	Windows NT		
-Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4325)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/45.0 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.08 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.01 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (X11; MSIE 6.0; i686; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM)	Browser	Internet Explorer	6.0	unknown	unknown		
-Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 6.0)	Browser	Internet Explorer	6.0	Windows	Windows Vista		
-Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.2)	Browser	Internet Explorer	6.0	Windows	Windows Server 2003		
-Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.0)	Browser	Internet Explorer	6.0	Windows	Windows 2000		
-Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (MSIE 6.0; Windows NT 5.0)	Browser	Internet Explorer	6.0	Windows	Windows 2000		
-Mozilla/4.0 (compatible;MSIE 6.0;Windows 98;Q312461)	Browser	Internet Explorer	6.0	Windows	Windows 98		
-Mozilla/4.0 (Compatible; Windows NT 5.1; MSIE 6.0) (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; U; MSIE 6.0; Windows NT 5.1) (Compatible; ; ; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.2)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; InfoPath.3; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MS-RTC LM 8)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)	Browser	Internet Explorer	8.0	Windows	Windows 8		
 Mozilla/4.0 (compatible; U; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; InfoPath.3; Tablet PC 2.0)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.5; QQDownload 534; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC2; .NET CLR 2.0.50727; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729)	Browser	Internet Explorer	8.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 5.5b1; Mac_PowerPC)	Browser	Internet Explorer	5.5b1	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.9; SiteCoach 1.0)	Browser	Internet Explorer	5.50	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.8; SiteCoach 1.0)	Browser	Internet Explorer	5.50	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.8)	Browser	Internet Explorer	5.50	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.50; Windows 98; SiteKiosk 4.8)	Browser	Internet Explorer	5.50	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.50; Windows 95; SiteKiosk 4.8)	Browser	Internet Explorer	5.50	Windows	Windows 95		
+Mozilla/4.0 (compatible; U; MSIE 6.0; Windows NT 5.1) (Compatible; ; ; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	6.0	Windows	Windows XP		
 Mozilla/4.0 (compatible;MSIE 5.5; Windows 98)	Browser	Internet Explorer	5.5	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 5.5;)	Browser	Internet Explorer	5.5	unknown	unknown		
-Mozilla/4.0 (Compatible; MSIE 5.5; Windows NT5.0; Q312461; SV1; .NET CLR 1.1.4322; InfoPath.2)	Browser	Internet Explorer	5.5	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT5)	Browser	Internet Explorer	5.5	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)	Browser	Internet Explorer	5.5	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	5.5	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.1; chromeframe/12.0.742.100; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)	Browser	Internet Explorer	5.5	Windows	Windows 7		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	Browser	Internet Explorer	5.5	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.5)	Browser	Internet Explorer	5.5	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; FDM)	Browser	Internet Explorer	5.5	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322) (Compatible; ; ; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.5	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.2; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.5	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	Browser	Internet Explorer	5.5	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	Browser	Internet Explorer	5.5	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC)	Browser	Internet Explorer	5.23	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.22; Mac_PowerPC)	Browser	Internet Explorer	5.22	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.21; Mac_PowerPC)	Browser	Internet Explorer	5.21	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.2; Mac_PowerPC)	Browser	Internet Explorer	5.2	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.2; Mac_PowerPC)	Browser	Internet Explorer	5.2	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC)	Browser	Internet Explorer	5.17	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC Mac OS; en)	Browser	Internet Explorer	5.17	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.16; Mac_PowerPC)	Browser	Internet Explorer	5.16	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.16; Mac_PowerPC)	Browser	Internet Explorer	5.16	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.15; Mac_PowerPC)	Browser	Internet Explorer	5.15	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.15; Mac_PowerPC)	Browser	Internet Explorer	5.15	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.14; Mac_PowerPC)	Browser	Internet Explorer	5.14	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.13; Mac_PowerPC)	Browser	Internet Explorer	5.13	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.12; Mac_PowerPC)	Browser	Internet Explorer	5.12	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.12; Mac_PowerPC)	Browser	Internet Explorer	5.12	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.05; Windows NT 4.0)	Browser	Internet Explorer	5.05	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.05; Windows NT 3.51)	Browser	Internet Explorer	5.05	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.05; Windows 98; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.05	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; YComp 5.0.0.0)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; Hotbar 4.1.8.0)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; DigExt)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; .NET CLR 1.0.3705)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT)	Browser	Internet Explorer	5.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; MSIECrawler)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; Hotbar 4.2.8.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; Hotbar 3.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.4)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.0.0; Hotbar 4.1.8.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.0.0)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.6)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.3; Wanadoo 5.5)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.1)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; SV1; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; SV1)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Q312461; T312461)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Q312461)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; MSIECrawler)	Browser	Internet Explorer	5.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.0b1; Mac_PowerPC)	Browser	Internet Explorer	5.0b1	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 5.00; Windows 98)	Browser	Internet Explorer	5.00	Windows	Windows 98		
-Mozilla/4.0(compatible; MSIE 5.0; Windows 98; DigExt)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT;)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.2.6)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.2.5)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.0.0)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; Hotbar 4.1.8.0)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; Hotbar 3.0)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; .NET CLR 1.0.3705)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.0.04506.648; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	5.0	Windows	Windows Vista		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.9; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.2; .NET CLR 1.1.4322)	Browser	Internet Explorer	5.0	Windows	Windows Server 2003		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.0)	Browser	Internet Explorer	5.0	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98;)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; YComp 5.0.2.4)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; Hotbar 3.0)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 5.0.2.6; yplus 1.0)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 5.0.2.6)	Browser	Internet Explorer	5.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.5; Windows NT 5.1; .NET CLR 2.0.40607)	Browser	Internet Explorer	4.5	Windows	Windows XP		
-Mozilla/4.0 (compatible; MSIE 4.5; Windows 98; )	Browser	Internet Explorer	4.5	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.5; Mac_PowerPC)	Browser	Internet Explorer	4.5	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 4.5; Mac_PowerPC)	Browser	Internet Explorer	4.5	Macintosh	Macintosh		
+Mozilla/4.0 (compatible;MSIE 6.0;Windows 98;Q312461)	Browser	Internet Explorer	6.0	Windows	Windows 98		
+Mozilla/4.0 (compatible;MSIE 7.0;Windows NT 6.0)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
 Mozilla/4.0 PPC (compatible; MSIE 4.01; Windows CE; PPC; 240x320; Sprint:PPC-6700; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)	Browser	Internet Explorer	4.01	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows NT 5.0)	Browser	Internet Explorer	4.01	Windows	Windows 2000		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint;PPC-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint; SCH-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip830w; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip320; Smartphone; 176x220)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SCH-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SCH-i320; Smartphone; 176x220)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:PPC-i830; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Smartphone; 176x220)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; Sprint:PPC-6700; PPC; 240x320)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; PPC)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE)	Browser	Internet Explorer	4.01	Windows	Windows CE		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; Hotbar 3.0)	Browser	Internet Explorer	4.01	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; DigExt)	Browser	Internet Explorer	4.01	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)	Browser	Internet Explorer	4.01	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)	Browser	Internet Explorer	4.01	Windows	Windows 95		
-Mozilla/4.0 (compatible; MSIE 4.01; Mac_PowerPC)	Browser	Internet Explorer	4.01	Macintosh	Macintosh		
-Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)	Browser	Internet Explorer	4.0	Windows	Windows NT		
-Mozilla/4.0 (compatible; MSIE 4.0; Windows 98 )	Browser	Internet Explorer	4.0	Windows	Windows 98		
-Mozilla/4.0 (compatible; MSIE 4.0; Windows 95; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	4.0	Windows	Windows 95		
-Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)	Browser	Internet Explorer	4.0	Windows	Windows 95		
-Mozilla/4.0 (Compatible; MSIE 4.0)	Browser	Internet Explorer	4.0	unknown	unknown		
-Mozilla/2.0 (compatible; MSIE 4.0; Windows 98)	Browser	Internet Explorer	4.0	Windows	Windows 98		
-Mozilla/2.0 (compatible; MSIE 3.03; Windows 3.1)	Browser	Internet Explorer	3.03	Windows	Windows 3.1		
-Mozilla/2.0 (compatible; MSIE 3.02; Windows 3.1)	Browser	Internet Explorer	3.02	Windows	Windows 3.1		
-Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)	Browser	Internet Explorer	3.01	Windows	Windows 95		
-Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)	Browser	Internet Explorer	3.01	Windows	Windows 95		
-Mozilla/2.0 (compatible; MSIE 3.0B; Windows NT)	Browser	Internet Explorer	3.0B	Windows	Windows NT		
-Mozilla/3.0 (compatible; MSIE 3.0; Windows NT 5.0)	Browser	Internet Explorer	3.0	Windows	Windows 2000		
-Mozilla/2.0 (compatible; MSIE 3.0; Windows 95)	Browser	Internet Explorer	3.0	Windows	Windows 95		
-Mozilla/2.0 (compatible; MSIE 3.0; Windows 3.1)	Browser	Internet Explorer	3.0	Windows	Windows 3.1		
-Mozilla/4.0 (compatible; MSIE 2.0; Windows NT 5.0; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)	Browser	Internet Explorer	2.0	Windows	Windows 2000		
-Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)	Browser	Internet Explorer	2.0	Windows	Windows 95		
-Mozilla/1.22 (compatible; MSIE 2.0; Windows 3.1)	Browser	Internet Explorer	2.0	Windows	Windows 3.1		
+Mozilla/4.0(compatible; MSIE 5.0; Windows 98; DigExt)	Browser	Internet Explorer	5.0	Windows	Windows 98		
+Mozilla/4.0(compatible; MSIE 7.0b; Windows NT 6.0)	Browser	Internet Explorer	7.0b	Windows	Windows Vista		
+Mozilla/4.01 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.08 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/4.79 [en] (compatible; MSIE 7.0; Windows NT 5.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	Browser	Internet Explorer	7.0	Windows	Windows 2000		
+Mozilla/45.0 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/5.0 (MSIE 7.0; Macintosh; U; SunOS; X11; gu; SV1; InfoPath.2; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	Browser	Internet Explorer	7.0	SunOS	SunOS		
+Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 10		
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 10		
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 10		
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 10		
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCJB; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 10		
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Tablet PC 2.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 10		
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Tablet PC 2.0; wbx 1.0.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 10		
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 10		
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 10		
+Mozilla/5.0 (Windows NT 5.1; WOW64; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows XP		
+Mozilla/5.0 (Windows NT 6.0; WOW64; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows Vista		
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MAMD; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MAARJS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MALC; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MASBJS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MDDRJS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; yie11; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 7		
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 8		
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows 8		
+Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; LCJB; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASBJS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASEJS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASMJS; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; TNJB; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko	Browser	Internet Explorer	11.0	Windows	Windows NT		
+Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 5.2)	Browser	Internet Explorer	7.0	Windows	Windows Server 2003		
+Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; el-GR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))	Browser	Internet Explorer	9.0	Windows	Windows NT		
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)	Browser	Internet Explorer	9.0	Windows	Windows NT		
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_7_3; Trident/6.0)	Browser	Internet Explorer	10.0	Macintosh	OS X		10_7_3
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)	Browser	Internet Explorer	10.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)	Browser	Internet Explorer	10.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2)	Browser	Internet Explorer	10.0	Windows	Windows 8		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)	Browser	Internet Explorer	10.0	Windows	Windows 8		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	Browser	Internet Explorer	10.0	Windows	Windows 8		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; ASU2JS)	Browser	Internet Explorer	10.0	Windows	Windows 8		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MALNJS)	Browser	Internet Explorer	10.0	Windows	Windows 8		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MASMJS)	Browser	Internet Explorer	10.0	Windows	Windows 8		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MDDCJS)	Browser	Internet Explorer	10.0	Windows	Windows 8		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)	Browser	Internet Explorer	10.0	Windows	Windows 8		
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)	Browser	Internet Explorer	10.0	Windows	Windows NT		
+Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0	Browser	Internet Explorer	10.6	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4325)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)	Browser	Internet Explorer	6.0	Windows	Windows XP		
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; SpamBlockerUtility 6.3.91; SpamBlockerUtility 6.2.91; .NET CLR 4.1.89;GB)	Browser	Internet Explorer	7.0	Windows	Windows 98		
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.0; FBSMTWB; .NET CLR 2.0.34861; .NET CLR 3.0.3746.3218; .NET CLR 3.5.33652; msn OptimizedIE8;ENUS)	Browser	Internet Explorer	7.0	Windows	Windows 2000		
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; WOW64; .NET CLR 2.0.50727)	Browser	Internet Explorer	7.0	Windows	Windows Server 2003		
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; c .NET CLR 3.0.04506; .NET CLR 3.5.30707; InfoPath.1; el-GR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; c .NET CLR 3.0.04506; .NET CLR 3.5.30707; InfoPath.1; el-GR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; en-US)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; fr-FR)	Browser	Internet Explorer	7.0	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 3.0.04506.30)	Browser	Internet Explorer	8.0	Windows	Windows 2000		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; SLCC1; .NET CLR 1.1.4322)	Browser	Internet Explorer	8.0	Windows	Windows XP		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	Browser	Internet Explorer	8.0	Windows	Windows XP		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)	Browser	Internet Explorer	8.0	Windows	Windows XP		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)	Browser	Internet Explorer	8.0	Windows	Windows XP		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; Media Center PC 4.0; SLCC1; .NET CLR 3.0.04320)	Browser	Internet Explorer	8.0	Windows	Windows Server 2003		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; .NET CLR 2.7.58687; SLCC2; Media Center PC 5.0; Zune 3.4; Tablet PC 3.6; InfoPath.3)	Browser	Internet Explorer	8.0	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.8.36217; WOW64; en-US)	Browser	Internet Explorer	8.0	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)	Browser	Internet Explorer	8.0	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.2; SV1; .NET CLR 3.3.69573; WOW64; en-US)	Browser	Internet Explorer	8.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.1.76908; WOW64; en-US)	Browser	Internet Explorer	9.0	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)	Browser	Internet Explorer	9.0	Windows	Windows Vista		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0) chromeframe/10.0.648.205	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; .NET4.0C; Tablet PC 2.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/11.0.696.57)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/13.0.782.215)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; yie8)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; InfoPath.3; MS-RTC LM 8; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)	Browser	Internet Explorer	9.0	Windows	Windows 7		
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)	Browser	Internet Explorer	9.0	Windows	Windows NT		
