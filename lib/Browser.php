@@ -1,25 +1,30 @@
 <?php
-
 /**
  * File: Browser.php
  * Author: Chris Schuld (http://chrisschuld.com/)
- * Last Modified: July 9th, 2019
+ * Last Modified: December 17, 2019
  * @version 1.9.4
- * @package PegasusPHP
  *
- * Copyright (C) 2008-2019 Chris Schuld  (chris@chrisschuld.com)
- *
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License as
- * published by the Free Software Foundation; either version 2 of
- * the License, or (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details at:
- * http://www.gnu.org/copyleft/gpl.html
- *
+ * Copyright 2019 Chris Schuld
+ * 
+ * Permission is hereby granted, free of charge, to any person obtaining a
+ * copy of this software and associated documentation files (the "Software"),
+ * to deal in the Software without restriction, including without
+ * limitation the rights to use, copy, modify, merge, publish, distribute,
+ * sublicense, and/or sell copies of the Software, and to permit persons to
+ * whom the Software is furnished to do so, subject to the following
+ * conditions:
+ * 
+ * The above copyright notice and this permission notice shall be included
+ * in all copies or substantial portions of the Software.
+ * 
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+ * OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+ * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+ * CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+ * TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  *
  * Typical Usage:
  *
@@ -492,8 +497,7 @@ class Browser
             $this->checkBrowserPlayStation() ||
             $this->checkBrowserIframely() ||
             $this->checkBrowserCocoa() ||
-            $this->checkBrowserMozilla() /* Mozilla is such an open standard that you must check it last */
-        );
+            $this->checkBrowserMozilla() /* Mozilla is such an open standard that you must check it last */);
     }
 
     /**
@@ -886,8 +890,7 @@ class Browser
                 $this->setBrowser(self::BROWSER_BRAVE);
                 return true;
             }
-        }
-        elseif (stripos($this->_agent, ' Brave ') !== false) {
+        } elseif (stripos($this->_agent, ' Brave ') !== false) {
             $this->setBrowser(self::BROWSER_BRAVE);
             // this version of the UA did not ship with a version marker
             // e.g. Mozilla/5.0 (Linux; Android 7.0; SM-G955F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/68.0.3440.91 Mobile Safari/537.36
@@ -953,7 +956,7 @@ class Browser
             if (isset($aresult[1])) {
                 $this->setBrowser(self::BROWSER_IE);
                 $this->setVersion(str_replace(array('(', ')', ';'), '', $aresult[1]));
-                if(stripos($this->_agent, 'IEMobile') !== false) {
+                if (stripos($this->_agent, 'IEMobile') !== false) {
                     $this->setBrowser(self::BROWSER_POCKET_IE);
                     $this->setMobile(true);
                 }
@@ -1311,8 +1314,8 @@ class Browser
      */
     protected function checkBrowserUCBrowser()
     {
-        if (preg_match('/UC ?Browser\/?([\d\.]+)/', $this->_agent, $matches )) {
-            if(isset($matches[1])) {
+        if (preg_match('/UC ?Browser\/?([\d\.]+)/', $this->_agent, $matches)) {
+            if (isset($matches[1])) {
                 $this->setVersion($matches[1]);
             }
             if (stripos($this->_agent, 'Mobile') !== false) {
@@ -1354,7 +1357,7 @@ class Browser
                 $this->setBrowser(self::BROWSER_FIREFOX);
                 return true;
             }
-        } elseif ( preg_match("/FxiOS[\/ \(]([^ ;\)]+)/i", $this->_agent, $matches) ) {
+        } elseif (preg_match("/FxiOS[\/ \(]([^ ;\)]+)/i", $this->_agent, $matches)) {
             $this->setVersion($matches[1]);
             $this->setBrowser(self::BROWSER_FIREFOX);
             //Firefox on Android
@@ -1453,7 +1456,8 @@ class Browser
      */
     protected function checkBrowserSafari()
     {
-        if (stripos($this->_agent, 'Safari') !== false
+        if (
+            stripos($this->_agent, 'Safari') !== false
             && stripos($this->_agent, 'iPhone') === false
             && stripos($this->_agent, 'iPod') === false
         ) {
@@ -1608,7 +1612,6 @@ class Browser
             $this->checkForFacebookIos();
             $this->setMobile(true);
             return true;
-
         }
         return false;
     }
@@ -1745,10 +1748,9 @@ class Browser
      * Determine if the browser is Wget or not (last updated 1.7)
      * @return boolean True if the browser is Wget otherwise false
      */
-    protected function checkBrowserWget ()
+    protected function checkBrowserWget()
     {
-        if (preg_match("!^Wget/([^ ]+)!i", $this->_agent, $aresult))
-        {
+        if (preg_match("!^Wget/([^ ]+)!i", $this->_agent, $aresult)) {
             $this->setVersion($aresult[1]);
             $this->setBrowser(self::BROWSER_WGET);
             return true;
@@ -1759,10 +1761,9 @@ class Browser
      * Determine if the browser is cURL or not (last updated 1.7)
      * @return boolean True if the browser is cURL otherwise false
      */
-    protected function checkBrowserCurl ()
+    protected function checkBrowserCurl()
     {
-        if (strpos($this->_agent, 'curl') === 0)
-        {
+        if (strpos($this->_agent, 'curl') === 0) {
             $aresult = explode('/', stristr($this->_agent, 'curl'));
             if (isset($aresult[1])) {
                 $aversion = explode(' ', $aresult[1]);
@@ -1793,8 +1794,8 @@ class Browser
             $this->_platform = self::PLATFORM_ANDROID;
         } elseif (stripos($this->_agent, 'Silk') !== false) {
             $this->_platform = self::PLATFORM_FIRE_OS;
-        } elseif (stripos($this->_agent, 'linux') !== false && stripos($this->_agent, 'SMART-TV') !== false ) {
-            $this->_platform = self::PLATFORM_LINUX .'/'.self::PLATFORM_SMART_TV;
+        } elseif (stripos($this->_agent, 'linux') !== false && stripos($this->_agent, 'SMART-TV') !== false) {
+            $this->_platform = self::PLATFORM_LINUX . '/' . self::PLATFORM_SMART_TV;
         } elseif (stripos($this->_agent, 'linux') !== false) {
             $this->_platform = self::PLATFORM_LINUX;
         } else if (stripos($this->_agent, 'Nokia') !== false) {
