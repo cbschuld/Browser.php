@@ -1,6 +1,6 @@
 language: php
 
-dist: precise
+dist: trusty
 
 php:
   - 7.4
