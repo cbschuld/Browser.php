@@ -906,7 +906,7 @@ class Browser
      */
     protected function checkBrowserEdge()
     {
-        if ($name = (stripos($this->_agent, 'Edge/') !== false ? 'Edge' : (stripos($this->_agent, 'Edg/') !== false ? 'Edg' : false))) {
+        if ($name = (stripos($this->_agent, 'Edge/') !== false ? 'Edge' : ((stripos($this->_agent, 'Edg/') !== false || stripos($this->_agent, 'EdgA/') !== false) ? 'Edg' : false))) {
             $aresult = explode('/', stristr($this->_agent, $name));
             if (isset($aresult[1])) {
                 $aversion = explode(' ', $aresult[1]);
