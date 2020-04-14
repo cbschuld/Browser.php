@@ -1,6 +1,6 @@
 {
     "name": "cbschuld/browser.php",
-    "description": "A PHP Class to detect a user's Browser",
+    "description": "A PHP Class to detect a user's Browser.  This encapsulation provides a breakdown of the browser and the version of the browser using the browser's user-agent string.  This is not a guaranteed solution but provides an overall accurate way to detect what browser a user is using.",
     "keywords": [
         "browser",
         "user agent",
@@ -12,11 +12,11 @@
         {
             "name": "Chris Schuld",
             "email": "chris@chrisschuld.com",
-            "homepage": "http://chrisschuld.com"
+            "homepage": "https://chrisschuld.com"
         }
     ],
     "autoload": {
-        "classmap": ["lib/Browser.php"]
+        "classmap": ["src/Browser.php"]
     },
     "require": {
         "php": ">=7.2"
