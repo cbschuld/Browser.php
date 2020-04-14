@@ -2,8 +2,8 @@
 /**
  * File: Browser.php
  * Author: Chris Schuld (http://chrisschuld.com/)
- * Last Modified: December 17, 2019
- * @version 1.9.4
+ * Last Modified: April 14th, 2020
+ * @version 1.9.6
  *
  * Copyright 2019 Chris Schuld
  * 
