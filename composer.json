@@ -19,7 +19,7 @@
         "classmap": ["src/Browser.php"]
     },
     "require": {
-        "php": ">=7.2"
+        "php": ">=5.4"
     },
     "extra": {
         "branch-alias": {
