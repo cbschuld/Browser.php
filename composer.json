@@ -16,7 +16,9 @@
         }
     ],
     "autoload": {
-        "classmap": ["src/Browser.php"]
+        "files": [
+            "src/Browser.php"
+        ]
     },
     "require": {
         "php": ">=7.2"
