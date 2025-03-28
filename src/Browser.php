@@ -1,4 +1,7 @@
 <?php
+
+use JetBrains\PhpStorm\ExpectedValues;
+
 /**
  * File: Browser.php
  * Author: Chris Schuld (http://chrisschuld.com/)
@@ -1837,5 +1840,27 @@ class Browser
         } elseif (stripos($this->_agent, 'Iframely') !== false) {
             $this->_platform = self::PLATFORM_I_FRAME;
         }
+    }
+
+
+    /***
+     * @param string $value
+     * @return bool
+     * <code>
+     * <?php
+     *   if(Browser::is(Browser::BROWSER_CHROME))
+     *   {
+     *       echo 'the browser is CHROME';
+     *   }
+     * ?>
+     * </code>
+     */
+    public static function is(#[ExpectedValues(valuesFromClass:Browser::class)]string $value):bool
+    {
+        static $browser;
+        if (!$browser) {
+            $browser = new static();
+        }
+        return $browser->getBrowser()===$value;
     }
 }
