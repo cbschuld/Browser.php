@@ -4,6 +4,7 @@ declare(strict_types=1);
 // originally created by - @willemstuursma - https://github.com/willemstuursma
 
 use PHPUnit\Framework\TestCase;
+use cbschuld\Browser;
 
 require_once dirname(__FILE__)."/TabDelimitedFileIterator.php";
 

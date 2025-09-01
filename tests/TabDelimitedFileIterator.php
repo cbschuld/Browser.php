@@ -1,11 +1,13 @@
 <?php
+declare(strict_types=1);
+
 use PHPUnit\Framework\TestCase;
 
 class TabDelimitedFileIterator implements Iterator
 {
     protected $file;
-    protected $key = 0;
-    protected $current;
+    protected int $key = 0;
+    protected mixed $current;
 
     public function __construct($file)
     {
@@ -17,31 +19,31 @@ class TabDelimitedFileIterator implements Iterator
         fclose($this->file);
     }
 
-    public function rewind()
+    public function rewind(): void
     {
         rewind($this->file);
-        $this->current = fgetcsv($this->file,0,"\t");
+        $this->current = fgetcsv($this->file, 0, "\t", '"', "\\");
         $this->key = 0;
     }
 
-    public function valid()
+    public function valid(): bool
     {
         return !feof($this->file);
     }
 
-    public function key()
+    public function key(): mixed
     {
         return $this->key;
     }
 
-    public function current()
+    public function current(): mixed
     {
         return $this->current;
     }
 
-    public function next()
+    public function next(): void
     {
-        $this->current = fgetcsv($this->file,0,"\t");
+        $this->current = fgetcsv($this->file, 0, "\t", '"', "\\");
         $this->key++;
     }
 }

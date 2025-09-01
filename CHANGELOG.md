@@ -7,6 +7,36 @@ changes when it socially makes sense.
 
 ## [Unreleased]
 
+## [2.0.0] - 2025-08-31
+### Added
+- PSR-4 autoloading with `cbschuld` namespace
+- Return type declarations on key methods (setVersion, checkBrowserEdge, etc.)
+- `compareVersion()` method for PHP 8+ compatible version comparisons
+- Enhanced Edge browser detection (supports Edge/, Edg/, EdgA/, EdgiOS/ patterns)
+- Root-level Browser.php shim for non-Composer backward compatibility
+- GitHub Actions CI pipeline (replaces Travis CI)
+- Support metadata in composer.json
+- Comprehensive upgrade documentation (UPGRADING.md)
+
+### Changed
+- **BREAKING**: Minimum PHP version is now 8.0 (was 7.2)
+- **BREAKING**: Added return type declarations to key methods (may affect extenders)
+- **BREAKING**: Class is now namespaced as `cbschuld\Browser`
+- Updated PHPUnit to 9.6 for broad PHP 8.x compatibility
+- Updated phpunit.xml.dist to PHPUnit 9.6 schema
+- Fixed fgetcsv escape parameter for PHP 8.1+ compatibility
+- Removed composer.lock from repository (library best practice)
+
+### Removed
+- Support for PHP 7.x
+- Travis CI configuration (.travis.yml)
+- Composer branch alias
+
+### Migration
+- See UPGRADING.md for detailed migration instructions
+- Backward compatibility maintained via automatic class aliasing
+- Non-Composer users can still use direct includes
+
 ## [1.9.4] - 2019-07-09
 ### Added
 - Added better support for Firefox Mobile

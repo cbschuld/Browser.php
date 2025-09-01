@@ -16,17 +16,19 @@
         }
     ],
     "autoload": {
-        "classmap": ["src/Browser.php"]
+        "psr-4": {
+            "cbschuld\\": "src/"
+        },
+        "files": ["legacy/Browser.php"]
     },
     "require": {
-        "php": ">=7.2"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.9.x-dev"
-        }
+        "php": ">=8.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8"
+        "phpunit/phpunit": "^9.6"
+    },
+    "support": {
+        "issues": "https://github.com/cbschuld/Browser.php/issues",
+        "source": "https://github.com/cbschuld/Browser.php"
     }
 }
