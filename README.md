@@ -1,27 +1,69 @@
 # cbschuld/browser.php
 
-[![Build Status](https://travis-ci.org/cbschuld/Browser.php.png?branch=master)](https://travis-ci.org/cbschuld/Browser.php)
+[![Tests](https://github.com/cbschuld/Browser.php/actions/workflows/tests.yml/badge.svg)](https://github.com/cbschuld/Browser.php/actions/workflows/tests.yml)
 
 Helps detect the user's browser and platform at the PHP level via the user agent
 
 
 ## Installation
 
-You can add this library as a local, per-project dependency to your project using [Composer](https://getcomposer.org/):
+### Via Composer (Recommended)
 
-    composer require cbschuld/browser.php
+```bash
+composer require cbschuld/browser.php
+```
 
-If you only need this library during development, for instance to run your project's test suite, then you should add it as a development-time dependency:
+For development only:
+```bash
+composer require --dev cbschuld/browser.php
+```
 
-    composer require --dev cbschuld/browser.php
+### Direct Download
 
+Download `Browser.php` and include it in your project:
+```php
+require_once 'Browser.php';
+```
 
-## Typical Usage:
+## Usage
+
+### Modern Usage (v2.0+, Recommended)
 
 ```php
+use cbschuld\Browser;
+
 $browser = new Browser();
-if( $browser->getBrowser() == Browser::BROWSER_FIREFOX && $browser->getVersion() >=10 ) {
-	echo 'You have FireFox version 10 or greater';
+if ($browser->getBrowser() == Browser::BROWSER_FIREFOX && $browser->compareVersion('10', '>=')) {
+    echo 'You have Firefox version 10 or greater';
+}
+```
+
+### Legacy Usage (Still Supported)
+
+```php
+// Works via automatic aliasing - no namespace needed
+$browser = new Browser();
+if ($browser->getBrowser() == Browser::BROWSER_FIREFOX && $browser->getVersion() >= 10) {
+    echo 'You have Firefox version 10 or greater';
+}
+```
+
+### Version Comparison (PHP 8+ Compatible)
+
+```php
+use cbschuld\Browser;
+
+$browser = new Browser();
+
+// Recommended approach for version comparison
+if ($browser->compareVersion('15.0', '>=')) {
+    echo 'Modern browser detected';
+}
+
+// Multiple comparisons
+if ($browser->getBrowser() == Browser::BROWSER_CHROME && 
+    $browser->compareVersion('90', '>=')) {
+    echo 'Modern Chrome detected';
 }
 ```
 
@@ -53,11 +95,11 @@ This solution identifies the following Browsers and does a best-guess on the ver
 * Playstation (`Browser::BROWSER_PLAYSTATION`)
 * iPhone (`Browser::BROWSER_IPHONE`)
 * iPod (`Browser::BROWSER_IPOD`)
-* Google.s Android(`Browser::BROWSER_ANDROID`)
-* Google.s Chrome(`Browser::BROWSER_CHROME`)
+* Google's Android(`Browser::BROWSER_ANDROID`)
+* Google's Chrome(`Browser::BROWSER_CHROME`)
 * GoogleBot(`Browser::BROWSER_GOOGLEBOT`)
-* Yahoo!.s Slurp(`Browser::BROWSER_SLURP`)
-* W3C.s Validator(`Browser::BROWSER_W3CVALIDATOR`)
+* Yahoo!'s Slurp(`Browser::BROWSER_SLURP`)
+* W3C's Validator(`Browser::BROWSER_W3CVALIDATOR`)
 * BlackBerry(`Browser::BROWSER_BLACKBERRY`)
 
 ## Operating System Detection
@@ -87,7 +129,7 @@ Detecting the user's browser type and version is helpful in web applications tha
 
 In an active project of mine we have a pretty graphically intensive and visually appealing user interface which leverages a lot of transparent PNG files. Because we all know how great IE6 supports PNG files it was necessary for us to tell our users the lack of power their browser has in a kind way.
 
-Searching for a way to do this at the PHP layer and not at the client layer was more of a challenge than I would have guessed; the only script available was written by Gary White and Gary no longer maintains this script because of reliability. I do agree 100% with Gary about the readability; however, there are realistic reasons to desire the user.s browser and browser version and if your visitor is not echoing a false user agent we can take an educated guess.
+Searching for a way to do this at the PHP layer and not at the client layer was more of a challenge than I would have guessed; the only script available was written by Gary White and Gary no longer maintains this script because of reliability. I do agree 100% with Gary about the readability; however, there are realistic reasons to desire the user's browser and browser version and if your visitor is not echoing a false user agent we can take an educated guess.
 
 I based this solution off of Gary White's original work but have since replaced all of his original code.  Either way, thank you to Gary.  Sadly, I never was able to get in touch with him regarding this solution.
 
@@ -106,7 +148,17 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.1 (KHTML, like Ge
 Tests can be run by phpunit:
 
 ```bash
-vendor/phpunit/phpunit/phpunit
+vendor/bin/phpunit
 ```
+
+## Upgrading from v1.x
+
+See [UPGRADING.md](UPGRADING.md) for detailed migration instructions.
+
+**Quick Summary:**
+- v2.0 requires PHP 8.0+
+- Class is now namespaced: `cbschuld\Browser`
+- Backward compatibility maintained via automatic aliasing
+- Use `compareVersion()` for reliable version comparisons
 
 

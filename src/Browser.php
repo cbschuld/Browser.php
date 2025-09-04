@@ -1,11 +1,13 @@
 <?php
+
+namespace cbschuld;
+
 /**
  * File: Browser.php
  * Author: Chris Schuld (http://chrisschuld.com/)
- * Last Modified: April 14th, 2020
- * @version 1.9.6
+ * @version 2.0.0
  *
- * Copyright 2019 Chris Schuld
+ * Copyright 2025 Chris Schuld
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the "Software"),
@@ -29,8 +31,8 @@
  * Typical Usage:
  *
  *   $browser = new Browser();
- *   if( $browser->getBrowser() == Browser::BROWSER_FIREFOX && $browser->getVersion() >= 2 ) {
- *    echo 'You have FireFox version 2 or greater';
+ *   if( $browser->getBrowser() == Browser::BROWSER_CHROME && $browser->compareVersion('90.0') ) {
+ *    echo 'You have Chrome version 90.0 or greater';
  *   }
  *
  * User Agents Sampled from: http://www.useragentstring.com/
@@ -243,9 +245,20 @@ class Browser
      * Set the version of the browser
      * @param string $version The version of the Browser
      */
-    public function setVersion($version)
+    public function setVersion($version): void
     {
         $this->_version = preg_replace('/[^0-9,.,a-z,A-Z-]/', '', $version);
+    }
+
+    /**
+     * Compare browser version with a target version (PHP 8+ compatible)
+     * @param string $version The version to compare against
+     * @param string $operator The comparison operator (>=, >, <, <=, ==, !=)
+     * @return bool Result of the version comparison
+     */
+    public function compareVersion(string $version, string $operator = '>='): bool
+    {
+        return version_compare($this->_version, $version, $operator);
     }
 
     /**
@@ -904,18 +917,28 @@ class Browser
      * Determine if the browser is Edge or not
      * @return boolean True if the browser is Edge otherwise false
      */
-    protected function checkBrowserEdge()
+    protected function checkBrowserEdge(): bool
     {
-        if ($name = (stripos($this->_agent, 'Edge/') !== false ? 'Edge' : ((stripos($this->_agent, 'Edg/') !== false || stripos($this->_agent, 'EdgA/') !== false) ? 'Edg' : false))) {
-            $aresult = explode('/', stristr($this->_agent, $name));
-            if (isset($aresult[1])) {
-                $aversion = explode(' ', $aresult[1]);
-                $this->setVersion($aversion[0]);
-                $this->setBrowser(self::BROWSER_EDGE);
-                if (stripos($this->_agent, 'Windows Phone') !== false || stripos($this->_agent, 'Android') !== false) {
-                    $this->setMobile(true);
+        // Check for various Edge patterns: Edge/, Edg/, EdgA/, EdgiOS/
+        $edgePatterns = ['Edge/', 'Edg/', 'EdgA/', 'EdgiOS/'];
+        
+        foreach ($edgePatterns as $pattern) {
+            if (stripos($this->_agent, $pattern) !== false) {
+                $aresult = explode('/', stristr($this->_agent, $pattern));
+                if (isset($aresult[1])) {
+                    $aversion = explode(' ', $aresult[1]);
+                    $this->setVersion($aversion[0]);
+                    $this->setBrowser(self::BROWSER_EDGE);
+                    
+                    // Set mobile flag for mobile Edge variants
+                    if (stripos($this->_agent, 'Windows Phone') !== false || 
+                        stripos($this->_agent, 'Android') !== false ||
+                        stripos($this->_agent, 'EdgA/') !== false ||
+                        stripos($this->_agent, 'EdgiOS/') !== false) {
+                        $this->setMobile(true);
+                    }
+                    return true;
                 }
-                return true;
             }
         }
         return false;
